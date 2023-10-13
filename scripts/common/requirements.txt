@@ -9,3 +9,4 @@ uuid
 xlsxwriter
 plotly
 fuzzywuzzy
+openpyxl
