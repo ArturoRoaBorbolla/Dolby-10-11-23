@@ -55,7 +55,7 @@ class _CardOptionsState extends State<CardOptions> {
             if (widget.textCard == "Update"){
               setLoading(true);
               storage.setItem('is_loading', true);
-              String pyscript = "${current_dir.path}/Data_Base/csv_to_sqlite.py";
+              String pyscript = "${current_dir.path}\\DataBase\\csv_to_sqlite.py";
               print(pyscript);
               await Process.run('python', [pyscript]).then((ProcessResult rs){
                 print(rs.stdout + rs.toString() + rs.stderr);
@@ -66,7 +66,18 @@ class _CardOptionsState extends State<CardOptions> {
                   'DataBase Updated.');              
             }
             if (widget.textCard == "Access to my database"){
-              Get.to(() => SeeTablesPage());
+              //Get.to(() => SeeTablesPage());
+              print("run sql");
+              Directory currentDir = Directory.current;
+              String path = '${currentDir.path}\\DataBase\\SQLiteDatabaseBrowserPortable\\SQLiteDatabaseBrowserPortable.exe';
+              List<String> arguments = ['${currentDir.path}\\DataBase\\Dolby.db'];
+              ProcessResult result = await Process.run(path, arguments);
+
+              if (result.exitCode == 0) {
+                print("success");
+              } else {
+                print("error");
+              }
             }
           },
         child: Column(
