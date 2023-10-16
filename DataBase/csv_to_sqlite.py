@@ -25,7 +25,10 @@ Dpt_files = os.listdir(Departments_folder)
 
 
 try:
-
+    drop_query = f'DROP TABLE IF EXISTS CR_1'
+    cursor.execute(drop_query)
+    drop_query = f'DROP TABLE IF EXISTS CR_2'
+    cursor.execute(drop_query)
     for file in CR1_files:
             tabs = pd.ExcelFile(f'{CR1_folder}\\{file}').sheet_names
             for tab in tabs:

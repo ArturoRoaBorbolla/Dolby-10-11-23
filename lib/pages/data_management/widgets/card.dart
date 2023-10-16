@@ -55,7 +55,7 @@ class _CardOptionsState extends State<CardOptions> {
             if (widget.textCard == "Update"){
               setLoading(true);
               storage.setItem('is_loading', true);
-              String pyscript = "${current_dir.path}/Data_Base/csv_to_sqlite.py";
+              String pyscript = "${current_dir.path}\\DataBase\\csv_to_sqlite.py";
               print(pyscript);
               await Process.run('python', [pyscript]).then((ProcessResult rs){
                 print(rs.stdout + rs.toString() + rs.stderr);
