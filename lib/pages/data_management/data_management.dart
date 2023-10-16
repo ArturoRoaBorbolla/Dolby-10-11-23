@@ -40,6 +40,7 @@ class _DataManagementPageState extends State<DataManagementPage> {
     }
   }
 
+
   Widget userOptions() {
     int userType = storage.getItem('type_user');
     if (userType == 3) {

@@ -55,7 +55,7 @@ class GraphicSectionState extends State<GraphicSection> {
 
   initPlatformState() async {
     List controllers = [];
-    for (int i = 0; i < 8; i++) {
+    for (int i = 0; i < 10; i++) {
       controllers.add(WebviewController());
       await controllers[i].initialize();
     }
@@ -67,7 +67,7 @@ class GraphicSectionState extends State<GraphicSection> {
     List response = await readJson(
         '${currentDir.path}/assets/json/dashboard_graphics.json');
     urls = response[1]['urls'];
-    for (int i = 0; i < 7; i++) {
+    for (int i = 0; i < 10; i++) {
       //controllers[i].loadUrl(urls[i]);
       await controllers[i].setBackgroundColor(Colors.transparent);
       await controllers[i].setPopupWindowPolicy(WebviewPopupWindowPolicy.allow);

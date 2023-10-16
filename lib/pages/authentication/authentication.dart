@@ -189,6 +189,11 @@ class _AuthenticationPageState extends State<AuthenticationPage> {
                           _alert(context, 'Failed to login',
                               'Please verify that your credentials are correct.');
                         });
+
+                        // storage.setItem('type_user', 1);
+                        // storage.setItem('username', 'admin');
+                        // storage.setItem('is_loading', false);
+                        // Get.offAll(() => SiteLayout());
                       }
                       else
                       {

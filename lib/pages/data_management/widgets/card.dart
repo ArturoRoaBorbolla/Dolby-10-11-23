@@ -66,7 +66,18 @@ class _CardOptionsState extends State<CardOptions> {
                   'DataBase Updated.');              
             }
             if (widget.textCard == "Access to my database"){
-              Get.to(() => SeeTablesPage());
+              //Get.to(() => SeeTablesPage());
+              print("run sql");
+              Directory currentDir = Directory.current;
+              String path = '${currentDir.path}\\DataBase\\SQLiteDatabaseBrowserPortable\\SQLiteDatabaseBrowserPortable.exe';
+              List<String> arguments = ['${currentDir.path}\\DataBase\\Dolby.db'];
+              ProcessResult result = await Process.run(path, arguments);
+
+              if (result.exitCode == 0) {
+                print("success");
+              } else {
+                print("error");
+              }
             }
           },
         child: Column(

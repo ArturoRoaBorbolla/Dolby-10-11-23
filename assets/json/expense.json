@@ -2,55 +2,39 @@
     "expense":[
         {
             "id": 1,
-            "name": "Travel Expenses"
+            "name": "Employee Meals & Entertainment Test"
         },
         {
             "id": 2,
-            "name": "Transportation"
+            "name": "Travel Meals Test"
         },
         {
             "id": 3,
-            "name": "Employee Meals and Entertainment"
+            "name": "Third Party Meals & Entertainment"
         },
         {
             "id": 4,
-            "name": "Third Party  Meals and Entertainment"
+            "name": "Mobile & MiFi Expense"
         },
         {
             "id": 5,
-            "name": "Government Official Expenses"
+            "name": "Government Entertainment"
         },
         {
             "id": 6,
-            "name": "Office Expenses"
+            "name": "Special Insight Trend"
         },
         {
             "id": 7,
-            "name": "Communications"
+            "name": "Out of Pocket Expenses"
         },
         {
             "id": 8,
-            "name": "Fees"
+            "name": "Misclassified Government Entertainment"
         },
         {
             "id": 9,
-            "name": "Other"
-        },
-        {
-            "id": 10,
-            "name": "Relocation/Ex-Pat"
-        },
-        {
-            "id": 11,
-            "name": "Learning and Development"
-        },
-        {
-            "id": 12,
-            "name": "Marketing Expenses"
-        },
-        {
-            "id": 13,
-            "name": "Professional Services"
+            "name": "Non-Reimbursable Expenses"
         }
     ]
 }
