@@ -1,0 +1,26 @@
+EMP_ID,Employee,Employee_Org_Unit_2___Code,Employee_Country_Code,Sum(Approved_Amount_RPT)
+205730,"Hsien, Yung Ning",3009,HK,124204.01
+302945,"Guetin, Thomas",3003,AU,89705.82
+209816,"Lee, SangHo",3015,KR,85946.56
+304623.0,"Soh, Han Chung Bernard",3012.0,SG,60786.25
+205130.0,"Xie, Yong",3007.0,CN,53081.33
+204312.0,"Shao, Weiguo",3008.0,CN,50727.0
+301248,"Kaneshige, Soichiro",3010,JP,47247.74
+200161,"Bennett, Christopher",3003,AU,47090.14
+302326,"Adams, Alanna",3003,AU,47055.75
+205463.0,"Zhang, Yi",3007.0,CN,45761.02
+303122.0,"Wong, Eng Tex",3012.0,SG,45243.14
+202804,"Dawson, Terry",3003,AU,44323.16
+201010,"Arnott, Brian",3003,AU,38332.4
+205732,"Jang, Moonbong",3015,KR,38318.96
+301679,"Li, Ang",3007,CN,37323.01
+207747.0,"Yang, Shawn",3008.0,CN,36631.87
+209530,"Chen, Jianbin",3008,CN,34428.33
+301044.0,"Xie, Zui",3007.0,CN,34025.77
+300098,"Fu, Qiang",3007,CN,32212.53
+208916.0,"Yu, Lixuan",3007.0,CN,31338.12
+303761.0,"Park, Jungmin",3015.0,KR,31025.84
+206939.0,"Osawa, Yuki-hiro",3010.0,JP,30778.96
+301347,"Kim, Hyo Cheol",3015,KR,30528.6
+204897.0,"Wong, Ka Yin Jeffrie",3007.0,CN,30283.43
+209690.0,"Yu, Weikang",3007.0,CN,30006.73

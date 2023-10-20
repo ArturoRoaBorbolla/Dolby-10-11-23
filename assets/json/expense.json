@@ -1,0 +1,40 @@
+{
+    "expense":[
+        {
+            "id": 1,
+            "name": "Employee Meals & Entertainment Test"
+        },
+        {
+            "id": 2,
+            "name": "Travel Meals Test"
+        },
+        {
+            "id": 3,
+            "name": "Third Party Meals & Entertainment"
+        },
+        {
+            "id": 4,
+            "name": "Mobile & MiFi Expense"
+        },
+        {
+            "id": 5,
+            "name": "Government Entertainment"
+        },
+        {
+            "id": 6,
+            "name": "Special Insight Trend"
+        },
+        {
+            "id": 7,
+            "name": "Out of Pocket Expenses"
+        },
+        {
+            "id": 8,
+            "name": "Misclassified Government Entertainment"
+        },
+        {
+            "id": 9,
+            "name": "Non-Reimbursable Expenses"
+        }
+    ]
+}

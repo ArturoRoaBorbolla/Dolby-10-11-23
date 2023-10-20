@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Projects\Dolby-10-11-23\windows\flutter\ephemeral\.plugin_symlinks\permission_handler_windows\windows\permission_handler_windows_plugin.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Projects\Dolby-10-11-23\windows\flutter\ephemeral\.plugin_symlinks\permission_handler_windows\windows\include\permission_handler_windows\permission_handler_windows_plugin.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Projects\Dolby-10-11-23\windows\flutter\ephemeral\.plugin_symlinks\permission_handler_windows\windows\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{5839AB84-78EB-351D-A17D-FF138B4C85D3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{A54C435F-59BD-3DD4-910D-342DC0AB7E83}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

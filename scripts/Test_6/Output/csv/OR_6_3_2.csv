@@ -1,0 +1,1501 @@
+Parent_Expense_Type,Expense_Type,F_Qtr,F_Year,Employee_Org_Unit_2___Code,REGION,Employee_Country_Code,Sum(Approved_Amount_RPT)
+08. Fees,Agency Booking Fees,02,2023,2005,Em,GB,20385.95
+08. Fees,Agency Booking Fees,03,2023,2005,Em,GB,12624.38
+08. Fees,Agency Booking Fees,04,2023,2005,Em,GB,299.4
+02. Transportation,Airfare (Corporate Card/Out-of-Pocket),02,2023,2005,Em,GB,38635.36
+02. Transportation,Airfare (Corporate Card/Out-of-Pocket),03,2023,2005,Em,GB,49554.82
+02. Transportation,Airfare (Corporate Card/Out-of-Pocket),04,2023,2005,Em,GB,30619.31
+02. Transportation,Airline Fees,02,2023,2005,Em,GB,1824.18
+02. Transportation,Airline Fees,03,2023,2005,Em,GB,419.83
+02. Transportation,Airline Fees,04,2023,2005,Em,GB,286.05
+08. Fees,Bank Fees,02,2023,2005,Em,GB,5.0
+08. Fees,Bank Fees,03,2023,2005,Em,GB,-616.65
+11. Learning and Development,Books/Subscriptions,02,2023,2005,Em,GB,2278.07
+11. Learning and Development,Books/Subscriptions,03,2023,2005,Em,GB,1042.77
+11. Learning and Development,Books/Subscriptions,04,2023,2005,Em,GB,981.66
+06. Office Expenses,Building Supplies/Maintenance,02,2023,2005,Em,GB,1225.68
+06. Office Expenses,Building Supplies/Maintenance,03,2023,2005,Em,GB,12116.67
+06. Office Expenses,Building Supplies/Maintenance,04,2023,2005,Em,GB,2078.49
+02. Transportation,Car Rental,02,2023,2005,Em,GB,2825.72
+02. Transportation,Car Rental,03,2023,2005,Em,GB,1728.47
+02. Transportation,Car Rental,04,2023,2005,Em,GB,358.93
+03. Employee Meals and Entertainment,Company Events,02,2023,2005,Em,GB,10926.14
+03. Employee Meals and Entertainment,Company Events,03,2023,2005,Em,GB,3740.44
+03. Employee Meals and Entertainment,Company Events,04,2023,2005,Em,GB,3930.66
+06. Office Expenses,Computer Supplies,01,2024,2005,Em,GB,135.13
+06. Office Expenses,Computer Supplies,02,2023,2005,Em,GB,20714.67
+06. Office Expenses,Computer Supplies,03,2023,2005,Em,GB,8681.75
+06. Office Expenses,Computer Supplies,04,2023,2005,Em,GB,9179.45
+11. Learning and Development,Conferences/Tradeshows Registration Fees,02,2023,2005,Em,GB,4770.56
+11. Learning and Development,Conferences/Tradeshows Registration Fees,03,2023,2005,Em,GB,4283.74
+11. Learning and Development,Conferences/Tradeshows Registration Fees,04,2023,2005,Em,GB,1723.55
+06. Office Expenses,Courier/Shipping/Freight/Postage,02,2023,2005,Em,GB,353.5
+06. Office Expenses,Courier/Shipping/Freight/Postage,03,2023,2005,Em,GB,5.92
+08. Fees,Currency Exchange Fees,02,2023,2005,Em,GB,38.78
+06. Office Expenses,Dolby Fleet Maintenance Costs,02,2023,2005,Em,GB,553.32
+06. Office Expenses,Dolby Fleet Maintenance Costs,03,2023,2005,Em,GB,75.21
+11. Learning and Development,Dues/Memberships,02,2023,2005,Em,GB,1508.48
+11. Learning and Development,Dues/Memberships,03,2023,2005,Em,GB,942.48
+11. Learning and Development,Dues/Memberships,04,2023,2005,Em,GB,2247.68
+03. Employee Meals and Entertainment,Employee Awards/Recognition,02,2023,2005,Em,GB,1999.4
+03. Employee Meals and Entertainment,Employee Awards/Recognition,03,2023,2005,Em,GB,85.17
+03. Employee Meals and Entertainment,Employee Awards/Recognition,04,2023,2005,Em,GB,6.42
+12. Marketing Expenses,Exhibit Expenses,02,2023,2005,Em,GB,4.09
+12. Marketing Expenses,Exhibit Expenses,03,2023,2005,Em,GB,96.48
+12. Marketing Expenses,Exhibit Expenses,04,2023,2005,Em,GB,20.04
+06. Office Expenses,Expensed Furniture,04,2023,2005,Em,GB,5697.2
+06. Office Expenses,Food Services/Supplies (Facilities),02,2023,2005,Em,GB,71.7
+01. Travel Expenses,Hotel,02,2023,2005,Em,GB,80436.68
+01. Travel Expenses,Hotel,03,2023,2005,Em,GB,61461.58
+01. Travel Expenses,Hotel,04,2023,2005,Em,GB,23867.58
+01. Travel Expenses,Hotel Deposit,02,2023,2005,Em,GB,-600.14
+01. Travel Expenses,Hotel Deposit,03,2023,2005,Em,GB,1014.05
+01. Travel Expenses,Hotel Tax,02,2023,2005,Em,GB,7302.84
+01. Travel Expenses,Hotel Tax,03,2023,2005,Em,GB,3881.69
+01. Travel Expenses,Hotel Tax,04,2023,2005,Em,GB,1535.96
+01. Travel Expenses,Hotel VAT,02,2023,2005,Em,GB,108.78
+01. Travel Expenses,Hotel VAT,03,2023,2005,Em,GB,100.3
+01. Travel Expenses,Laundry,02,2023,2005,Em,GB,137.5
+03. Employee Meals and Entertainment,Meals/Entertainment (Employees),02,2023,2005,Em,GB,7997.78
+03. Employee Meals and Entertainment,Meals/Entertainment (Employees),03,2023,2005,Em,GB,8764.35
+03. Employee Meals and Entertainment,Meals/Entertainment (Employees),04,2023,2005,Em,GB,4758.43
+04. Third Party Meals and Entertainment,Meals/Entertainment (Third Party) EMEA,02,2023,2005,Em,GB,14403.42
+04. Third Party Meals and Entertainment,Meals/Entertainment (Third Party) EMEA,03,2023,2005,Em,GB,9699.42
+04. Third Party Meals and Entertainment,Meals/Entertainment (Third Party) EMEA,04,2023,2005,Em,GB,2540.27
+02. Transportation,Mileage,02,2023,2005,Em,GB,3582.89
+02. Transportation,Mileage,03,2023,2005,Em,GB,2022.35
+02. Transportation,Mileage,04,2023,2005,Em,GB,184.52
+09. Other,Miscellaneous,02,2023,2005,Em,GB,0.0
+09. Other,Miscellaneous,03,2023,2005,Em,GB,51.78
+07. Communications,Mobile/Cellular Phone,02,2023,2005,Em,GB,2942.9
+07. Communications,Mobile/Cellular Phone,03,2023,2005,Em,GB,2489.42
+06. Office Expenses,Office Supplies,02,2023,2005,Em,GB,13323.29
+06. Office Expenses,Office Supplies,03,2023,2005,Em,GB,13960.99
+06. Office Expenses,Office Supplies,04,2023,2005,Em,GB,6262.6
+02. Transportation,Parking,02,2023,2005,Em,GB,2307.77
+02. Transportation,Parking,03,2023,2005,Em,GB,801.31
+02. Transportation,Parking,04,2023,2005,Em,GB,781.31
+09. Other,Personal-Not Paid to Corporate Card Bank,02,2023,2005,Em,GB,385.74
+09. Other,Personal-Not Paid to Corporate Card Bank,03,2023,2005,Em,GB,40.59
+09. Other,Personal-Not Paid to Corporate Card Bank,04,2023,2005,Em,GB,-0.04
+06. Office Expenses,Printing/Photocopying,02,2023,2005,Em,GB,883.0
+06. Office Expenses,Printing/Photocopying,03,2023,2005,Em,GB,47.44
+06. Office Expenses,Printing/Photocopying,04,2023,2005,Em,GB,70.9
+13. Professional Services,Professional Fees,02,2023,2005,Em,GB,16733.8
+13. Professional Services,Professional Fees,03,2023,2005,Em,GB,54.64
+13. Professional Services,Professional Fees,04,2023,2005,Em,GB,148.75
+12. Marketing Expenses,Promotional Expenses,02,2023,2005,Em,GB,13958.66
+12. Marketing Expenses,Promotional Expenses,03,2023,2005,Em,GB,913.08
+12. Marketing Expenses,Promotional Expenses,04,2023,2005,Em,GB,971.02
+02. Transportation,Public Transport,02,2023,2005,Em,GB,17787.93
+02. Transportation,Public Transport,03,2023,2005,Em,GB,13033.07
+02. Transportation,Public Transport,04,2023,2005,Em,GB,3907.66
+06. Office Expenses,Software,02,2023,2005,Em,GB,2734.18
+06. Office Expenses,Software,03,2023,2005,Em,GB,3355.48
+06. Office Expenses,Software,04,2023,2005,Em,GB,1976.6
+06. Office Expenses,Storage Fees,04,2023,2005,Em,GB,8.76
+02. Transportation,Taxi/Rideshare,02,2023,2005,Em,GB,22591.83
+02. Transportation,Taxi/Rideshare,03,2023,2005,Em,GB,11811.37
+02. Transportation,Taxi/Rideshare,04,2023,2005,Em,GB,5471.72
+04. Third Party Meals and Entertainment,Third Party Gifts,02,2023,2005,Em,GB,6388.2
+04. Third Party Meals and Entertainment,Third Party Gifts,03,2023,2005,Em,GB,943.64
+01. Travel Expenses,Tips/Gratuities,02,2023,2005,Em,GB,400.32
+01. Travel Expenses,Tips/Gratuities,03,2023,2005,Em,GB,384.84
+01. Travel Expenses,Tips/Gratuities,04,2023,2005,Em,GB,30.33
+02. Transportation,Tolls,02,2023,2005,Em,GB,190.29
+02. Transportation,Tolls,03,2023,2005,Em,GB,40.68
+06. Office Expenses,Tools/Equipment/Lab Supplies,02,2023,2005,Em,GB,56048.31
+06. Office Expenses,Tools/Equipment/Lab Supplies,03,2023,2005,Em,GB,61632.15
+06. Office Expenses,Tools/Equipment/Lab Supplies,04,2023,2005,Em,GB,11298.52
+11. Learning and Development,Training Fees,02,2023,2005,Em,GB,246.72
+03. Employee Meals and Entertainment,Travel Meals (Traveling Dolby Employees only),02,2023,2005,Em,GB,22979.02
+03. Employee Meals and Entertainment,Travel Meals (Traveling Dolby Employees only),03,2023,2005,Em,GB,14102.54
+03. Employee Meals and Entertainment,Travel Meals (Traveling Dolby Employees only),04,2023,2005,Em,GB,6046.41
+06. Office Expenses,Utilities,02,2023,2005,Em,GB,1212.08
+06. Office Expenses,Utilities,03,2023,2005,Em,GB,1373.52
+06. Office Expenses,Utilities,04,2023,2005,Em,GB,474.29
+08. Fees,Visa/Passport/Border Security Program Fees,02,2023,2005,Em,GB,3793.24
+08. Fees,Visa/Passport/Border Security Program Fees,03,2023,2005,Em,GB,586.23
+13. Professional Services,Wellbeing (HR Only),02,2023,2005,Em,GB,1205.96
+13. Professional Services,Wellbeing (HR Only),03,2023,2005,Em,GB,4045.8
+13. Professional Services,Wellbeing (HR Only),04,2023,2005,Em,GB,4285.43
+07. Communications,Wifi/Internet/Telephone,02,2023,2005,Em,GB,2434.62
+07. Communications,Wifi/Internet/Telephone,03,2023,2005,Em,GB,699.99
+07. Communications,Wifi/Internet/Telephone,04,2023,2005,Em,GB,104.26
+03. Employee Meals and Entertainment,Working Meals (Employees Only),02,2023,2005,Em,GB,7274.78
+03. Employee Meals and Entertainment,Working Meals (Employees Only),03,2023,2005,Em,GB,5003.51
+03. Employee Meals and Entertainment,Working Meals (Employees Only),04,2023,2005,Em,GB,1358.24
+08. Fees,Agency Booking Fees,02,2023,2005.0,Em,GB,25257.57
+08. Fees,Agency Booking Fees,03,2023,2005.0,Em,GB,1223.29
+08. Fees,Agency Booking Fees,04,2023,2005.0,Em,GB,231.72
+02. Transportation,Airfare (Corporate Card/Out-of-Pocket),02,2023,2005.0,Em,GB,39131.85
+02. Transportation,Airfare (Corporate Card/Out-of-Pocket),03,2023,2005.0,Em,GB,30139.91
+02. Transportation,Airfare (Corporate Card/Out-of-Pocket),04,2023,2005.0,Em,GB,6348.24
+02. Transportation,Airline Fees,02,2023,2005.0,Em,GB,562.11
+02. Transportation,Airline Fees,03,2023,2005.0,Em,GB,585.73
+02. Transportation,Airline Fees,04,2023,2005.0,Em,GB,783.11
+08. Fees,Bank Fees,04,2023,2005.0,Em,GB,43.73
+11. Learning and Development,Books/Subscriptions,02,2023,2005.0,Em,GB,686.78
+11. Learning and Development,Books/Subscriptions,03,2023,2005.0,Em,GB,2131.18
+11. Learning and Development,Books/Subscriptions,04,2023,2005.0,Em,GB,363.43
+06. Office Expenses,Building Supplies/Maintenance,02,2023,2005.0,Em,GB,237.89
+06. Office Expenses,Building Supplies/Maintenance,03,2023,2005.0,Em,GB,557.23
+02. Transportation,Car Rental,02,2023,2005.0,Em,GB,3645.0
+02. Transportation,Car Rental,03,2023,2005.0,Em,GB,3094.31
+03. Employee Meals and Entertainment,Company Events,02,2023,2005.0,Em,GB,59.74
+03. Employee Meals and Entertainment,Company Events,03,2023,2005.0,Em,GB,329.54
+03. Employee Meals and Entertainment,Company Events,04,2023,2005.0,Em,GB,493.25
+06. Office Expenses,Computer Supplies,02,2023,2005.0,Em,GB,375.79
+06. Office Expenses,Computer Supplies,03,2023,2005.0,Em,GB,1128.58
+06. Office Expenses,Computer Supplies,04,2023,2005.0,Em,GB,109.73
+11. Learning and Development,Conferences/Tradeshows Registration Fees,04,2023,2005.0,Em,GB,25.65
+06. Office Expenses,Courier/Shipping/Freight/Postage,02,2023,2005.0,Em,GB,3.58
+06. Office Expenses,Courier/Shipping/Freight/Postage,03,2023,2005.0,Em,GB,75.26
+06. Office Expenses,Courier/Shipping/Freight/Postage,04,2023,2005.0,Em,GB,7.6
+08. Fees,Currency Exchange Fees,02,2023,2005.0,Em,GB,4.03
+06. Office Expenses,Dolby Fleet Maintenance Costs,03,2023,2005.0,Em,GB,552.07
+11. Learning and Development,Dues/Memberships,03,2023,2005.0,Em,GB,359.95
+11. Learning and Development,Dues/Memberships,04,2023,2005.0,Em,GB,354.42
+03. Employee Meals and Entertainment,Employee Awards/Recognition,02,2023,2005.0,Em,GB,994.86
+03. Employee Meals and Entertainment,Employee Awards/Recognition,03,2023,2005.0,Em,GB,640.99
+03. Employee Meals and Entertainment,Employee Awards/Recognition,04,2023,2005.0,Em,GB,267.31
+12. Marketing Expenses,Exhibit Expenses,02,2023,2005.0,Em,GB,4.09
+12. Marketing Expenses,Exhibit Expenses,03,2023,2005.0,Em,GB,234.98
+06. Office Expenses,Expensed Furniture,03,2023,2005.0,Em,GB,98.2
+01. Travel Expenses,Hotel,02,2023,2005.0,Em,GB,41237.1
+01. Travel Expenses,Hotel,03,2023,2005.0,Em,GB,41945.13
+01. Travel Expenses,Hotel,04,2023,2005.0,Em,GB,20901.09
+01. Travel Expenses,Hotel Deposit,03,2023,2005.0,Em,GB,790.74
+01. Travel Expenses,Hotel Deposit,04,2023,2005.0,Em,GB,-24.57
+01. Travel Expenses,Hotel Tax,02,2023,2005.0,Em,GB,3927.2
+01. Travel Expenses,Hotel Tax,03,2023,2005.0,Em,GB,2173.97
+01. Travel Expenses,Hotel Tax,04,2023,2005.0,Em,GB,1453.17
+01. Travel Expenses,Hotel VAT,02,2023,2005.0,Em,GB,217.64
+01. Travel Expenses,Hotel VAT,03,2023,2005.0,Em,GB,53.79
+01. Travel Expenses,Laundry,02,2023,2005.0,Em,GB,6.2
+03. Employee Meals and Entertainment,Meals/Entertainment (Employees),02,2023,2005.0,Em,GB,3286.78
+03. Employee Meals and Entertainment,Meals/Entertainment (Employees),03,2023,2005.0,Em,GB,6193.64
+03. Employee Meals and Entertainment,Meals/Entertainment (Employees),04,2023,2005.0,Em,GB,3558.88
+04. Third Party Meals and Entertainment,Meals/Entertainment (Third Party) EMEA,02,2023,2005.0,Em,GB,2006.66
+04. Third Party Meals and Entertainment,Meals/Entertainment (Third Party) EMEA,03,2023,2005.0,Em,GB,8668.41
+04. Third Party Meals and Entertainment,Meals/Entertainment (Third Party) EMEA,04,2023,2005.0,Em,GB,1111.37
+02. Transportation,Mileage,02,2023,2005.0,Em,GB,2878.77
+02. Transportation,Mileage,03,2023,2005.0,Em,GB,2092.04
+02. Transportation,Mileage,04,2023,2005.0,Em,GB,981.35
+09. Other,Miscellaneous,02,2023,2005.0,Em,GB,1878.72
+09. Other,Miscellaneous,03,2023,2005.0,Em,GB,405.39
+09. Other,Miscellaneous,04,2023,2005.0,Em,GB,10.94
+07. Communications,Mobile/Cellular Phone,02,2023,2005.0,Em,GB,3030.93
+07. Communications,Mobile/Cellular Phone,03,2023,2005.0,Em,GB,3239.01
+07. Communications,Mobile/Cellular Phone,04,2023,2005.0,Em,GB,1815.65
+06. Office Expenses,Office Supplies,02,2023,2005.0,Em,GB,134.63
+06. Office Expenses,Office Supplies,03,2023,2005.0,Em,GB,282.51
+06. Office Expenses,Office Supplies,04,2023,2005.0,Em,GB,81.12
+06. Office Expenses,Pandemic Protocol Expenses,02,2023,2005.0,Em,GB,70.74
+06. Office Expenses,Pandemic Protocol Expenses,04,2023,2005.0,Em,GB,11.6
+02. Transportation,Parking,02,2023,2005.0,Em,GB,3135.55
+02. Transportation,Parking,03,2023,2005.0,Em,GB,2377.02
+02. Transportation,Parking,04,2023,2005.0,Em,GB,1344.87
+09. Other,Personal-Not Paid to Corporate Card Bank,02,2023,2005.0,Em,GB,126.94
+09. Other,Personal-Not Paid to Corporate Card Bank,03,2023,2005.0,Em,GB,209.29
+09. Other,Personal-Not Paid to Corporate Card Bank,04,2023,2005.0,Em,GB,49.6
+13. Professional Services,Professional Fees,03,2023,2005.0,Em,GB,449.9
+13. Professional Services,Professional Fees,04,2023,2005.0,Em,GB,238.97
+12. Marketing Expenses,Promotional Expenses,02,2023,2005.0,Em,GB,11379.02
+12. Marketing Expenses,Promotional Expenses,03,2023,2005.0,Em,GB,19947.65
+12. Marketing Expenses,Promotional Expenses,04,2023,2005.0,Em,GB,1348.45
+02. Transportation,Public Transport,02,2023,2005.0,Em,GB,4974.69
+02. Transportation,Public Transport,03,2023,2005.0,Em,GB,9466.43
+02. Transportation,Public Transport,04,2023,2005.0,Em,GB,4327.9
+10. Relocation/Ex-Pat,Relocation Expenses,04,2023,2005.0,Em,GB,2523.26
+06. Office Expenses,Software,02,2023,2005.0,Em,GB,476.9
+06. Office Expenses,Software,03,2023,2005.0,Em,GB,500.52
+06. Office Expenses,Software,04,2023,2005.0,Em,GB,1109.33
+02. Transportation,Taxi/Rideshare,02,2023,2005.0,Em,GB,9391.19
+02. Transportation,Taxi/Rideshare,03,2023,2005.0,Em,GB,7312.89
+02. Transportation,Taxi/Rideshare,04,2023,2005.0,Em,GB,2239.17
+04. Third Party Meals and Entertainment,Third Party Gifts,02,2023,2005.0,Em,GB,1044.32
+01. Travel Expenses,Tips/Gratuities,02,2023,2005.0,Em,GB,8.56
+01. Travel Expenses,Tips/Gratuities,03,2023,2005.0,Em,GB,26.02
+02. Transportation,Tolls,02,2023,2005.0,Em,GB,71.98
+02. Transportation,Tolls,03,2023,2005.0,Em,GB,46.95
+06. Office Expenses,Tools/Equipment/Lab Supplies,02,2023,2005.0,Em,GB,4989.9
+06. Office Expenses,Tools/Equipment/Lab Supplies,03,2023,2005.0,Em,GB,17344.84
+06. Office Expenses,Tools/Equipment/Lab Supplies,04,2023,2005.0,Em,GB,8748.6
+11. Learning and Development,Training Fees,02,2023,2005.0,Em,GB,280.84
+11. Learning and Development,Training Fees,03,2023,2005.0,Em,GB,98.2
+11. Learning and Development,Training Fees,04,2023,2005.0,Em,GB,148.38
+03. Employee Meals and Entertainment,Travel Meals (Traveling Dolby Employees only),02,2023,2005.0,Em,GB,9357.67
+03. Employee Meals and Entertainment,Travel Meals (Traveling Dolby Employees only),03,2023,2005.0,Em,GB,12213.1
+03. Employee Meals and Entertainment,Travel Meals (Traveling Dolby Employees only),04,2023,2005.0,Em,GB,3831.39
+08. Fees,Visa/Passport/Border Security Program Fees,02,2023,2005.0,Em,GB,86.28
+08. Fees,Visa/Passport/Border Security Program Fees,03,2023,2005.0,Em,GB,43.54
+08. Fees,Visa/Passport/Border Security Program Fees,04,2023,2005.0,Em,GB,91.64
+07. Communications,Wifi/Internet/Telephone,02,2023,2005.0,Em,GB,244.62
+07. Communications,Wifi/Internet/Telephone,03,2023,2005.0,Em,GB,229.09
+07. Communications,Wifi/Internet/Telephone,04,2023,2005.0,Em,GB,316.78
+03. Employee Meals and Entertainment,Working Meals (Employees Only),02,2023,2005.0,Em,GB,2981.85
+03. Employee Meals and Entertainment,Working Meals (Employees Only),03,2023,2005.0,Em,GB,1119.43
+03. Employee Meals and Entertainment,Working Meals (Employees Only),04,2023,2005.0,Em,GB,523.61
+08. Fees,Agency Booking Fees,02,2023,2006,Em,ES,558.64
+08. Fees,Agency Booking Fees,03,2023,2006,Em,ES,346.1
+08. Fees,Agency Booking Fees,04,2023,2006,Em,ES,118.93
+02. Transportation,Airfare (Corporate Card/Out-of-Pocket),02,2023,2006,Em,ES,77047.24
+02. Transportation,Airfare (Corporate Card/Out-of-Pocket),03,2023,2006,Em,ES,56380.83
+02. Transportation,Airfare (Corporate Card/Out-of-Pocket),04,2023,2006,Em,ES,14006.87
+02. Transportation,Airline Fees,02,2023,2006,Em,ES,997.24
+02. Transportation,Airline Fees,03,2023,2006,Em,ES,0.0
+02. Transportation,Airline Fees,04,2023,2006,Em,ES,158.94
+08. Fees,Bank Fees,02,2023,2006,Em,ES,86.4
+11. Learning and Development,Books/Subscriptions,02,2023,2006,Em,ES,412.02
+11. Learning and Development,Books/Subscriptions,03,2023,2006,Em,ES,50.82
+11. Learning and Development,Books/Subscriptions,04,2023,2006,Em,ES,3.08
+06. Office Expenses,Building Supplies/Maintenance,02,2023,2006,Em,ES,19.58
+03. Employee Meals and Entertainment,Company Events,02,2023,2006,Em,ES,70.62
+06. Office Expenses,Computer Supplies,02,2023,2006,Em,ES,448.29
+06. Office Expenses,Computer Supplies,03,2023,2006,Em,ES,24.88
+06. Office Expenses,Computer Supplies,04,2023,2006,Em,ES,1048.32
+11. Learning and Development,Conferences/Tradeshows Registration Fees,02,2023,2006,Em,ES,457.12
+11. Learning and Development,Conferences/Tradeshows Registration Fees,04,2023,2006,Em,ES,450.27
+06. Office Expenses,Courier/Shipping/Freight/Postage,02,2023,2006,Em,ES,100.8
+11. Learning and Development,Dues/Memberships,02,2023,2006,Em,ES,680.6
+11. Learning and Development,Dues/Memberships,04,2023,2006,Em,ES,0.0
+12. Marketing Expenses,Exhibit Expenses,03,2023,2006,Em,ES,845.78
+12. Marketing Expenses,Exhibit Expenses,04,2023,2006,Em,ES,5702.34
+01. Travel Expenses,Hotel,02,2023,2006,Em,ES,27596.96
+01. Travel Expenses,Hotel,03,2023,2006,Em,ES,24666.56
+01. Travel Expenses,Hotel,04,2023,2006,Em,ES,16127.27
+01. Travel Expenses,Hotel Deposit,02,2023,2006,Em,ES,-674.48
+01. Travel Expenses,Hotel Deposit,03,2023,2006,Em,ES,-462.7
+01. Travel Expenses,Hotel Deposit,04,2023,2006,Em,ES,233.79
+01. Travel Expenses,Hotel Tax,02,2023,2006,Em,ES,5112.71
+01. Travel Expenses,Hotel Tax,03,2023,2006,Em,ES,2826.96
+01. Travel Expenses,Hotel Tax,04,2023,2006,Em,ES,2300.76
+03. Employee Meals and Entertainment,Meals/Entertainment (Employees),01,2024,2006,Em,ES,137.27
+03. Employee Meals and Entertainment,Meals/Entertainment (Employees),02,2023,2006,Em,ES,10457.69
+03. Employee Meals and Entertainment,Meals/Entertainment (Employees),03,2023,2006,Em,ES,15635.29
+03. Employee Meals and Entertainment,Meals/Entertainment (Employees),04,2023,2006,Em,ES,1227.91
+04. Third Party Meals and Entertainment,Meals/Entertainment (Third Party) EMEA,02,2023,2006,Em,ES,16773.82
+04. Third Party Meals and Entertainment,Meals/Entertainment (Third Party) EMEA,03,2023,2006,Em,ES,2289.97
+04. Third Party Meals and Entertainment,Meals/Entertainment (Third Party) EMEA,04,2023,2006,Em,ES,2166.27
+02. Transportation,Mileage,02,2023,2006,Em,ES,162.3
+02. Transportation,Mileage,03,2023,2006,Em,ES,149.79
+02. Transportation,Mileage,04,2023,2006,Em,ES,69.33
+09. Other,Miscellaneous,03,2023,2006,Em,ES,35.07
+07. Communications,Mobile/Cellular Phone,04,2023,2006,Em,ES,1025.59
+06. Office Expenses,Office Supplies,02,2023,2006,Em,ES,138.26
+06. Office Expenses,Office Supplies,03,2023,2006,Em,ES,294.6
+06. Office Expenses,Office Supplies,04,2023,2006,Em,ES,50.81
+06. Office Expenses,Pandemic Protocol Expenses,02,2023,2006,Em,ES,80.65
+06. Office Expenses,Pandemic Protocol Expenses,03,2023,2006,Em,ES,39.44
+02. Transportation,Parking,02,2023,2006,Em,ES,1105.06
+02. Transportation,Parking,03,2023,2006,Em,ES,492.73
+02. Transportation,Parking,04,2023,2006,Em,ES,170.83
+09. Other,Personal-Not Paid to Corporate Card Bank,02,2023,2006,Em,ES,23.02
+09. Other,Personal-Not Paid to Corporate Card Bank,03,2023,2006,Em,ES,47.27
+06. Office Expenses,Printing/Photocopying,02,2023,2006,Em,ES,228.09
+13. Professional Services,Professional Fees,04,2023,2006,Em,ES,397.87
+12. Marketing Expenses,Promotional Expenses,02,2023,2006,Em,ES,7866.14
+12. Marketing Expenses,Promotional Expenses,03,2023,2006,Em,ES,6345.41
+12. Marketing Expenses,Promotional Expenses,04,2023,2006,Em,ES,12154.38
+02. Transportation,Public Transport,02,2023,2006,Em,ES,621.01
+02. Transportation,Public Transport,03,2023,2006,Em,ES,516.09
+02. Transportation,Public Transport,04,2023,2006,Em,ES,328.57
+06. Office Expenses,Services and Systems Hosting,02,2023,2006,Em,ES,1040.2
+06. Office Expenses,Services and Systems Hosting,03,2023,2006,Em,ES,26.65
+06. Office Expenses,Services and Systems Hosting,04,2023,2006,Em,ES,6.59
+06. Office Expenses,Software,02,2023,2006,Em,ES,56.71
+06. Office Expenses,Software,03,2023,2006,Em,ES,600.9
+06. Office Expenses,Software,04,2023,2006,Em,ES,148.93
+02. Transportation,Taxi/Rideshare,02,2023,2006,Em,ES,8261.68
+02. Transportation,Taxi/Rideshare,03,2023,2006,Em,ES,4453.14
+02. Transportation,Taxi/Rideshare,04,2023,2006,Em,ES,2339.32
+01. Travel Expenses,Tips/Gratuities,02,2023,2006,Em,ES,10.46
+02. Transportation,Tolls,02,2023,2006,Em,ES,57.05
+06. Office Expenses,Tools/Equipment/Lab Supplies,02,2023,2006,Em,ES,993.0
+06. Office Expenses,Tools/Equipment/Lab Supplies,03,2023,2006,Em,ES,6903.07
+06. Office Expenses,Tools/Equipment/Lab Supplies,04,2023,2006,Em,ES,5431.88
+11. Learning and Development,Training Fees,02,2023,2006,Em,ES,106.9
+11. Learning and Development,Training Fees,03,2023,2006,Em,ES,270.16
+11. Learning and Development,Training Fees,04,2023,2006,Em,ES,161.84
+03. Employee Meals and Entertainment,Travel Meals (Traveling Dolby Employees only),02,2023,2006,Em,ES,17790.14
+03. Employee Meals and Entertainment,Travel Meals (Traveling Dolby Employees only),03,2023,2006,Em,ES,6269.3
+03. Employee Meals and Entertainment,Travel Meals (Traveling Dolby Employees only),04,2023,2006,Em,ES,2342.57
+08. Fees,Visa/Passport/Border Security Program Fees,02,2023,2006,Em,ES,534.14
+08. Fees,Visa/Passport/Border Security Program Fees,03,2023,2006,Em,ES,107.74
+07. Communications,Wifi/Internet/Telephone,02,2023,2006,Em,ES,203.21
+07. Communications,Wifi/Internet/Telephone,03,2023,2006,Em,ES,181.34
+07. Communications,Wifi/Internet/Telephone,04,2023,2006,Em,ES,43.21
+03. Employee Meals and Entertainment,Working Meals (Employees Only),02,2023,2006,Em,ES,3251.58
+03. Employee Meals and Entertainment,Working Meals (Employees Only),03,2023,2006,Em,ES,56.29
+03. Employee Meals and Entertainment,Working Meals (Employees Only),04,2023,2006,Em,ES,118.31
+08. Fees,Agency Booking Fees,02,2023,2006.0,Em,ES,1210.64
+08. Fees,Agency Booking Fees,03,2023,2006.0,Em,ES,246.21
+08. Fees,Agency Booking Fees,04,2023,2006.0,Em,ES,92.09
+02. Transportation,Airfare (Corporate Card/Out-of-Pocket),02,2023,2006.0,Em,ES,25937.06
+02. Transportation,Airfare (Corporate Card/Out-of-Pocket),03,2023,2006.0,Em,ES,12801.41
+02. Transportation,Airfare (Corporate Card/Out-of-Pocket),04,2023,2006.0,Em,ES,1669.52
+02. Transportation,Airline Fees,02,2023,2006.0,Em,ES,87.86
+02. Transportation,Airline Fees,03,2023,2006.0,Em,ES,132.32
+02. Transportation,Airline Fees,04,2023,2006.0,Em,ES,56.76
+08. Fees,Bank Fees,02,2023,2006.0,Em,ES,85.46
+11. Learning and Development,Books/Subscriptions,02,2023,2006.0,Em,ES,320.7
+11. Learning and Development,Books/Subscriptions,03,2023,2006.0,Em,ES,420.86
+11. Learning and Development,Books/Subscriptions,04,2023,2006.0,Em,ES,317.32
+06. Office Expenses,Computer Supplies,02,2023,2006.0,Em,ES,581.79
+06. Office Expenses,Computer Supplies,03,2023,2006.0,Em,ES,177.31
+06. Office Expenses,Computer Supplies,04,2023,2006.0,Em,ES,1110.53
+11. Learning and Development,Conferences/Tradeshows Registration Fees,02,2023,2006.0,Em,ES,2303.34
+11. Learning and Development,Conferences/Tradeshows Registration Fees,03,2023,2006.0,Em,ES,2047.34
+11. Learning and Development,Conferences/Tradeshows Registration Fees,04,2023,2006.0,Em,ES,2008.85
+06. Office Expenses,Courier/Shipping/Freight/Postage,02,2023,2006.0,Em,ES,186.26
+06. Office Expenses,Courier/Shipping/Freight/Postage,03,2023,2006.0,Em,ES,43.38
+06. Office Expenses,Courier/Shipping/Freight/Postage,04,2023,2006.0,Em,ES,30.55
+03. Employee Meals and Entertainment,Employee Awards/Recognition,02,2023,2006.0,Em,ES,924.92
+06. Office Expenses,Equipment Rental/Repair,03,2023,2006.0,Em,ES,1911.26
+01. Travel Expenses,Hotel,02,2023,2006.0,Em,ES,7682.98
+01. Travel Expenses,Hotel,03,2023,2006.0,Em,ES,25680.16
+01. Travel Expenses,Hotel,04,2023,2006.0,Em,ES,8229.94
+01. Travel Expenses,Hotel Deposit,03,2023,2006.0,Em,ES,54.81
+01. Travel Expenses,Hotel Tax,02,2023,2006.0,Em,ES,890.25
+01. Travel Expenses,Hotel Tax,03,2023,2006.0,Em,ES,1919.61
+01. Travel Expenses,Hotel Tax,04,2023,2006.0,Em,ES,659.83
+03. Employee Meals and Entertainment,Meals/Entertainment (Employees),02,2023,2006.0,Em,ES,5960.55
+03. Employee Meals and Entertainment,Meals/Entertainment (Employees),03,2023,2006.0,Em,ES,8071.8
+03. Employee Meals and Entertainment,Meals/Entertainment (Employees),04,2023,2006.0,Em,ES,148.09
+04. Third Party Meals and Entertainment,Meals/Entertainment (Third Party) EMEA,02,2023,2006.0,Em,ES,725.32
+04. Third Party Meals and Entertainment,Meals/Entertainment (Third Party) EMEA,03,2023,2006.0,Em,ES,835.48
+04. Third Party Meals and Entertainment,Meals/Entertainment (Third Party) EMEA,04,2023,2006.0,Em,ES,139.54
+02. Transportation,Mileage,02,2023,2006.0,Em,ES,965.1
+02. Transportation,Mileage,03,2023,2006.0,Em,ES,361.96
+02. Transportation,Mileage,04,2023,2006.0,Em,ES,346.18
+09. Other,Miscellaneous,02,2023,2006.0,Em,ES,39.82
+06. Office Expenses,Office Supplies,03,2023,2006.0,Em,ES,10.24
+06. Office Expenses,Office Supplies,04,2023,2006.0,Em,ES,943.27
+06. Office Expenses,Pandemic Protocol Expenses,02,2023,2006.0,Em,ES,80.65
+02. Transportation,Parking,02,2023,2006.0,Em,ES,375.28
+02. Transportation,Parking,03,2023,2006.0,Em,ES,858.76
+02. Transportation,Parking,04,2023,2006.0,Em,ES,311.59
+06. Office Expenses,Printing/Photocopying,02,2023,2006.0,Em,ES,206.37
+06. Office Expenses,Printing/Photocopying,03,2023,2006.0,Em,ES,156.16
+12. Marketing Expenses,Promotional Expenses,02,2023,2006.0,Em,ES,2612.9
+02. Transportation,Public Transport,02,2023,2006.0,Em,ES,788.51
+02. Transportation,Public Transport,03,2023,2006.0,Em,ES,1040.1
+02. Transportation,Public Transport,04,2023,2006.0,Em,ES,143.92
+06. Office Expenses,Software,02,2023,2006.0,Em,ES,44.8
+02. Transportation,Taxi/Rideshare,02,2023,2006.0,Em,ES,4233.28
+02. Transportation,Taxi/Rideshare,03,2023,2006.0,Em,ES,5689.28
+02. Transportation,Taxi/Rideshare,04,2023,2006.0,Em,ES,501.53
+01. Travel Expenses,Tips/Gratuities,03,2023,2006.0,Em,ES,38.54
+02. Transportation,Tolls,02,2023,2006.0,Em,ES,66.37
+02. Transportation,Tolls,03,2023,2006.0,Em,ES,54.68
+02. Transportation,Tolls,04,2023,2006.0,Em,ES,144.35
+06. Office Expenses,Tools/Equipment/Lab Supplies,02,2023,2006.0,Em,ES,13790.1
+06. Office Expenses,Tools/Equipment/Lab Supplies,03,2023,2006.0,Em,ES,6252.37
+06. Office Expenses,Tools/Equipment/Lab Supplies,04,2023,2006.0,Em,ES,6959.01
+11. Learning and Development,Training Fees,02,2023,2006.0,Em,ES,15511.82
+11. Learning and Development,Training Fees,03,2023,2006.0,Em,ES,5541.3
+03. Employee Meals and Entertainment,Travel Meals (Traveling Dolby Employees only),02,2023,2006.0,Em,ES,1807.42
+03. Employee Meals and Entertainment,Travel Meals (Traveling Dolby Employees only),03,2023,2006.0,Em,ES,5672.8
+03. Employee Meals and Entertainment,Travel Meals (Traveling Dolby Employees only),04,2023,2006.0,Em,ES,1563.37
+06. Office Expenses,Utilities,02,2023,2006.0,Em,ES,114.9
+06. Office Expenses,Utilities,03,2023,2006.0,Em,ES,58.82
+06. Office Expenses,Utilities,04,2023,2006.0,Em,ES,58.77
+08. Fees,Visa/Passport/Border Security Program Fees,02,2023,2006.0,Em,ES,501.98
+08. Fees,Visa/Passport/Border Security Program Fees,03,2023,2006.0,Em,ES,0.65
+08. Fees,Visa/Passport/Border Security Program Fees,04,2023,2006.0,Em,ES,21.62
+13. Professional Services,Wellbeing (HR Only),02,2023,2006.0,Em,ES,1167.58
+13. Professional Services,Wellbeing (HR Only),03,2023,2006.0,Em,ES,4106.37
+13. Professional Services,Wellbeing (HR Only),04,2023,2006.0,Em,ES,734.39
+07. Communications,Wifi/Internet/Telephone,02,2023,2006.0,Em,ES,359.95
+07. Communications,Wifi/Internet/Telephone,03,2023,2006.0,Em,ES,583.9
+07. Communications,Wifi/Internet/Telephone,04,2023,2006.0,Em,ES,168.0
+03. Employee Meals and Entertainment,Working Meals (Employees Only),02,2023,2006.0,Em,ES,536.7
+03. Employee Meals and Entertainment,Working Meals (Employees Only),03,2023,2006.0,Em,ES,1786.15
+08. Fees,Agency Booking Fees,02,2023,2008,Em,SE,1163.98
+08. Fees,Agency Booking Fees,03,2023,2008,Em,SE,116.1
+08. Fees,Agency Booking Fees,04,2023,2008,Em,SE,115.13
+02. Transportation,Airfare (Corporate Card/Out-of-Pocket),02,2023,2008,Em,SE,6197.7
+02. Transportation,Airfare (Corporate Card/Out-of-Pocket),03,2023,2008,Em,SE,15043.64
+02. Transportation,Airfare (Corporate Card/Out-of-Pocket),04,2023,2008,Em,SE,8979.27
+06. Office Expenses,Computer Supplies,02,2023,2008,Em,SE,524.3
+06. Office Expenses,Computer Supplies,03,2023,2008,Em,SE,54.8
+06. Office Expenses,Computer Supplies,04,2023,2008,Em,SE,1481.45
+03. Employee Meals and Entertainment,Employee Awards/Recognition,02,2023,2008,Em,SE,345.02
+03. Employee Meals and Entertainment,Employee Awards/Recognition,04,2023,2008,Em,SE,493.29
+06. Office Expenses,Equipment Rental/Repair,04,2023,2008,Em,SE,222.2
+01. Travel Expenses,Hotel,01,2024,2008,Em,SE,458.66
+01. Travel Expenses,Hotel,02,2023,2008,Em,SE,8508.04
+01. Travel Expenses,Hotel,03,2023,2008,Em,SE,7089.84
+01. Travel Expenses,Hotel,04,2023,2008,Em,SE,3725.88
+01. Travel Expenses,Hotel Deposit,04,2023,2008,Em,SE,2565.13
+01. Travel Expenses,Hotel Tax,02,2023,2008,Em,SE,1027.68
+01. Travel Expenses,Hotel Tax,03,2023,2008,Em,SE,169.6
+03. Employee Meals and Entertainment,Meals/Entertainment (Employees),03,2023,2008,Em,SE,3690.52
+03. Employee Meals and Entertainment,Meals/Entertainment (Employees),04,2023,2008,Em,SE,497.83
+04. Third Party Meals and Entertainment,Meals/Entertainment (Third Party) EMEA,02,2023,2008,Em,SE,243.22
+06. Office Expenses,Office Supplies,02,2023,2008,Em,SE,468.4
+06. Office Expenses,Office Supplies,03,2023,2008,Em,SE,160.11
+06. Office Expenses,Office Supplies,04,2023,2008,Em,SE,124.15
+15. Sweden ONLY,Per Diem Allowance,02,2023,2008,Em,SE,2422.3
+15. Sweden ONLY,Per Diem Allowance,03,2023,2008,Em,SE,1353.76
+15. Sweden ONLY,Per Diem Allowance,04,2023,2008,Em,SE,812.44
+13. Professional Services,Professional Fees,02,2023,2008,Em,SE,167.32
+13. Professional Services,Professional Fees,03,2023,2008,Em,SE,167.06
+13. Professional Services,Professional Fees,04,2023,2008,Em,SE,55.92
+02. Transportation,Public Transport,02,2023,2008,Em,SE,1207.6
+02. Transportation,Public Transport,03,2023,2008,Em,SE,1689.46
+02. Transportation,Public Transport,04,2023,2008,Em,SE,960.1
+02. Transportation,Taxi/Rideshare,02,2023,2008,Em,SE,790.62
+02. Transportation,Taxi/Rideshare,03,2023,2008,Em,SE,896.8
+02. Transportation,Taxi/Rideshare,04,2023,2008,Em,SE,107.24
+04. Third Party Meals and Entertainment,Third Party Gifts,04,2023,2008,Em,SE,36.83
+06. Office Expenses,Tools/Equipment/Lab Supplies,02,2023,2008,Em,SE,46.06
+06. Office Expenses,Tools/Equipment/Lab Supplies,03,2023,2008,Em,SE,1852.38
+08. Fees,Visa/Passport/Border Security Program Fees,03,2023,2008,Em,SE,43.21
+13. Professional Services,Wellbeing (HR Only),03,2023,2008,Em,SE,771.42
+03. Employee Meals and Entertainment,Working Meals (Employees Only),02,2023,2008,Em,SE,268.02
+03. Employee Meals and Entertainment,Working Meals (Employees Only),03,2023,2008,Em,SE,87.58
+08. Fees,Agency Booking Fees,03,2023,2008.0,Em,SE,35.24
+08. Fees,Agency Booking Fees,04,2023,2008.0,Em,SE,77.47
+02. Transportation,Airfare (Corporate Card/Out-of-Pocket),02,2023,2008.0,Em,SE,2220.35
+02. Transportation,Airfare (Corporate Card/Out-of-Pocket),03,2023,2008.0,Em,SE,4217.34
+02. Transportation,Airfare (Corporate Card/Out-of-Pocket),04,2023,2008.0,Em,SE,1501.76
+11. Learning and Development,Books/Subscriptions,04,2023,2008.0,Em,SE,28.06
+11. Learning and Development,Conferences/Tradeshows Registration Fees,02,2023,2008.0,Em,SE,995.55
+11. Learning and Development,Conferences/Tradeshows Registration Fees,03,2023,2008.0,Em,SE,5325.9
+03. Employee Meals and Entertainment,Employee Awards/Recognition,04,2023,2008.0,Em,SE,14.75
+06. Office Expenses,Food Services/Supplies (Facilities),03,2023,2008.0,Em,SE,17.93
+01. Travel Expenses,Hotel,02,2023,2008.0,Em,SE,2324.7
+01. Travel Expenses,Hotel,03,2023,2008.0,Em,SE,1390.02
+01. Travel Expenses,Hotel,04,2023,2008.0,Em,SE,1787.97
+01. Travel Expenses,Hotel Tax,02,2023,2008.0,Em,SE,382.18
+01. Travel Expenses,Hotel Tax,04,2023,2008.0,Em,SE,180.0
+03. Employee Meals and Entertainment,Meals/Entertainment (Employees),02,2023,2008.0,Em,SE,147.6
+03. Employee Meals and Entertainment,Meals/Entertainment (Employees),03,2023,2008.0,Em,SE,595.58
+09. Other,Miscellaneous,03,2023,2008.0,Em,SE,0.0
+06. Office Expenses,Office Supplies,03,2023,2008.0,Em,SE,3.78
+15. Sweden ONLY,Per Diem Allowance,02,2023,2008.0,Em,SE,1732.52
+15. Sweden ONLY,Per Diem Allowance,03,2023,2008.0,Em,SE,449.46
+15. Sweden ONLY,Per Diem Allowance,04,2023,2008.0,Em,SE,1175.26
+02. Transportation,Public Transport,02,2023,2008.0,Em,SE,68.04
+02. Transportation,Public Transport,03,2023,2008.0,Em,SE,2.3
+02. Transportation,Public Transport,04,2023,2008.0,Em,SE,146.2
+02. Transportation,Taxi/Rideshare,02,2023,2008.0,Em,SE,328.62
+02. Transportation,Taxi/Rideshare,03,2023,2008.0,Em,SE,1643.32
+02. Transportation,Taxi/Rideshare,04,2023,2008.0,Em,SE,267.45
+06. Office Expenses,Tools/Equipment/Lab Supplies,02,2023,2008.0,Em,SE,286.58
+03. Employee Meals and Entertainment,Travel Meals (Traveling Dolby Employees only),03,2023,2008.0,Em,SE,277.42
+03. Employee Meals and Entertainment,Travel Meals (Traveling Dolby Employees only),04,2023,2008.0,Em,SE,189.68
+08. Fees,Visa/Passport/Border Security Program Fees,02,2023,2008.0,Em,SE,43.14
+08. Fees,Agency Booking Fees,02,2023,2009,Em,DE,1338.02
+08. Fees,Agency Booking Fees,03,2023,2009,Em,DE,-662.41
+08. Fees,Agency Booking Fees,04,2023,2009,Em,DE,602.12
+02. Transportation,Airfare (Corporate Card/Out-of-Pocket),02,2023,2009,Em,DE,123995.36
+02. Transportation,Airfare (Corporate Card/Out-of-Pocket),03,2023,2009,Em,DE,80645.18
+02. Transportation,Airfare (Corporate Card/Out-of-Pocket),04,2023,2009,Em,DE,28629.15
+02. Transportation,Airline Fees,02,2023,2009,Em,DE,1588.38
+02. Transportation,Airline Fees,03,2023,2009,Em,DE,1721.61
+02. Transportation,Airline Fees,04,2023,2009,Em,DE,65.24
+08. Fees,Bank Fees,02,2023,2009,Em,DE,163.41
+08. Fees,Bank Fees,04,2023,2009,Em,DE,43.37
+11. Learning and Development,Books/Subscriptions,02,2023,2009,Em,DE,2573.63
+11. Learning and Development,Books/Subscriptions,03,2023,2009,Em,DE,1396.31
+11. Learning and Development,Books/Subscriptions,04,2023,2009,Em,DE,919.54
+06. Office Expenses,Building Infrastructure/Repair,03,2023,2009,Em,DE,881.5
+06. Office Expenses,Building Supplies/Maintenance,02,2023,2009,Em,DE,138.16
+06. Office Expenses,Building Supplies/Maintenance,03,2023,2009,Em,DE,154.02
+06. Office Expenses,Building Supplies/Maintenance,04,2023,2009,Em,DE,315.58
+02. Transportation,Car Rental,02,2023,2009,Em,DE,7557.04
+02. Transportation,Car Rental,03,2023,2009,Em,DE,6984.32
+02. Transportation,Car Rental,04,2023,2009,Em,DE,548.13
+03. Employee Meals and Entertainment,Company Events,02,2023,2009,Em,DE,1583.78
+03. Employee Meals and Entertainment,Company Events,03,2023,2009,Em,DE,13794.09
+03. Employee Meals and Entertainment,Company Events,04,2023,2009,Em,DE,1678.8
+06. Office Expenses,Computer Supplies,02,2023,2009,Em,DE,3796.61
+06. Office Expenses,Computer Supplies,03,2023,2009,Em,DE,120.96
+06. Office Expenses,Computer Supplies,04,2023,2009,Em,DE,2515.58
+11. Learning and Development,Conferences/Tradeshows Registration Fees,02,2023,2009,Em,DE,447.0
+11. Learning and Development,Conferences/Tradeshows Registration Fees,03,2023,2009,Em,DE,902.24
+11. Learning and Development,Conferences/Tradeshows Registration Fees,04,2023,2009,Em,DE,3439.6
+06. Office Expenses,Courier/Shipping/Freight/Postage,02,2023,2009,Em,DE,279.82
+06. Office Expenses,Courier/Shipping/Freight/Postage,03,2023,2009,Em,DE,22.08
+06. Office Expenses,Courier/Shipping/Freight/Postage,04,2023,2009,Em,DE,45.02
+08. Fees,Currency Exchange Fees,04,2023,2009,Em,DE,102.9
+09. Other,Daily Allowance,01,2024,2009,Em,DE,14.71
+09. Other,Daily Allowance,02,2023,2009,Em,DE,12600.12
+09. Other,Daily Allowance,03,2023,2009,Em,DE,9918.72
+09. Other,Daily Allowance,04,2023,2009,Em,DE,4152.47
+06. Office Expenses,Dolby Fleet Maintenance Costs,02,2023,2009,Em,DE,1379.24
+06. Office Expenses,Dolby Fleet Maintenance Costs,03,2023,2009,Em,DE,142.0
+11. Learning and Development,Dues/Memberships,02,2023,2009,Em,DE,976.88
+11. Learning and Development,Dues/Memberships,03,2023,2009,Em,DE,2224.73
+11. Learning and Development,Dues/Memberships,04,2023,2009,Em,DE,784.48
+11. Learning and Development,Education,02,2023,2009,Em,DE,31.68
+03. Employee Meals and Entertainment,Employee Awards/Recognition,02,2023,2009,Em,DE,1932.2
+03. Employee Meals and Entertainment,Employee Awards/Recognition,03,2023,2009,Em,DE,1314.13
+06. Office Expenses,Expensed Furniture,04,2023,2009,Em,DE,2552.7
+06. Office Expenses,Food Services/Supplies (Facilities),02,2023,2009,Em,DE,1858.76
+06. Office Expenses,Food Services/Supplies (Facilities),03,2023,2009,Em,DE,2020.9
+06. Office Expenses,Food Services/Supplies (Facilities),04,2023,2009,Em,DE,853.21
+01. Travel Expenses,Hotel,02,2023,2009,Em,DE,77061.94
+01. Travel Expenses,Hotel,03,2023,2009,Em,DE,71792.08
+01. Travel Expenses,Hotel,04,2023,2009,Em,DE,32219.45
+01. Travel Expenses,Hotel Deposit,04,2023,2009,Em,DE,771.01
+01. Travel Expenses,Hotel Tax,02,2023,2009,Em,DE,12315.66
+01. Travel Expenses,Hotel Tax,03,2023,2009,Em,DE,7510.74
+01. Travel Expenses,Hotel Tax,04,2023,2009,Em,DE,2870.22
+01. Travel Expenses,Laundry,03,2023,2009,Em,DE,124.1
+01. Travel Expenses,Laundry,04,2023,2009,Em,DE,45.69
+03. Employee Meals and Entertainment,Meals/Entertainment (Employees),01,2024,2009,Em,DE,189.12
+03. Employee Meals and Entertainment,Meals/Entertainment (Employees),02,2023,2009,Em,DE,11921.65
+03. Employee Meals and Entertainment,Meals/Entertainment (Employees),03,2023,2009,Em,DE,9884.91
+03. Employee Meals and Entertainment,Meals/Entertainment (Employees),04,2023,2009,Em,DE,5915.98
+04. Third Party Meals and Entertainment,Meals/Entertainment (Third Party) EMEA,02,2023,2009,Em,DE,16843.13
+04. Third Party Meals and Entertainment,Meals/Entertainment (Third Party) EMEA,03,2023,2009,Em,DE,9914.54
+04. Third Party Meals and Entertainment,Meals/Entertainment (Third Party) EMEA,04,2023,2009,Em,DE,8712.18
+02. Transportation,Mileage,02,2023,2009,Em,DE,2036.27
+02. Transportation,Mileage,03,2023,2009,Em,DE,3700.2
+02. Transportation,Mileage,04,2023,2009,Em,DE,1837.68
+09. Other,Miscellaneous,01,2024,2009,Em,DE,908.29
+09. Other,Miscellaneous,02,2023,2009,Em,DE,17230.62
+09. Other,Miscellaneous,03,2023,2009,Em,DE,195.22
+09. Other,Miscellaneous,04,2023,2009,Em,DE,739.04
+07. Communications,Mobile/Cellular Phone,02,2023,2009,Em,DE,287.99
+06. Office Expenses,Office Supplies,02,2023,2009,Em,DE,444.12
+06. Office Expenses,Office Supplies,03,2023,2009,Em,DE,3233.0
+06. Office Expenses,Office Supplies,04,2023,2009,Em,DE,2696.3
+06. Office Expenses,Pandemic Protocol Expenses,03,2023,2009,Em,DE,19.12
+02. Transportation,Parking,02,2023,2009,Em,DE,1550.94
+02. Transportation,Parking,03,2023,2009,Em,DE,1860.22
+02. Transportation,Parking,04,2023,2009,Em,DE,379.38
+09. Other,Personal-Not Paid to Corporate Card Bank,02,2023,2009,Em,DE,-3.34
+09. Other,Personal-Not Paid to Corporate Card Bank,03,2023,2009,Em,DE,41.56
+09. Other,Personal-Not Paid to Corporate Card Bank,04,2023,2009,Em,DE,-0.14
+06. Office Expenses,Printing/Photocopying,02,2023,2009,Em,DE,13.19
+06. Office Expenses,Printing/Photocopying,04,2023,2009,Em,DE,48.62
+13. Professional Services,Professional Fees,04,2023,2009,Em,DE,627.66
+02. Transportation,Public Transport,01,2024,2009,Em,DE,69.16
+02. Transportation,Public Transport,02,2023,2009,Em,DE,9347.72
+02. Transportation,Public Transport,03,2023,2009,Em,DE,12298.92
+02. Transportation,Public Transport,04,2023,2009,Em,DE,6041.54
+06. Office Expenses,Safety/Security,03,2023,2009,Em,DE,122.94
+06. Office Expenses,Services and Systems Hosting,03,2023,2009,Em,DE,7.62
+06. Office Expenses,Software,02,2023,2009,Em,DE,123.2
+06. Office Expenses,Software,03,2023,2009,Em,DE,478.44
+06. Office Expenses,Software,04,2023,2009,Em,DE,154.73
+06. Office Expenses,Storage Fees,04,2023,2009,Em,DE,4.26
+02. Transportation,Taxi/Rideshare,02,2023,2009,Em,DE,11231.17
+02. Transportation,Taxi/Rideshare,03,2023,2009,Em,DE,8984.27
+02. Transportation,Taxi/Rideshare,04,2023,2009,Em,DE,4165.0
+04. Third Party Meals and Entertainment,Third Party Gifts,03,2023,2009,Em,DE,24.18
+01. Travel Expenses,Tips/Gratuities,02,2023,2009,Em,DE,28.32
+01. Travel Expenses,Tips/Gratuities,03,2023,2009,Em,DE,449.56
+01. Travel Expenses,Tips/Gratuities,04,2023,2009,Em,DE,76.09
+02. Transportation,Tolls,02,2023,2009,Em,DE,275.12
+02. Transportation,Tolls,04,2023,2009,Em,DE,111.97
+06. Office Expenses,Tools/Equipment/Lab Supplies,02,2023,2009,Em,DE,31354.27
+06. Office Expenses,Tools/Equipment/Lab Supplies,03,2023,2009,Em,DE,12111.89
+06. Office Expenses,Tools/Equipment/Lab Supplies,04,2023,2009,Em,DE,20978.28
+11. Learning and Development,Training Fees,02,2023,2009,Em,DE,1299.88
+11. Learning and Development,Training Fees,03,2023,2009,Em,DE,1414.01
+11. Learning and Development,Training Fees,04,2023,2009,Em,DE,2431.56
+03. Employee Meals and Entertainment,Travel Meals (Traveling Dolby Employees only),02,2023,2009,Em,DE,2887.08
+03. Employee Meals and Entertainment,Travel Meals (Traveling Dolby Employees only),03,2023,2009,Em,DE,4705.57
+03. Employee Meals and Entertainment,Travel Meals (Traveling Dolby Employees only),04,2023,2009,Em,DE,3095.83
+06. Office Expenses,Utilities,02,2023,2009,Em,DE,116.28
+06. Office Expenses,Utilities,03,2023,2009,Em,DE,146.19
+06. Office Expenses,Utilities,04,2023,2009,Em,DE,39.42
+08. Fees,Visa/Passport/Border Security Program Fees,02,2023,2009,Em,DE,1955.14
+08. Fees,Visa/Passport/Border Security Program Fees,03,2023,2009,Em,DE,1055.66
+08. Fees,Visa/Passport/Border Security Program Fees,04,2023,2009,Em,DE,222.47
+13. Professional Services,Wellbeing (HR Only),02,2023,2009,Em,DE,920.7
+07. Communications,Wifi/Internet/Telephone,02,2023,2009,Em,DE,63.54
+07. Communications,Wifi/Internet/Telephone,03,2023,2009,Em,DE,214.24
+07. Communications,Wifi/Internet/Telephone,04,2023,2009,Em,DE,22.38
+03. Employee Meals and Entertainment,Working Meals (Employees Only),02,2023,2009,Em,DE,4975.03
+03. Employee Meals and Entertainment,Working Meals (Employees Only),03,2023,2009,Em,DE,6196.1
+03. Employee Meals and Entertainment,Working Meals (Employees Only),04,2023,2009,Em,DE,1387.9
+08. Fees,Agency Booking Fees,02,2023,2009.0,Em,DE,1391.3
+08. Fees,Agency Booking Fees,03,2023,2009.0,Em,DE,1143.78
+08. Fees,Agency Booking Fees,04,2023,2009.0,Em,DE,358.67
+02. Transportation,Airfare (Corporate Card/Out-of-Pocket),02,2023,2009.0,Em,DE,40474.08
+02. Transportation,Airfare (Corporate Card/Out-of-Pocket),03,2023,2009.0,Em,DE,50064.51
+02. Transportation,Airfare (Corporate Card/Out-of-Pocket),04,2023,2009.0,Em,DE,13473.58
+02. Transportation,Airline Fees,02,2023,2009.0,Em,DE,161.58
+02. Transportation,Airline Fees,04,2023,2009.0,Em,DE,53.96
+08. Fees,Bank Fees,02,2023,2009.0,Em,DE,206.08
+08. Fees,Bank Fees,03,2023,2009.0,Em,DE,88.22
+11. Learning and Development,Books/Subscriptions,01,2024,2009.0,Em,DE,32.72
+11. Learning and Development,Books/Subscriptions,02,2023,2009.0,Em,DE,1472.08
+11. Learning and Development,Books/Subscriptions,03,2023,2009.0,Em,DE,1237.18
+11. Learning and Development,Books/Subscriptions,04,2023,2009.0,Em,DE,333.37
+06. Office Expenses,Building Supplies/Maintenance,02,2023,2009.0,Em,DE,669.08
+06. Office Expenses,Building Supplies/Maintenance,03,2023,2009.0,Em,DE,59.36
+06. Office Expenses,Building Supplies/Maintenance,04,2023,2009.0,Em,DE,1870.84
+02. Transportation,Car Rental,02,2023,2009.0,Em,DE,3192.29
+02. Transportation,Car Rental,03,2023,2009.0,Em,DE,2618.78
+02. Transportation,Car Rental,04,2023,2009.0,Em,DE,1235.56
+03. Employee Meals and Entertainment,Company Events,03,2023,2009.0,Em,DE,167.62
+03. Employee Meals and Entertainment,Company Events,04,2023,2009.0,Em,DE,1148.9
+06. Office Expenses,Computer Supplies,02,2023,2009.0,Em,DE,1157.17
+06. Office Expenses,Computer Supplies,03,2023,2009.0,Em,DE,1067.08
+06. Office Expenses,Computer Supplies,04,2023,2009.0,Em,DE,540.45
+11. Learning and Development,Conferences/Tradeshows Registration Fees,02,2023,2009.0,Em,DE,974.46
+11. Learning and Development,Conferences/Tradeshows Registration Fees,03,2023,2009.0,Em,DE,5742.75
+11. Learning and Development,Conferences/Tradeshows Registration Fees,04,2023,2009.0,Em,DE,3166.12
+06. Office Expenses,Courier/Shipping/Freight/Postage,02,2023,2009.0,Em,DE,533.04
+06. Office Expenses,Courier/Shipping/Freight/Postage,03,2023,2009.0,Em,DE,7.64
+06. Office Expenses,Courier/Shipping/Freight/Postage,04,2023,2009.0,Em,DE,68.01
+09. Other,Daily Allowance,02,2023,2009.0,Em,DE,7814.68
+09. Other,Daily Allowance,03,2023,2009.0,Em,DE,9895.67
+09. Other,Daily Allowance,04,2023,2009.0,Em,DE,5602.2
+06. Office Expenses,Dolby Fleet Maintenance Costs,02,2023,2009.0,Em,DE,2069.18
+06. Office Expenses,Dolby Fleet Maintenance Costs,03,2023,2009.0,Em,DE,3034.9
+06. Office Expenses,Dolby Fleet Maintenance Costs,04,2023,2009.0,Em,DE,2139.9
+11. Learning and Development,Dues/Memberships,02,2023,2009.0,Em,DE,364.54
+11. Learning and Development,Dues/Memberships,03,2023,2009.0,Em,DE,1457.38
+11. Learning and Development,Dues/Memberships,04,2023,2009.0,Em,DE,655.96
+11. Learning and Development,Education,02,2023,2009.0,Em,DE,10.44
+03. Employee Meals and Entertainment,Employee Awards/Recognition,02,2023,2009.0,Em,DE,949.44
+03. Employee Meals and Entertainment,Employee Awards/Recognition,04,2023,2009.0,Em,DE,16.93
+12. Marketing Expenses,Exhibit Expenses,02,2023,2009.0,Em,DE,9759.94
+12. Marketing Expenses,Exhibit Expenses,03,2023,2009.0,Em,DE,3822.06
+12. Marketing Expenses,Exhibit Expenses,04,2023,2009.0,Em,DE,1400.12
+06. Office Expenses,Food Services/Supplies (Facilities),04,2023,2009.0,Em,DE,35.58
+01. Travel Expenses,Hotel,02,2023,2009.0,Em,DE,27990.91
+01. Travel Expenses,Hotel,03,2023,2009.0,Em,DE,72647.62
+01. Travel Expenses,Hotel,04,2023,2009.0,Em,DE,35663.68
+01. Travel Expenses,Hotel (Group Bookings and Events),02,2023,2009.0,Em,DE,0.0
+01. Travel Expenses,Hotel (Group Bookings and Events),03,2023,2009.0,Em,DE,644.36
+01. Travel Expenses,Hotel Deposit,02,2023,2009.0,Em,DE,292.78
+01. Travel Expenses,Hotel Deposit,03,2023,2009.0,Em,DE,791.44
+01. Travel Expenses,Hotel Deposit,04,2023,2009.0,Em,DE,6.84
+01. Travel Expenses,Hotel Tax,02,2023,2009.0,Em,DE,1264.7
+01. Travel Expenses,Hotel Tax,03,2023,2009.0,Em,DE,6950.14
+01. Travel Expenses,Hotel Tax,04,2023,2009.0,Em,DE,2561.44
+01. Travel Expenses,Hotel VAT,03,2023,2009.0,Em,DE,9.52
+01. Travel Expenses,Hotel VAT,04,2023,2009.0,Em,DE,40.88
+03. Employee Meals and Entertainment,Meals/Entertainment (Employees),02,2023,2009.0,Em,DE,3162.33
+03. Employee Meals and Entertainment,Meals/Entertainment (Employees),03,2023,2009.0,Em,DE,6494.33
+03. Employee Meals and Entertainment,Meals/Entertainment (Employees),04,2023,2009.0,Em,DE,4472.97
+04. Third Party Meals and Entertainment,Meals/Entertainment (Third Party) EMEA,02,2023,2009.0,Em,DE,6773.75
+04. Third Party Meals and Entertainment,Meals/Entertainment (Third Party) EMEA,03,2023,2009.0,Em,DE,6679.09
+04. Third Party Meals and Entertainment,Meals/Entertainment (Third Party) EMEA,04,2023,2009.0,Em,DE,2685.08
+02. Transportation,Mileage,02,2023,2009.0,Em,DE,3979.43
+02. Transportation,Mileage,03,2023,2009.0,Em,DE,3929.74
+02. Transportation,Mileage,04,2023,2009.0,Em,DE,2157.57
+09. Other,Miscellaneous,02,2023,2009.0,Em,DE,-161.72
+09. Other,Miscellaneous,03,2023,2009.0,Em,DE,-65.03
+09. Other,Miscellaneous,04,2023,2009.0,Em,DE,119.47
+07. Communications,Mobile/Cellular Phone,02,2023,2009.0,Em,DE,5612.05
+06. Office Expenses,Office Supplies,02,2023,2009.0,Em,DE,45.1
+06. Office Expenses,Office Supplies,03,2023,2009.0,Em,DE,489.86
+06. Office Expenses,Office Supplies,04,2023,2009.0,Em,DE,287.71
+02. Transportation,Parking,02,2023,2009.0,Em,DE,2216.8
+02. Transportation,Parking,03,2023,2009.0,Em,DE,2447.42
+02. Transportation,Parking,04,2023,2009.0,Em,DE,1020.41
+09. Other,Personal-Not Paid to Corporate Card Bank,02,2023,2009.0,Em,DE,-221.74
+09. Other,Personal-Not Paid to Corporate Card Bank,03,2023,2009.0,Em,DE,22.3
+09. Other,Personal-Not Paid to Corporate Card Bank,04,2023,2009.0,Em,DE,86.38
+06. Office Expenses,Printing/Photocopying,02,2023,2009.0,Em,DE,13.19
+06. Office Expenses,Printing/Photocopying,03,2023,2009.0,Em,DE,157.32
+06. Office Expenses,Printing/Photocopying,04,2023,2009.0,Em,DE,68.34
+13. Professional Services,Professional Fees,02,2023,2009.0,Em,DE,20861.8
+13. Professional Services,Professional Fees,03,2023,2009.0,Em,DE,10406.77
+12. Marketing Expenses,Promotional Expenses,02,2023,2009.0,Em,DE,2847.9
+12. Marketing Expenses,Promotional Expenses,03,2023,2009.0,Em,DE,1248.16
+12. Marketing Expenses,Promotional Expenses,04,2023,2009.0,Em,DE,3484.23
+02. Transportation,Public Transport,02,2023,2009.0,Em,DE,10797.1
+02. Transportation,Public Transport,03,2023,2009.0,Em,DE,8369.51
+02. Transportation,Public Transport,04,2023,2009.0,Em,DE,5037.74
+06. Office Expenses,Safety/Security,02,2023,2009.0,Em,DE,86.17
+06. Office Expenses,Software,02,2023,2009.0,Em,DE,323.76
+06. Office Expenses,Software,03,2023,2009.0,Em,DE,1091.33
+06. Office Expenses,Software,04,2023,2009.0,Em,DE,1102.21
+02. Transportation,Taxi/Rideshare,02,2023,2009.0,Em,DE,5497.71
+02. Transportation,Taxi/Rideshare,03,2023,2009.0,Em,DE,6756.05
+02. Transportation,Taxi/Rideshare,04,2023,2009.0,Em,DE,2322.35
+04. Third Party Meals and Entertainment,Third Party Gifts,02,2023,2009.0,Em,DE,35.88
+04. Third Party Meals and Entertainment,Third Party Gifts,03,2023,2009.0,Em,DE,63.67
+04. Third Party Meals and Entertainment,Third Party Gifts,04,2023,2009.0,Em,DE,74.3
+01. Travel Expenses,Tips/Gratuities,03,2023,2009.0,Em,DE,74.07
+01. Travel Expenses,Tips/Gratuities,04,2023,2009.0,Em,DE,15.03
+02. Transportation,Tolls,02,2023,2009.0,Em,DE,211.6
+02. Transportation,Tolls,03,2023,2009.0,Em,DE,126.89
+02. Transportation,Tolls,04,2023,2009.0,Em,DE,92.46
+06. Office Expenses,Tools/Equipment/Lab Supplies,02,2023,2009.0,Em,DE,28159.2
+06. Office Expenses,Tools/Equipment/Lab Supplies,03,2023,2009.0,Em,DE,5854.39
+06. Office Expenses,Tools/Equipment/Lab Supplies,04,2023,2009.0,Em,DE,11737.31
+11. Learning and Development,Training Fees,02,2023,2009.0,Em,DE,1432.56
+11. Learning and Development,Training Fees,03,2023,2009.0,Em,DE,4498.73
+11. Learning and Development,Training Fees,04,2023,2009.0,Em,DE,2384.41
+03. Employee Meals and Entertainment,Travel Meals (Traveling Dolby Employees only),02,2023,2009.0,Em,DE,531.24
+03. Employee Meals and Entertainment,Travel Meals (Traveling Dolby Employees only),03,2023,2009.0,Em,DE,1816.96
+03. Employee Meals and Entertainment,Travel Meals (Traveling Dolby Employees only),04,2023,2009.0,Em,DE,397.73
+06. Office Expenses,Utilities,02,2023,2009.0,Em,DE,115.18
+06. Office Expenses,Utilities,03,2023,2009.0,Em,DE,118.05
+06. Office Expenses,Utilities,04,2023,2009.0,Em,DE,19.63
+08. Fees,Visa/Passport/Border Security Program Fees,02,2023,2009.0,Em,DE,1396.86
+08. Fees,Visa/Passport/Border Security Program Fees,03,2023,2009.0,Em,DE,1041.97
+08. Fees,Visa/Passport/Border Security Program Fees,04,2023,2009.0,Em,DE,21.61
+13. Professional Services,Wellbeing (HR Only),02,2023,2009.0,Em,DE,84.76
+07. Communications,Wifi/Internet/Telephone,02,2023,2009.0,Em,DE,214.46
+07. Communications,Wifi/Internet/Telephone,03,2023,2009.0,Em,DE,301.94
+07. Communications,Wifi/Internet/Telephone,04,2023,2009.0,Em,DE,70.41
+03. Employee Meals and Entertainment,Working Meals (Employees Only),02,2023,2009.0,Em,DE,1171.38
+03. Employee Meals and Entertainment,Working Meals (Employees Only),03,2023,2009.0,Em,DE,2607.18
+03. Employee Meals and Entertainment,Working Meals (Employees Only),04,2023,2009.0,Em,DE,778.31
+08. Fees,Agency Booking Fees,02,2023,2014,Em,FR,397.74
+08. Fees,Agency Booking Fees,03,2023,2014,Em,FR,444.41
+08. Fees,Agency Booking Fees,04,2023,2014,Em,FR,-281.95
+02. Transportation,Airfare (Corporate Card/Out-of-Pocket),02,2023,2014,Em,FR,33268.43
+02. Transportation,Airfare (Corporate Card/Out-of-Pocket),03,2023,2014,Em,FR,43911.51
+02. Transportation,Airfare (Corporate Card/Out-of-Pocket),04,2023,2014,Em,FR,5554.94
+02. Transportation,Airline Fees,02,2023,2014,Em,FR,562.79
+02. Transportation,Airline Fees,03,2023,2014,Em,FR,588.17
+02. Transportation,Airline Fees,04,2023,2014,Em,FR,10.06
+11. Learning and Development,Books/Subscriptions,02,2023,2014,Em,FR,827.7
+11. Learning and Development,Books/Subscriptions,03,2023,2014,Em,FR,575.76
+11. Learning and Development,Books/Subscriptions,04,2023,2014,Em,FR,388.57
+06. Office Expenses,Building Supplies/Maintenance,02,2023,2014,Em,FR,1129.63
+06. Office Expenses,Building Supplies/Maintenance,03,2023,2014,Em,FR,61.32
+06. Office Expenses,Building Supplies/Maintenance,04,2023,2014,Em,FR,144.97
+02. Transportation,Car Rental,02,2023,2014,Em,FR,1726.06
+02. Transportation,Car Rental,04,2023,2014,Em,FR,489.75
+03. Employee Meals and Entertainment,Company Events,02,2023,2014,Em,FR,1176.92
+03. Employee Meals and Entertainment,Company Events,03,2023,2014,Em,FR,3207.96
+03. Employee Meals and Entertainment,Company Events,04,2023,2014,Em,FR,1288.73
+06. Office Expenses,Computer Supplies,02,2023,2014,Em,FR,5555.04
+06. Office Expenses,Computer Supplies,03,2023,2014,Em,FR,1182.51
+06. Office Expenses,Computer Supplies,04,2023,2014,Em,FR,1776.39
+11. Learning and Development,Conferences/Tradeshows Registration Fees,02,2023,2014,Em,FR,2734.05
+11. Learning and Development,Conferences/Tradeshows Registration Fees,03,2023,2014,Em,FR,8.8
+11. Learning and Development,Conferences/Tradeshows Registration Fees,04,2023,2014,Em,FR,236.03
+06. Office Expenses,Courier/Shipping/Freight/Postage,02,2023,2014,Em,FR,194.96
+06. Office Expenses,Courier/Shipping/Freight/Postage,03,2023,2014,Em,FR,381.28
+06. Office Expenses,Courier/Shipping/Freight/Postage,04,2023,2014,Em,FR,147.51
+06. Office Expenses,Dolby Fleet Maintenance Costs,02,2023,2014,Em,FR,184.28
+06. Office Expenses,Dolby Fleet Maintenance Costs,03,2023,2014,Em,FR,67.6
+06. Office Expenses,Dolby Fleet Maintenance Costs,04,2023,2014,Em,FR,1487.05
+11. Learning and Development,Dues/Memberships,02,2023,2014,Em,FR,175.77
+11. Learning and Development,Dues/Memberships,03,2023,2014,Em,FR,28.41
+03. Employee Meals and Entertainment,Employee Awards/Recognition,02,2023,2014,Em,FR,3028.08
+12. Marketing Expenses,Exhibit Expenses,02,2023,2014,Em,FR,200.28
+12. Marketing Expenses,Exhibit Expenses,03,2023,2014,Em,FR,11980.96
+12. Marketing Expenses,Exhibit Expenses,04,2023,2014,Em,FR,988.24
+06. Office Expenses,Food Services/Supplies (Facilities),02,2023,2014,Em,FR,157.25
+01. Travel Expenses,Hotel,01,2024,2014,Em,FR,934.15
+01. Travel Expenses,Hotel,02,2023,2014,Em,FR,33039.69
+01. Travel Expenses,Hotel,03,2023,2014,Em,FR,19565.71
+01. Travel Expenses,Hotel,04,2023,2014,Em,FR,3811.32
+01. Travel Expenses,Hotel Deposit,02,2023,2014,Em,FR,690.94
+01. Travel Expenses,Hotel Deposit,03,2023,2014,Em,FR,1321.56
+01. Travel Expenses,Hotel Tax,01,2024,2014,Em,FR,186.84
+01. Travel Expenses,Hotel Tax,02,2023,2014,Em,FR,2328.72
+01. Travel Expenses,Hotel Tax,03,2023,2014,Em,FR,1809.18
+01. Travel Expenses,Hotel Tax,04,2023,2014,Em,FR,254.64
+01. Travel Expenses,Hotel VAT,03,2023,2014,Em,FR,173.91
+01. Travel Expenses,Laundry,03,2023,2014,Em,FR,479.66
+03. Employee Meals and Entertainment,Meals/Entertainment (Employees),02,2023,2014,Em,FR,4200.88
+03. Employee Meals and Entertainment,Meals/Entertainment (Employees),03,2023,2014,Em,FR,2231.17
+03. Employee Meals and Entertainment,Meals/Entertainment (Employees),04,2023,2014,Em,FR,261.96
+04. Third Party Meals and Entertainment,Meals/Entertainment (Third Party) EMEA,02,2023,2014,Em,FR,14302.19
+04. Third Party Meals and Entertainment,Meals/Entertainment (Third Party) EMEA,03,2023,2014,Em,FR,4128.03
+04. Third Party Meals and Entertainment,Meals/Entertainment (Third Party) EMEA,04,2023,2014,Em,FR,211.62
+02. Transportation,Mileage,02,2023,2014,Em,FR,742.44
+02. Transportation,Mileage,03,2023,2014,Em,FR,1528.37
+02. Transportation,Mileage,04,2023,2014,Em,FR,94.68
+09. Other,Miscellaneous,02,2023,2014,Em,FR,542.94
+09. Other,Miscellaneous,03,2023,2014,Em,FR,94.56
+09. Other,Miscellaneous,04,2023,2014,Em,FR,85.37
+07. Communications,Mobile/Cellular Phone,02,2023,2014,Em,FR,317.02
+07. Communications,Mobile/Cellular Phone,03,2023,2014,Em,FR,197.32
+07. Communications,Mobile/Cellular Phone,04,2023,2014,Em,FR,1242.12
+06. Office Expenses,Office Supplies,02,2023,2014,Em,FR,1545.74
+06. Office Expenses,Office Supplies,03,2023,2014,Em,FR,892.76
+06. Office Expenses,Office Supplies,04,2023,2014,Em,FR,1398.64
+06. Office Expenses,Pandemic Protocol Expenses,02,2023,2014,Em,FR,145.44
+06. Office Expenses,Pandemic Protocol Expenses,03,2023,2014,Em,FR,10.92
+02. Transportation,Parking,02,2023,2014,Em,FR,7611.92
+02. Transportation,Parking,03,2023,2014,Em,FR,843.65
+02. Transportation,Parking,04,2023,2014,Em,FR,185.6
+09. Other,Personal-Not Paid to Corporate Card Bank,02,2023,2014,Em,FR,1159.84
+09. Other,Personal-Not Paid to Corporate Card Bank,03,2023,2014,Em,FR,503.08
+09. Other,Personal-Not Paid to Corporate Card Bank,04,2023,2014,Em,FR,43.42
+13. Professional Services,Professional Fees,02,2023,2014,Em,FR,127.94
+13. Professional Services,Professional Fees,04,2023,2014,Em,FR,383.17
+12. Marketing Expenses,Promotional Expenses,02,2023,2014,Em,FR,1175.28
+12. Marketing Expenses,Promotional Expenses,03,2023,2014,Em,FR,2979.78
+12. Marketing Expenses,Promotional Expenses,04,2023,2014,Em,FR,2711.81
+02. Transportation,Public Transport,01,2024,2014,Em,FR,3.37
+02. Transportation,Public Transport,02,2023,2014,Em,FR,12943.82
+02. Transportation,Public Transport,03,2023,2014,Em,FR,3589.16
+02. Transportation,Public Transport,04,2023,2014,Em,FR,1461.82
+06. Office Expenses,Software,03,2023,2014,Em,FR,152.12
+06. Office Expenses,Software,04,2023,2014,Em,FR,255.42
+02. Transportation,Taxi/Rideshare,01,2024,2014,Em,FR,13.6
+02. Transportation,Taxi/Rideshare,02,2023,2014,Em,FR,9506.59
+02. Transportation,Taxi/Rideshare,03,2023,2014,Em,FR,4538.92
+02. Transportation,Taxi/Rideshare,04,2023,2014,Em,FR,788.43
+04. Third Party Meals and Entertainment,Third Party Gifts,02,2023,2014,Em,FR,92.12
+01. Travel Expenses,Tips/Gratuities,02,2023,2014,Em,FR,52.94
+02. Transportation,Tolls,02,2023,2014,Em,FR,131.99
+02. Transportation,Tolls,03,2023,2014,Em,FR,205.56
+02. Transportation,Tolls,04,2023,2014,Em,FR,372.42
+06. Office Expenses,Tools/Equipment/Lab Supplies,02,2023,2014,Em,FR,9758.78
+06. Office Expenses,Tools/Equipment/Lab Supplies,03,2023,2014,Em,FR,3239.09
+06. Office Expenses,Tools/Equipment/Lab Supplies,04,2023,2014,Em,FR,1954.38
+03. Employee Meals and Entertainment,Travel Meals (Traveling Dolby Employees only),01,2024,2014,Em,FR,131.13
+03. Employee Meals and Entertainment,Travel Meals (Traveling Dolby Employees only),02,2023,2014,Em,FR,11559.89
+03. Employee Meals and Entertainment,Travel Meals (Traveling Dolby Employees only),03,2023,2014,Em,FR,5378.66
+03. Employee Meals and Entertainment,Travel Meals (Traveling Dolby Employees only),04,2023,2014,Em,FR,883.33
+06. Office Expenses,Utilities,04,2023,2014,Em,FR,-9.68
+08. Fees,Visa/Passport/Border Security Program Fees,02,2023,2014,Em,FR,237.62
+13. Professional Services,Wellbeing (HR Only),02,2023,2014,Em,FR,355.16
+13. Professional Services,Wellbeing (HR Only),04,2023,2014,Em,FR,578.91
+07. Communications,Wifi/Internet/Telephone,03,2023,2014,Em,FR,360.02
+03. Employee Meals and Entertainment,Working Meals (Employees Only),02,2023,2014,Em,FR,35.87
+03. Employee Meals and Entertainment,Working Meals (Employees Only),03,2023,2014,Em,FR,942.48
+03. Employee Meals and Entertainment,Working Meals (Employees Only),04,2023,2014,Em,FR,663.86
+08. Fees,Agency Booking Fees,02,2023,2014.0,Em,FR,99.18
+08. Fees,Agency Booking Fees,03,2023,2014.0,Em,FR,97.82
+08. Fees,Agency Booking Fees,04,2023,2014.0,Em,FR,18.84
+02. Transportation,Airfare (Corporate Card/Out-of-Pocket),02,2023,2014.0,Em,FR,4166.13
+02. Transportation,Airfare (Corporate Card/Out-of-Pocket),03,2023,2014.0,Em,FR,10390.56
+02. Transportation,Airfare (Corporate Card/Out-of-Pocket),04,2023,2014.0,Em,FR,1625.48
+02. Transportation,Airline Fees,03,2023,2014.0,Em,FR,752.58
+11. Learning and Development,Books/Subscriptions,02,2023,2014.0,Em,FR,28.7
+11. Learning and Development,Books/Subscriptions,03,2023,2014.0,Em,FR,125.35
+11. Learning and Development,Books/Subscriptions,04,2023,2014.0,Em,FR,19.2
+06. Office Expenses,Building Supplies/Maintenance,02,2023,2014.0,Em,FR,834.49
+06. Office Expenses,Building Supplies/Maintenance,03,2023,2014.0,Em,FR,124.6
+06. Office Expenses,Building Supplies/Maintenance,04,2023,2014.0,Em,FR,2193.94
+02. Transportation,Car Rental,03,2023,2014.0,Em,FR,1405.94
+02. Transportation,Car Rental,04,2023,2014.0,Em,FR,494.72
+03. Employee Meals and Entertainment,Company Events,04,2023,2014.0,Em,FR,1740.6
+06. Office Expenses,Computer Supplies,02,2023,2014.0,Em,FR,1844.3
+06. Office Expenses,Courier/Shipping/Freight/Postage,03,2023,2014.0,Em,FR,15.22
+06. Office Expenses,Courier/Shipping/Freight/Postage,04,2023,2014.0,Em,FR,153.27
+12. Marketing Expenses,Exhibit Expenses,02,2023,2014.0,Em,FR,19.22
+12. Marketing Expenses,Exhibit Expenses,03,2023,2014.0,Em,FR,1209.37
+12. Marketing Expenses,Exhibit Expenses,04,2023,2014.0,Em,FR,58.69
+06. Office Expenses,Food Services/Supplies (Facilities),02,2023,2014.0,Em,FR,157.25
+01. Travel Expenses,Hotel,02,2023,2014.0,Em,FR,1453.28
+01. Travel Expenses,Hotel,03,2023,2014.0,Em,FR,9902.33
+01. Travel Expenses,Hotel,04,2023,2014.0,Em,FR,6338.35
+01. Travel Expenses,Hotel Tax,02,2023,2014.0,Em,FR,16.28
+01. Travel Expenses,Hotel Tax,03,2023,2014.0,Em,FR,1108.88
+01. Travel Expenses,Hotel Tax,04,2023,2014.0,Em,FR,633.72
+01. Travel Expenses,Hotel VAT,03,2023,2014.0,Em,FR,206.51
+03. Employee Meals and Entertainment,Meals/Entertainment (Employees),02,2023,2014.0,Em,FR,632.2
+03. Employee Meals and Entertainment,Meals/Entertainment (Employees),03,2023,2014.0,Em,FR,1702.66
+03. Employee Meals and Entertainment,Meals/Entertainment (Employees),04,2023,2014.0,Em,FR,1166.44
+09. Other,Miscellaneous,03,2023,2014.0,Em,FR,0.2
+07. Communications,Mobile/Cellular Phone,02,2023,2014.0,Em,FR,51.46
+07. Communications,Mobile/Cellular Phone,03,2023,2014.0,Em,FR,156.86
+07. Communications,Mobile/Cellular Phone,04,2023,2014.0,Em,FR,1480.17
+06. Office Expenses,Office Supplies,04,2023,2014.0,Em,FR,49.82
+02. Transportation,Parking,03,2023,2014.0,Em,FR,156.17
+02. Transportation,Parking,04,2023,2014.0,Em,FR,297.77
+09. Other,Personal-Not Paid to Corporate Card Bank,04,2023,2014.0,Em,FR,22.5
+06. Office Expenses,Printing/Photocopying,04,2023,2014.0,Em,FR,163.31
+02. Transportation,Public Transport,02,2023,2014.0,Em,FR,1.48
+02. Transportation,Public Transport,03,2023,2014.0,Em,FR,1090.82
+02. Transportation,Public Transport,04,2023,2014.0,Em,FR,883.19
+02. Transportation,Taxi/Rideshare,02,2023,2014.0,Em,FR,399.0
+02. Transportation,Taxi/Rideshare,03,2023,2014.0,Em,FR,950.7
+02. Transportation,Taxi/Rideshare,04,2023,2014.0,Em,FR,593.64
+02. Transportation,Tolls,03,2023,2014.0,Em,FR,14.64
+02. Transportation,Tolls,04,2023,2014.0,Em,FR,16.18
+06. Office Expenses,Tools/Equipment/Lab Supplies,02,2023,2014.0,Em,FR,2411.24
+06. Office Expenses,Tools/Equipment/Lab Supplies,03,2023,2014.0,Em,FR,2214.75
+06. Office Expenses,Tools/Equipment/Lab Supplies,04,2023,2014.0,Em,FR,3897.07
+03. Employee Meals and Entertainment,Travel Meals (Traveling Dolby Employees only),02,2023,2014.0,Em,FR,216.93
+03. Employee Meals and Entertainment,Travel Meals (Traveling Dolby Employees only),03,2023,2014.0,Em,FR,1711.75
+03. Employee Meals and Entertainment,Travel Meals (Traveling Dolby Employees only),04,2023,2014.0,Em,FR,1276.9
+08. Fees,Visa/Passport/Border Security Program Fees,03,2023,2014.0,Em,FR,43.22
+03. Employee Meals and Entertainment,Working Meals (Employees Only),02,2023,2014.0,Em,FR,1025.61
+03. Employee Meals and Entertainment,Working Meals (Employees Only),03,2023,2014.0,Em,FR,14.02
+03. Employee Meals and Entertainment,Working Meals (Employees Only),04,2023,2014.0,Em,FR,2031.39
+08. Fees,Agency Booking Fees,02,2023,2015,Em,PL,2251.7
+08. Fees,Agency Booking Fees,03,2023,2015,Em,PL,250.4
+08. Fees,Agency Booking Fees,04,2023,2015,Em,PL,509.73
+02. Transportation,Airfare (Corporate Card/Out-of-Pocket),02,2023,2015,Em,PL,39935.57
+02. Transportation,Airfare (Corporate Card/Out-of-Pocket),03,2023,2015,Em,PL,23729.47
+02. Transportation,Airfare (Corporate Card/Out-of-Pocket),04,2023,2015,Em,PL,7696.08
+02. Transportation,Airline Fees,02,2023,2015,Em,PL,71.82
+02. Transportation,Airline Fees,03,2023,2015,Em,PL,186.6
+02. Transportation,Airline Fees,04,2023,2015,Em,PL,15.97
+08. Fees,Bank Fees,02,2023,2015,Em,PL,525.34
+08. Fees,Bank Fees,03,2023,2015,Em,PL,90.43
+08. Fees,Bank Fees,04,2023,2015,Em,PL,100.05
+11. Learning and Development,Books/Subscriptions,02,2023,2015,Em,PL,737.44
+11. Learning and Development,Books/Subscriptions,03,2023,2015,Em,PL,104.53
+11. Learning and Development,Books/Subscriptions,04,2023,2015,Em,PL,198.18
+06. Office Expenses,Building Supplies/Maintenance,02,2023,2015,Em,PL,162.16
+06. Office Expenses,Building Supplies/Maintenance,03,2023,2015,Em,PL,18.76
+02. Transportation,Car Rental,02,2023,2015,Em,PL,939.17
+02. Transportation,Car Rental,03,2023,2015,Em,PL,293.23
+02. Transportation,Car Rental,04,2023,2015,Em,PL,1582.85
+03. Employee Meals and Entertainment,Company Events,02,2023,2015,Em,PL,9173.94
+03. Employee Meals and Entertainment,Company Events,03,2023,2015,Em,PL,5113.68
+03. Employee Meals and Entertainment,Company Events,04,2023,2015,Em,PL,2104.93
+06. Office Expenses,Computer Supplies,01,2024,2015,Em,PL,127.73
+06. Office Expenses,Computer Supplies,02,2023,2015,Em,PL,8482.95
+06. Office Expenses,Computer Supplies,03,2023,2015,Em,PL,2456.74
+06. Office Expenses,Computer Supplies,04,2023,2015,Em,PL,1741.5
+11. Learning and Development,Conferences/Tradeshows Registration Fees,02,2023,2015,Em,PL,1102.56
+11. Learning and Development,Conferences/Tradeshows Registration Fees,03,2023,2015,Em,PL,4130.52
+11. Learning and Development,Conferences/Tradeshows Registration Fees,04,2023,2015,Em,PL,1299.29
+06. Office Expenses,Courier/Shipping/Freight/Postage,02,2023,2015,Em,PL,233.98
+06. Office Expenses,Courier/Shipping/Freight/Postage,03,2023,2015,Em,PL,5305.92
+06. Office Expenses,Courier/Shipping/Freight/Postage,04,2023,2015,Em,PL,32.51
+09. Other,Daily Allowance,01,2024,2015,Em,PL,25.84
+09. Other,Daily Allowance,02,2023,2015,Em,PL,11700.94
+09. Other,Daily Allowance,03,2023,2015,Em,PL,4144.01
+09. Other,Daily Allowance,04,2023,2015,Em,PL,5457.62
+06. Office Expenses,Dolby Fleet Maintenance Costs,02,2023,2015,Em,PL,608.62
+06. Office Expenses,Dolby Fleet Maintenance Costs,03,2023,2015,Em,PL,109.18
+11. Learning and Development,Dues/Memberships,02,2023,2015,Em,PL,919.34
+11. Learning and Development,Dues/Memberships,03,2023,2015,Em,PL,94.5
+11. Learning and Development,Dues/Memberships,04,2023,2015,Em,PL,342.47
+11. Learning and Development,Education,02,2023,2015,Em,PL,582.46
+11. Learning and Development,Education,03,2023,2015,Em,PL,72.24
+03. Employee Meals and Entertainment,Employee Awards/Recognition,02,2023,2015,Em,PL,1019.7
+03. Employee Meals and Entertainment,Employee Awards/Recognition,03,2023,2015,Em,PL,1100.66
+03. Employee Meals and Entertainment,Employee Awards/Recognition,04,2023,2015,Em,PL,1102.34
+06. Office Expenses,Equipment Rental/Repair,04,2023,2015,Em,PL,46.94
+06. Office Expenses,Food Services/Supplies (Facilities),02,2023,2015,Em,PL,784.99
+06. Office Expenses,Food Services/Supplies (Facilities),03,2023,2015,Em,PL,938.08
+01. Travel Expenses,Hotel,02,2023,2015,Em,PL,44713.58
+01. Travel Expenses,Hotel,03,2023,2015,Em,PL,18419.8
+01. Travel Expenses,Hotel,04,2023,2015,Em,PL,22775.94
+01. Travel Expenses,Hotel (Group Bookings and Events),02,2023,2015,Em,PL,458.72
+01. Travel Expenses,Hotel (Group Bookings and Events),03,2023,2015,Em,PL,3884.54
+01. Travel Expenses,Hotel Tax,02,2023,2015,Em,PL,8369.77
+01. Travel Expenses,Hotel Tax,03,2023,2015,Em,PL,1739.12
+01. Travel Expenses,Hotel Tax,04,2023,2015,Em,PL,3586.44
+03. Employee Meals and Entertainment,Meals/Entertainment (Employees),02,2023,2015,Em,PL,14881.51
+03. Employee Meals and Entertainment,Meals/Entertainment (Employees),03,2023,2015,Em,PL,12409.79
+03. Employee Meals and Entertainment,Meals/Entertainment (Employees),04,2023,2015,Em,PL,9088.62
+04. Third Party Meals and Entertainment,Meals/Entertainment (Third Party) EMEA,02,2023,2015,Em,PL,223.97
+04. Third Party Meals and Entertainment,Meals/Entertainment (Third Party) EMEA,03,2023,2015,Em,PL,16.86
+02. Transportation,Mileage,02,2023,2015,Em,PL,757.58
+02. Transportation,Mileage,03,2023,2015,Em,PL,1281.0
+02. Transportation,Mileage,04,2023,2015,Em,PL,201.84
+09. Other,Miscellaneous,04,2023,2015,Em,PL,29.1
+07. Communications,Mobile/Cellular Phone,02,2023,2015,Em,PL,13163.44
+07. Communications,Mobile/Cellular Phone,03,2023,2015,Em,PL,4351.44
+06. Office Expenses,Office Supplies,02,2023,2015,Em,PL,171.74
+06. Office Expenses,Office Supplies,03,2023,2015,Em,PL,11.81
+06. Office Expenses,Office Supplies,04,2023,2015,Em,PL,254.33
+06. Office Expenses,Pandemic Protocol Expenses,04,2023,2015,Em,PL,11.39
+02. Transportation,Parking,02,2023,2015,Em,PL,100.52
+02. Transportation,Parking,03,2023,2015,Em,PL,68.77
+02. Transportation,Parking,04,2023,2015,Em,PL,61.09
+09. Other,Personal-Not Paid to Corporate Card Bank,02,2023,2015,Em,PL,413.12
+09. Other,Personal-Not Paid to Corporate Card Bank,03,2023,2015,Em,PL,33.67
+09. Other,Personal-Not Paid to Corporate Card Bank,04,2023,2015,Em,PL,-7.0
+13. Professional Services,Professional Fees,01,2024,2015,Em,PL,16.31
+13. Professional Services,Professional Fees,02,2023,2015,Em,PL,154.12
+13. Professional Services,Professional Fees,04,2023,2015,Em,PL,220.6
+02. Transportation,Public Transport,01,2024,2015,Em,PL,24.26
+02. Transportation,Public Transport,02,2023,2015,Em,PL,2523.93
+02. Transportation,Public Transport,03,2023,2015,Em,PL,1412.03
+02. Transportation,Public Transport,04,2023,2015,Em,PL,711.02
+06. Office Expenses,Safety/Security,02,2023,2015,Em,PL,172.4
+06. Office Expenses,Safety/Security,03,2023,2015,Em,PL,548.97
+06. Office Expenses,Services and Systems Hosting,01,2024,2015,Em,PL,7188.57
+06. Office Expenses,Services and Systems Hosting,03,2023,2015,Em,PL,30743.38
+06. Office Expenses,Services and Systems Hosting,04,2023,2015,Em,PL,21451.98
+06. Office Expenses,Software,02,2023,2015,Em,PL,7977.54
+06. Office Expenses,Software,03,2023,2015,Em,PL,4377.2
+06. Office Expenses,Software,04,2023,2015,Em,PL,2248.67
+02. Transportation,Taxi/Rideshare,02,2023,2015,Em,PL,4698.75
+02. Transportation,Taxi/Rideshare,03,2023,2015,Em,PL,3092.62
+02. Transportation,Taxi/Rideshare,04,2023,2015,Em,PL,1227.19
+01. Travel Expenses,Tips/Gratuities,03,2023,2015,Em,PL,21.0
+01. Travel Expenses,Tips/Gratuities,04,2023,2015,Em,PL,49.44
+06. Office Expenses,Tools/Equipment/Lab Supplies,02,2023,2015,Em,PL,13676.31
+06. Office Expenses,Tools/Equipment/Lab Supplies,03,2023,2015,Em,PL,12411.4
+06. Office Expenses,Tools/Equipment/Lab Supplies,04,2023,2015,Em,PL,20036.33
+11. Learning and Development,Training Fees,01,2024,2015,Em,PL,10.27
+11. Learning and Development,Training Fees,02,2023,2015,Em,PL,19569.2
+11. Learning and Development,Training Fees,03,2023,2015,Em,PL,4819.69
+11. Learning and Development,Training Fees,04,2023,2015,Em,PL,2820.19
+03. Employee Meals and Entertainment,Travel Meals (Traveling Dolby Employees only),02,2023,2015,Em,PL,2649.25
+03. Employee Meals and Entertainment,Travel Meals (Traveling Dolby Employees only),03,2023,2015,Em,PL,1109.27
+03. Employee Meals and Entertainment,Travel Meals (Traveling Dolby Employees only),04,2023,2015,Em,PL,198.37
+06. Office Expenses,Utilities,02,2023,2015,Em,PL,295.54
+06. Office Expenses,Utilities,03,2023,2015,Em,PL,148.79
+06. Office Expenses,Utilities,04,2023,2015,Em,PL,1061.89
+08. Fees,Visa/Passport/Border Security Program Fees,02,2023,2015,Em,PL,216.64
+08. Fees,Visa/Passport/Border Security Program Fees,03,2023,2015,Em,PL,21.59
+08. Fees,Visa/Passport/Border Security Program Fees,04,2023,2015,Em,PL,189.35
+13. Professional Services,Wellbeing (HR Only),03,2023,2015,Em,PL,734.71
+07. Communications,Wifi/Internet/Telephone,02,2023,2015,Em,PL,91.64
+07. Communications,Wifi/Internet/Telephone,03,2023,2015,Em,PL,160.62
+07. Communications,Wifi/Internet/Telephone,04,2023,2015,Em,PL,178.47
+03. Employee Meals and Entertainment,Working Meals (Employees Only),02,2023,2015,Em,PL,2161.28
+03. Employee Meals and Entertainment,Working Meals (Employees Only),03,2023,2015,Em,PL,1294.3
+03. Employee Meals and Entertainment,Working Meals (Employees Only),04,2023,2015,Em,PL,308.22
+08. Fees,Agency Booking Fees,02,2023,2015.0,Em,PL,1284.49
+08. Fees,Agency Booking Fees,03,2023,2015.0,Em,PL,205.9
+08. Fees,Agency Booking Fees,04,2023,2015.0,Em,PL,68.36
+02. Transportation,Airfare (Corporate Card/Out-of-Pocket),02,2023,2015.0,Em,PL,2275.07
+02. Transportation,Airfare (Corporate Card/Out-of-Pocket),03,2023,2015.0,Em,PL,19638.34
+02. Transportation,Airfare (Corporate Card/Out-of-Pocket),04,2023,2015.0,Em,PL,6664.45
+02. Transportation,Airline Fees,03,2023,2015.0,Em,PL,70.94
+08. Fees,Bank Fees,02,2023,2015.0,Em,PL,218.68
+08. Fees,Bank Fees,03,2023,2015.0,Em,PL,240.72
+08. Fees,Bank Fees,04,2023,2015.0,Em,PL,78.87
+11. Learning and Development,Books/Subscriptions,02,2023,2015.0,Em,PL,714.38
+06. Office Expenses,Building Supplies/Maintenance,03,2023,2015.0,Em,PL,13.81
+06. Office Expenses,Building Supplies/Maintenance,04,2023,2015.0,Em,PL,156.54
+02. Transportation,Car Rental,02,2023,2015.0,Em,PL,5187.55
+02. Transportation,Car Rental,04,2023,2015.0,Em,PL,2019.02
+03. Employee Meals and Entertainment,Company Events,01,2024,2015.0,Em,PL,126.88
+03. Employee Meals and Entertainment,Company Events,02,2023,2015.0,Em,PL,12310.52
+03. Employee Meals and Entertainment,Company Events,03,2023,2015.0,Em,PL,110523.89
+03. Employee Meals and Entertainment,Company Events,04,2023,2015.0,Em,PL,2489.02
+06. Office Expenses,Computer Supplies,02,2023,2015.0,Em,PL,549.25
+06. Office Expenses,Computer Supplies,03,2023,2015.0,Em,PL,1988.16
+06. Office Expenses,Computer Supplies,04,2023,2015.0,Em,PL,308.76
+11. Learning and Development,Conferences/Tradeshows Registration Fees,03,2023,2015.0,Em,PL,3850.23
+11. Learning and Development,Conferences/Tradeshows Registration Fees,04,2023,2015.0,Em,PL,161.83
+06. Office Expenses,Courier/Shipping/Freight/Postage,02,2023,2015.0,Em,PL,3.84
+06. Office Expenses,Courier/Shipping/Freight/Postage,03,2023,2015.0,Em,PL,4761.9
+09. Other,Daily Allowance,01,2024,2015.0,Em,PL,257.39
+09. Other,Daily Allowance,02,2023,2015.0,Em,PL,5072.47
+09. Other,Daily Allowance,03,2023,2015.0,Em,PL,3140.44
+09. Other,Daily Allowance,04,2023,2015.0,Em,PL,2519.45
+06. Office Expenses,Dolby Fleet Maintenance Costs,02,2023,2015.0,Em,PL,693.34
+06. Office Expenses,Dolby Fleet Maintenance Costs,04,2023,2015.0,Em,PL,29.62
+11. Learning and Development,Dues/Memberships,02,2023,2015.0,Em,PL,553.92
+11. Learning and Development,Dues/Memberships,03,2023,2015.0,Em,PL,2478.34
+11. Learning and Development,Dues/Memberships,04,2023,2015.0,Em,PL,215.99
+11. Learning and Development,Education,03,2023,2015.0,Em,PL,151.76
+11. Learning and Development,Education,04,2023,2015.0,Em,PL,116.0
+03. Employee Meals and Entertainment,Employee Awards/Recognition,01,2024,2015.0,Em,PL,452.27
+03. Employee Meals and Entertainment,Employee Awards/Recognition,02,2023,2015.0,Em,PL,908.66
+03. Employee Meals and Entertainment,Employee Awards/Recognition,03,2023,2015.0,Em,PL,22606.18
+03. Employee Meals and Entertainment,Employee Awards/Recognition,04,2023,2015.0,Em,PL,927.94
+06. Office Expenses,Equipment Rental/Repair,04,2023,2015.0,Em,PL,1029.13
+12. Marketing Expenses,Exhibit Expenses,03,2023,2015.0,Em,PL,4448.25
+12. Marketing Expenses,Exhibit Expenses,04,2023,2015.0,Em,PL,751.4
+06. Office Expenses,Food Services/Supplies (Facilities),02,2023,2015.0,Em,PL,784.99
+06. Office Expenses,Food Services/Supplies (Facilities),03,2023,2015.0,Em,PL,938.08
+01. Travel Expenses,Hotel,01,2024,2015.0,Em,PL,356.25
+01. Travel Expenses,Hotel,02,2023,2015.0,Em,PL,17423.64
+01. Travel Expenses,Hotel,03,2023,2015.0,Em,PL,19889.67
+01. Travel Expenses,Hotel,04,2023,2015.0,Em,PL,10022.05
+01. Travel Expenses,Hotel Tax,01,2024,2015.0,Em,PL,24.95
+01. Travel Expenses,Hotel Tax,02,2023,2015.0,Em,PL,2472.41
+01. Travel Expenses,Hotel Tax,03,2023,2015.0,Em,PL,2048.38
+01. Travel Expenses,Hotel Tax,04,2023,2015.0,Em,PL,808.03
+01. Travel Expenses,Hotel VAT,02,2023,2015.0,Em,PL,84.28
+03. Employee Meals and Entertainment,Meals/Entertainment (Employees),02,2023,2015.0,Em,PL,22857.74
+03. Employee Meals and Entertainment,Meals/Entertainment (Employees),03,2023,2015.0,Em,PL,9908.11
+03. Employee Meals and Entertainment,Meals/Entertainment (Employees),04,2023,2015.0,Em,PL,2125.69
+04. Third Party Meals and Entertainment,Meals/Entertainment (Third Party) EMEA,02,2023,2015.0,Em,PL,171.63
+04. Third Party Meals and Entertainment,Meals/Entertainment (Third Party) EMEA,03,2023,2015.0,Em,PL,1262.38
+04. Third Party Meals and Entertainment,Meals/Entertainment (Third Party) EMEA,04,2023,2015.0,Em,PL,1407.89
+02. Transportation,Mileage,02,2023,2015.0,Em,PL,148.2
+02. Transportation,Mileage,03,2023,2015.0,Em,PL,555.75
+02. Transportation,Mileage,04,2023,2015.0,Em,PL,102.8
+09. Other,Miscellaneous,03,2023,2015.0,Em,PL,164.26
+09. Other,Miscellaneous,04,2023,2015.0,Em,PL,11.55
+07. Communications,Mobile/Cellular Phone,02,2023,2015.0,Em,PL,1309.96
+07. Communications,Mobile/Cellular Phone,04,2023,2015.0,Em,PL,1044.45
+06. Office Expenses,Office Supplies,02,2023,2015.0,Em,PL,7230.78
+06. Office Expenses,Office Supplies,03,2023,2015.0,Em,PL,563.29
+06. Office Expenses,Office Supplies,04,2023,2015.0,Em,PL,511.13
+02. Transportation,Parking,02,2023,2015.0,Em,PL,59.18
+02. Transportation,Parking,04,2023,2015.0,Em,PL,167.84
+09. Other,Personal-Not Paid to Corporate Card Bank,02,2023,2015.0,Em,PL,288.6
+09. Other,Personal-Not Paid to Corporate Card Bank,03,2023,2015.0,Em,PL,1248.62
+09. Other,Personal-Not Paid to Corporate Card Bank,04,2023,2015.0,Em,PL,11.86
+13. Professional Services,Professional Fees,02,2023,2015.0,Em,PL,1952.2
+13. Professional Services,Professional Fees,03,2023,2015.0,Em,PL,182.9
+12. Marketing Expenses,Promotional Expenses,03,2023,2015.0,Em,PL,6913.52
+02. Transportation,Public Transport,01,2024,2015.0,Em,PL,3.7
+02. Transportation,Public Transport,02,2023,2015.0,Em,PL,2663.63
+02. Transportation,Public Transport,03,2023,2015.0,Em,PL,1127.71
+02. Transportation,Public Transport,04,2023,2015.0,Em,PL,1081.55
+13. Professional Services,Recruiting Expenses,02,2023,2015.0,Em,PL,2058.1
+06. Office Expenses,Safety/Security,03,2023,2015.0,Em,PL,970.95
+06. Office Expenses,Safety/Security,04,2023,2015.0,Em,PL,64.82
+06. Office Expenses,Services and Systems Hosting,02,2023,2015.0,Em,PL,8871.6
+06. Office Expenses,Services and Systems Hosting,03,2023,2015.0,Em,PL,2880.99
+06. Office Expenses,Services and Systems Hosting,04,2023,2015.0,Em,PL,459.57
+06. Office Expenses,Software,02,2023,2015.0,Em,PL,2229.92
+06. Office Expenses,Software,03,2023,2015.0,Em,PL,2977.81
+06. Office Expenses,Software,04,2023,2015.0,Em,PL,4722.37
+02. Transportation,Taxi/Rideshare,01,2024,2015.0,Em,PL,17.13
+02. Transportation,Taxi/Rideshare,02,2023,2015.0,Em,PL,1040.55
+02. Transportation,Taxi/Rideshare,03,2023,2015.0,Em,PL,1222.19
+02. Transportation,Taxi/Rideshare,04,2023,2015.0,Em,PL,1076.45
+01. Travel Expenses,Tips/Gratuities,04,2023,2015.0,Em,PL,0.46
+06. Office Expenses,Tools/Equipment/Lab Supplies,01,2024,2015.0,Em,PL,73.76
+06. Office Expenses,Tools/Equipment/Lab Supplies,02,2023,2015.0,Em,PL,1463.07
+06. Office Expenses,Tools/Equipment/Lab Supplies,03,2023,2015.0,Em,PL,9646.68
+06. Office Expenses,Tools/Equipment/Lab Supplies,04,2023,2015.0,Em,PL,3918.2
+11. Learning and Development,Training Fees,02,2023,2015.0,Em,PL,7217.75
+11. Learning and Development,Training Fees,03,2023,2015.0,Em,PL,6958.45
+11. Learning and Development,Training Fees,04,2023,2015.0,Em,PL,3910.52
+03. Employee Meals and Entertainment,Travel Meals (Traveling Dolby Employees only),01,2024,2015.0,Em,PL,30.33
+03. Employee Meals and Entertainment,Travel Meals (Traveling Dolby Employees only),02,2023,2015.0,Em,PL,1032.83
+03. Employee Meals and Entertainment,Travel Meals (Traveling Dolby Employees only),03,2023,2015.0,Em,PL,741.18
+03. Employee Meals and Entertainment,Travel Meals (Traveling Dolby Employees only),04,2023,2015.0,Em,PL,570.56
+06. Office Expenses,Utilities,02,2023,2015.0,Em,PL,3696.4
+06. Office Expenses,Utilities,04,2023,2015.0,Em,PL,2555.93
+08. Fees,Visa/Passport/Border Security Program Fees,02,2023,2015.0,Em,PL,43.44
+08. Fees,Visa/Passport/Border Security Program Fees,03,2023,2015.0,Em,PL,43.3
+13. Professional Services,Wellbeing (HR Only),03,2023,2015.0,Em,PL,734.71
+13. Professional Services,Wellbeing (HR Only),04,2023,2015.0,Em,PL,1219.53
+07. Communications,Wifi/Internet/Telephone,03,2023,2015.0,Em,PL,3.57
+03. Employee Meals and Entertainment,Working Meals (Employees Only),01,2024,2015.0,Em,PL,235.41
+03. Employee Meals and Entertainment,Working Meals (Employees Only),02,2023,2015.0,Em,PL,439.47
+03. Employee Meals and Entertainment,Working Meals (Employees Only),03,2023,2015.0,Em,PL,561.38
+03. Employee Meals and Entertainment,Working Meals (Employees Only),04,2023,2015.0,Em,PL,277.55
+08. Fees,Agency Booking Fees,02,2023,2016,Em,NL,52.9
+08. Fees,Agency Booking Fees,03,2023,2016,Em,NL,733.24
+08. Fees,Agency Booking Fees,04,2023,2016,Em,NL,138.91
+02. Transportation,Airfare (Corporate Card/Out-of-Pocket),02,2023,2016,Em,NL,17762.53
+02. Transportation,Airfare (Corporate Card/Out-of-Pocket),03,2023,2016,Em,NL,18744.41
+02. Transportation,Airfare (Corporate Card/Out-of-Pocket),04,2023,2016,Em,NL,7530.98
+11. Learning and Development,Books/Subscriptions,02,2023,2016,Em,NL,417.02
+11. Learning and Development,Books/Subscriptions,03,2023,2016,Em,NL,404.25
+11. Learning and Development,Books/Subscriptions,04,2023,2016,Em,NL,4995.78
+06. Office Expenses,Building Supplies/Maintenance,03,2023,2016,Em,NL,1203.98
+02. Transportation,Car Rental,02,2023,2016,Em,NL,847.1
+02. Transportation,Car Rental,03,2023,2016,Em,NL,604.8
+02. Transportation,Car Rental,04,2023,2016,Em,NL,234.25
+03. Employee Meals and Entertainment,Company Events,02,2023,2016,Em,NL,1661.98
+03. Employee Meals and Entertainment,Company Events,03,2023,2016,Em,NL,462.7
+06. Office Expenses,Computer Supplies,02,2023,2016,Em,NL,106.32
+06. Office Expenses,Computer Supplies,04,2023,2016,Em,NL,104.49
+11. Learning and Development,Conferences/Tradeshows Registration Fees,02,2023,2016,Em,NL,2199.56
+11. Learning and Development,Conferences/Tradeshows Registration Fees,04,2023,2016,Em,NL,135.47
+06. Office Expenses,Courier/Shipping/Freight/Postage,03,2023,2016,Em,NL,3061.99
+06. Office Expenses,Courier/Shipping/Freight/Postage,04,2023,2016,Em,NL,60.61
+11. Learning and Development,Dues/Memberships,02,2023,2016,Em,NL,373.42
+12. Marketing Expenses,Exhibit Expenses,03,2023,2016,Em,NL,8285.43
+12. Marketing Expenses,Exhibit Expenses,04,2023,2016,Em,NL,274.71
+01. Travel Expenses,Hotel,02,2023,2016,Em,NL,19251.54
+01. Travel Expenses,Hotel,03,2023,2016,Em,NL,18337.54
+01. Travel Expenses,Hotel,04,2023,2016,Em,NL,5339.96
+01. Travel Expenses,Hotel Deposit,02,2023,2016,Em,NL,879.52
+01. Travel Expenses,Hotel Deposit,03,2023,2016,Em,NL,4062.61
+01. Travel Expenses,Hotel Tax,02,2023,2016,Em,NL,743.18
+01. Travel Expenses,Hotel Tax,03,2023,2016,Em,NL,2215.86
+01. Travel Expenses,Hotel Tax,04,2023,2016,Em,NL,259.61
+01. Travel Expenses,Hotel VAT,02,2023,2016,Em,NL,453.06
+01. Travel Expenses,Hotel VAT,03,2023,2016,Em,NL,138.75
+03. Employee Meals and Entertainment,Meals/Entertainment (Employees),02,2023,2016,Em,NL,2869.99
+03. Employee Meals and Entertainment,Meals/Entertainment (Employees),03,2023,2016,Em,NL,3260.5
+03. Employee Meals and Entertainment,Meals/Entertainment (Employees),04,2023,2016,Em,NL,310.15
+04. Third Party Meals and Entertainment,Meals/Entertainment (Third Party) EMEA,02,2023,2016,Em,NL,702.3
+04. Third Party Meals and Entertainment,Meals/Entertainment (Third Party) EMEA,03,2023,2016,Em,NL,464.64
+04. Third Party Meals and Entertainment,Meals/Entertainment (Third Party) EMEA,04,2023,2016,Em,NL,71.84
+02. Transportation,Mileage,02,2023,2016,Em,NL,266.86
+02. Transportation,Mileage,03,2023,2016,Em,NL,183.32
+02. Transportation,Mileage,04,2023,2016,Em,NL,94.66
+09. Other,Miscellaneous,03,2023,2016,Em,NL,240.01
+07. Communications,Mobile/Cellular Phone,03,2023,2016,Em,NL,64.66
+06. Office Expenses,Office Supplies,03,2023,2016,Em,NL,332.18
+02. Transportation,Parking,02,2023,2016,Em,NL,250.86
+02. Transportation,Parking,03,2023,2016,Em,NL,495.86
+02. Transportation,Parking,04,2023,2016,Em,NL,241.85
+06. Office Expenses,Printing/Photocopying,03,2023,2016,Em,NL,37.05
+02. Transportation,Public Transport,02,2023,2016,Em,NL,263.06
+02. Transportation,Public Transport,03,2023,2016,Em,NL,469.42
+02. Transportation,Public Transport,04,2023,2016,Em,NL,108.23
+02. Transportation,Taxi/Rideshare,02,2023,2016,Em,NL,4537.11
+02. Transportation,Taxi/Rideshare,03,2023,2016,Em,NL,3985.73
+02. Transportation,Taxi/Rideshare,04,2023,2016,Em,NL,2053.01
+01. Travel Expenses,Tips/Gratuities,03,2023,2016,Em,NL,10.95
+02. Transportation,Tolls,03,2023,2016,Em,NL,17.61
+03. Employee Meals and Entertainment,Travel Meals (Traveling Dolby Employees only),02,2023,2016,Em,NL,5557.3
+03. Employee Meals and Entertainment,Travel Meals (Traveling Dolby Employees only),03,2023,2016,Em,NL,3796.41
+03. Employee Meals and Entertainment,Travel Meals (Traveling Dolby Employees only),04,2023,2016,Em,NL,1335.87
+08. Fees,Visa/Passport/Border Security Program Fees,03,2023,2016,Em,NL,185.41
+08. Fees,Visa/Passport/Border Security Program Fees,04,2023,2016,Em,NL,185.44
+03. Employee Meals and Entertainment,Working Meals (Employees Only),03,2023,2016,Em,NL,474.22
+08. Fees,Agency Booking Fees,02,2023,2016.0,Em,NL,78.42
+08. Fees,Agency Booking Fees,03,2023,2016.0,Em,NL,408.65
+08. Fees,Agency Booking Fees,04,2023,2016.0,Em,NL,156.55
+02. Transportation,Airfare (Corporate Card/Out-of-Pocket),02,2023,2016.0,Em,NL,10752.92
+02. Transportation,Airfare (Corporate Card/Out-of-Pocket),03,2023,2016.0,Em,NL,11302.98
+02. Transportation,Airfare (Corporate Card/Out-of-Pocket),04,2023,2016.0,Em,NL,3449.32
+02. Transportation,Airline Fees,03,2023,2016.0,Em,NL,172.08
+08. Fees,Bank Fees,03,2023,2016.0,Em,NL,9.17
+02. Transportation,Car Rental,04,2023,2016.0,Em,NL,51.57
+06. Office Expenses,Computer Supplies,03,2023,2016.0,Em,NL,298.84
+06. Office Expenses,Dolby Fleet Maintenance Costs,02,2023,2016.0,Em,NL,601.92
+06. Office Expenses,Dolby Fleet Maintenance Costs,04,2023,2016.0,Em,NL,52.97
+11. Learning and Development,Dues/Memberships,03,2023,2016.0,Em,NL,181.82
+03. Employee Meals and Entertainment,Employee Awards/Recognition,04,2023,2016.0,Em,NL,25.12
+12. Marketing Expenses,Exhibit Expenses,04,2023,2016.0,Em,NL,30.76
+06. Office Expenses,Food Services/Supplies (Facilities),03,2023,2016.0,Em,NL,11.02
+01. Travel Expenses,Hotel,02,2023,2016.0,Em,NL,12391.86
+01. Travel Expenses,Hotel,03,2023,2016.0,Em,NL,8489.89
+01. Travel Expenses,Hotel,04,2023,2016.0,Em,NL,3631.97
+01. Travel Expenses,Hotel Tax,02,2023,2016.0,Em,NL,1440.8
+01. Travel Expenses,Hotel Tax,03,2023,2016.0,Em,NL,587.7
+01. Travel Expenses,Hotel Tax,04,2023,2016.0,Em,NL,86.18
+03. Employee Meals and Entertainment,Meals/Entertainment (Employees),02,2023,2016.0,Em,NL,814.61
+03. Employee Meals and Entertainment,Meals/Entertainment (Employees),03,2023,2016.0,Em,NL,1028.16
+03. Employee Meals and Entertainment,Meals/Entertainment (Employees),04,2023,2016.0,Em,NL,255.77
+04. Third Party Meals and Entertainment,Meals/Entertainment (Third Party) EMEA,02,2023,2016.0,Em,NL,108.48
+04. Third Party Meals and Entertainment,Meals/Entertainment (Third Party) EMEA,03,2023,2016.0,Em,NL,486.14
+09. Other,Miscellaneous,03,2023,2016.0,Em,NL,25.98
+06. Office Expenses,Office Supplies,02,2023,2016.0,Em,NL,7.26
+06. Office Expenses,Office Supplies,03,2023,2016.0,Em,NL,11.98
+02. Transportation,Parking,02,2023,2016.0,Em,NL,234.58
+02. Transportation,Parking,03,2023,2016.0,Em,NL,222.74
+02. Transportation,Parking,04,2023,2016.0,Em,NL,245.8
+13. Professional Services,Professional Fees,02,2023,2016.0,Em,NL,162.0
+02. Transportation,Public Transport,02,2023,2016.0,Em,NL,1732.52
+02. Transportation,Public Transport,03,2023,2016.0,Em,NL,1885.27
+02. Transportation,Public Transport,04,2023,2016.0,Em,NL,1748.06
+02. Transportation,Taxi/Rideshare,02,2023,2016.0,Em,NL,1653.53
+02. Transportation,Taxi/Rideshare,03,2023,2016.0,Em,NL,666.07
+02. Transportation,Taxi/Rideshare,04,2023,2016.0,Em,NL,519.14
+01. Travel Expenses,Tips/Gratuities,02,2023,2016.0,Em,NL,23.94
+02. Transportation,Tolls,02,2023,2016.0,Em,NL,167.86
+02. Transportation,Tolls,04,2023,2016.0,Em,NL,109.38
+06. Office Expenses,Tools/Equipment/Lab Supplies,02,2023,2016.0,Em,NL,31.88
+03. Employee Meals and Entertainment,Travel Meals (Traveling Dolby Employees only),02,2023,2016.0,Em,NL,2741.12
+03. Employee Meals and Entertainment,Travel Meals (Traveling Dolby Employees only),03,2023,2016.0,Em,NL,1922.7
+03. Employee Meals and Entertainment,Travel Meals (Traveling Dolby Employees only),04,2023,2016.0,Em,NL,789.65
+06. Office Expenses,Utilities,02,2023,2016.0,Em,NL,296.96
+06. Office Expenses,Utilities,03,2023,2016.0,Em,NL,306.71
+06. Office Expenses,Utilities,04,2023,2016.0,Em,NL,155.28
+03. Employee Meals and Entertainment,Working Meals (Employees Only),02,2023,2016.0,Em,NL,646.36
+02. Transportation,Airfare (Corporate Card/Out-of-Pocket),02,2023,2017,Em,AE,3085.16
+02. Transportation,Airfare (Corporate Card/Out-of-Pocket),03,2023,2017,Em,AE,2423.72
+02. Transportation,Airfare (Corporate Card/Out-of-Pocket),04,2023,2017,Em,AE,1675.51
+02. Transportation,Airline Fees,04,2023,2017,Em,AE,29.97
+08. Fees,Bank Fees,04,2023,2017,Em,AE,100.07
+11. Learning and Development,Books/Subscriptions,02,2023,2017,Em,AE,2207.15
+11. Learning and Development,Books/Subscriptions,03,2023,2017,Em,AE,45.75
+11. Learning and Development,Books/Subscriptions,04,2023,2017,Em,AE,45.75
+06. Office Expenses,Computer Supplies,03,2023,2017,Em,AE,53.73
+12. Marketing Expenses,Exhibit Expenses,02,2023,2017,Em,AE,3049.54
+01. Travel Expenses,Hotel,02,2023,2017,Em,AE,1176.6
+01. Travel Expenses,Hotel,03,2023,2017,Em,AE,5463.81
+01. Travel Expenses,Hotel,04,2023,2017,Em,AE,1623.9
+01. Travel Expenses,Hotel Tax,02,2023,2017,Em,AE,176.48
+01. Travel Expenses,Hotel Tax,03,2023,2017,Em,AE,244.45
+01. Travel Expenses,Hotel Tax,04,2023,2017,Em,AE,113.8
+03. Employee Meals and Entertainment,Meals/Entertainment (Employees),03,2023,2017,Em,AE,445.07
+04. Third Party Meals and Entertainment,Meals/Entertainment (Third Party) EMEA,02,2023,2017,Em,AE,268.48
+04. Third Party Meals and Entertainment,Meals/Entertainment (Third Party) EMEA,03,2023,2017,Em,AE,237.01
+04. Third Party Meals and Entertainment,Meals/Entertainment (Third Party) EMEA,04,2023,2017,Em,AE,284.0
+09. Other,Miscellaneous,03,2023,2017,Em,AE,6.8
+06. Office Expenses,Office Supplies,03,2023,2017,Em,AE,250.24
+12. Marketing Expenses,Promotional Expenses,02,2023,2017,Em,AE,471.74
+12. Marketing Expenses,Promotional Expenses,03,2023,2017,Em,AE,333.16
+10. Relocation/Ex-Pat,Relocation Expenses,03,2023,2017,Em,AE,3085.57
+02. Transportation,Taxi/Rideshare,02,2023,2017,Em,AE,96.08
+02. Transportation,Taxi/Rideshare,03,2023,2017,Em,AE,363.28
+02. Transportation,Taxi/Rideshare,04,2023,2017,Em,AE,106.92
+01. Travel Expenses,Tips/Gratuities,03,2023,2017,Em,AE,2.72
+06. Office Expenses,Tools/Equipment/Lab Supplies,04,2023,2017,Em,AE,3284.14
+03. Employee Meals and Entertainment,Travel Meals (Traveling Dolby Employees only),02,2023,2017,Em,AE,159.16
+03. Employee Meals and Entertainment,Travel Meals (Traveling Dolby Employees only),03,2023,2017,Em,AE,277.68
+03. Employee Meals and Entertainment,Travel Meals (Traveling Dolby Employees only),04,2023,2017,Em,AE,62.09
+08. Fees,Visa/Passport/Border Security Program Fees,04,2023,2017,Em,AE,248.6
+03. Employee Meals and Entertainment,Working Meals (Employees Only),02,2023,2017,Em,AE,457.46
+08. Fees,Agency Booking Fees,03,2023,2017.0,Em,AE,10.47
+02. Transportation,Airfare (Corporate Card/Out-of-Pocket),02,2023,2017.0,Em,AE,6564.02
+02. Transportation,Airfare (Corporate Card/Out-of-Pocket),03,2023,2017.0,Em,AE,6507.96
+02. Transportation,Airfare (Corporate Card/Out-of-Pocket),04,2023,2017.0,Em,AE,1628.21
+08. Fees,Bank Fees,04,2023,2017.0,Em,AE,171.55
+11. Learning and Development,Books/Subscriptions,02,2023,2017.0,Em,AE,92.08
+11. Learning and Development,Books/Subscriptions,03,2023,2017.0,Em,AE,61.3
+11. Learning and Development,Books/Subscriptions,04,2023,2017.0,Em,AE,30.01
+06. Office Expenses,Courier/Shipping/Freight/Postage,03,2023,2017.0,Em,AE,694.34
+01. Travel Expenses,Hotel,02,2023,2017.0,Em,AE,1692.84
+01. Travel Expenses,Hotel,03,2023,2017.0,Em,AE,8580.0
+01. Travel Expenses,Hotel,04,2023,2017.0,Em,AE,1142.52
+01. Travel Expenses,Hotel Tax,02,2023,2017.0,Em,AE,63.02
+01. Travel Expenses,Hotel Tax,03,2023,2017.0,Em,AE,1601.45
+01. Travel Expenses,Hotel Tax,04,2023,2017.0,Em,AE,205.67
+01. Travel Expenses,Laundry,02,2023,2017.0,Em,AE,108.64
+01. Travel Expenses,Laundry,03,2023,2017.0,Em,AE,90.26
+03. Employee Meals and Entertainment,Meals/Entertainment (Employees),02,2023,2017.0,Em,AE,636.2
+03. Employee Meals and Entertainment,Meals/Entertainment (Employees),03,2023,2017.0,Em,AE,71.98
+03. Employee Meals and Entertainment,Meals/Entertainment (Employees),04,2023,2017.0,Em,AE,204.22
+04. Third Party Meals and Entertainment,Meals/Entertainment (Third Party) EMEA,03,2023,2017.0,Em,AE,73.58
+09. Other,Miscellaneous,04,2023,2017.0,Em,AE,158.68
+07. Communications,Mobile/Cellular Phone,02,2023,2017.0,Em,AE,344.44
+07. Communications,Mobile/Cellular Phone,03,2023,2017.0,Em,AE,643.3
+07. Communications,Mobile/Cellular Phone,04,2023,2017.0,Em,AE,366.22
+06. Office Expenses,Office Supplies,02,2023,2017.0,Em,AE,40.84
+02. Transportation,Parking,02,2023,2017.0,Em,AE,22.88
+06. Office Expenses,Printing/Photocopying,02,2023,2017.0,Em,AE,239.36
+12. Marketing Expenses,Promotional Expenses,02,2023,2017.0,Em,AE,2630.6
+12. Marketing Expenses,Promotional Expenses,03,2023,2017.0,Em,AE,2170.06
+12. Marketing Expenses,Promotional Expenses,04,2023,2017.0,Em,AE,61.27
+06. Office Expenses,Services and Systems Hosting,02,2023,2017.0,Em,AE,559.5
+06. Office Expenses,Software,02,2023,2017.0,Em,AE,2474.04
+02. Transportation,Taxi/Rideshare,02,2023,2017.0,Em,AE,1383.78
+02. Transportation,Taxi/Rideshare,03,2023,2017.0,Em,AE,1438.71
+02. Transportation,Taxi/Rideshare,04,2023,2017.0,Em,AE,320.71
+06. Office Expenses,Tools/Equipment/Lab Supplies,03,2023,2017.0,Em,AE,1621.54
+03. Employee Meals and Entertainment,Travel Meals (Traveling Dolby Employees only),02,2023,2017.0,Em,AE,942.64
+03. Employee Meals and Entertainment,Travel Meals (Traveling Dolby Employees only),03,2023,2017.0,Em,AE,2408.47
+03. Employee Meals and Entertainment,Travel Meals (Traveling Dolby Employees only),04,2023,2017.0,Em,AE,162.88
+06. Office Expenses,Utilities,04,2023,2017.0,Em,AE,6.81
+08. Fees,Visa/Passport/Border Security Program Fees,02,2023,2017.0,Em,AE,488.94
+08. Fees,Visa/Passport/Border Security Program Fees,03,2023,2017.0,Em,AE,1464.14
+08. Fees,Visa/Passport/Border Security Program Fees,04,2023,2017.0,Em,AE,1802.41
+07. Communications,Wifi/Internet/Telephone,03,2023,2017.0,Em,AE,199.88
+07. Communications,Wifi/Internet/Telephone,04,2023,2017.0,Em,AE,20.43
+03. Employee Meals and Entertainment,Working Meals (Employees Only),03,2023,2017.0,Em,AE,69.18
+08. Fees,Agency Booking Fees,02,2023,2018,Em,FR,29.99
+08. Fees,Agency Booking Fees,03,2023,2018,Em,FR,30.72
+08. Fees,Agency Booking Fees,04,2023,2018,Em,FR,10.11
+02. Transportation,Airfare (Corporate Card/Out-of-Pocket),02,2023,2018,Em,FR,4627.28
+02. Transportation,Airfare (Corporate Card/Out-of-Pocket),03,2023,2018,Em,FR,4432.47
+02. Transportation,Airfare (Corporate Card/Out-of-Pocket),04,2023,2018,Em,FR,412.63
+08. Fees,Bank Fees,03,2023,2018,Em,FR,86.92
+11. Learning and Development,Books/Subscriptions,04,2023,2018,Em,FR,19.51
+03. Employee Meals and Entertainment,Employee Awards/Recognition,04,2023,2018,Em,FR,487.16
+01. Travel Expenses,Hotel,03,2023,2018,Em,FR,1172.39
+01. Travel Expenses,Hotel,04,2023,2018,Em,FR,576.73
+03. Employee Meals and Entertainment,Meals/Entertainment (Employees),04,2023,2018,Em,FR,52.67
+02. Transportation,Parking,03,2023,2018,Em,FR,232.87
+09. Other,Personal-Not Paid to Corporate Card Bank,03,2023,2018,Em,FR,29.52
+06. Office Expenses,Software,02,2023,2018,Em,FR,78.16
+06. Office Expenses,Software,03,2023,2018,Em,FR,66.32
+06. Office Expenses,Software,04,2023,2018,Em,FR,136.42
+02. Transportation,Taxi/Rideshare,02,2023,2018,Em,FR,201.26
+02. Transportation,Taxi/Rideshare,04,2023,2018,Em,FR,32.05
+06. Office Expenses,Tools/Equipment/Lab Supplies,04,2023,2018,Em,FR,212.01
+03. Employee Meals and Entertainment,Travel Meals (Traveling Dolby Employees only),04,2023,2018,Em,FR,54.84
+08. Fees,Agency Booking Fees,02,2023,2018.0,Em,FR,9.75
+08. Fees,Agency Booking Fees,04,2023,2018.0,Em,FR,10.11
+02. Transportation,Airfare (Corporate Card/Out-of-Pocket),02,2023,2018.0,Em,FR,60.38
+02. Transportation,Airfare (Corporate Card/Out-of-Pocket),03,2023,2018.0,Em,FR,4162.99
+02. Transportation,Airfare (Corporate Card/Out-of-Pocket),04,2023,2018.0,Em,FR,1241.33
+06. Office Expenses,Computer Supplies,02,2023,2018.0,Em,FR,242.44
+03. Employee Meals and Entertainment,Employee Awards/Recognition,04,2023,2018.0,Em,FR,967.9
+01. Travel Expenses,Hotel,02,2023,2018.0,Em,FR,3068.44
+01. Travel Expenses,Hotel,03,2023,2018.0,Em,FR,546.33
+01. Travel Expenses,Hotel,04,2023,2018.0,Em,FR,1895.65
+01. Travel Expenses,Hotel Tax,02,2023,2018.0,Em,FR,216.56
+01. Travel Expenses,Hotel Tax,03,2023,2018.0,Em,FR,43.7
+01. Travel Expenses,Hotel Tax,04,2023,2018.0,Em,FR,229.76
+03. Employee Meals and Entertainment,Meals/Entertainment (Employees),02,2023,2018.0,Em,FR,749.0
+03. Employee Meals and Entertainment,Meals/Entertainment (Employees),03,2023,2018.0,Em,FR,1206.83
+03. Employee Meals and Entertainment,Meals/Entertainment (Employees),04,2023,2018.0,Em,FR,578.0
+09. Other,Miscellaneous,02,2023,2018.0,Em,FR,309.4
+06. Office Expenses,Office Supplies,04,2023,2018.0,Em,FR,46.96
+02. Transportation,Parking,02,2023,2018.0,Em,FR,150.04
+02. Transportation,Parking,03,2023,2018.0,Em,FR,78.92
+02. Transportation,Parking,04,2023,2018.0,Em,FR,123.0
+02. Transportation,Public Transport,02,2023,2018.0,Em,FR,627.22
+06. Office Expenses,Services and Systems Hosting,02,2023,2018.0,Em,FR,7475.76
+06. Office Expenses,Services and Systems Hosting,03,2023,2018.0,Em,FR,5145.58
+06. Office Expenses,Services and Systems Hosting,04,2023,2018.0,Em,FR,4586.06
+06. Office Expenses,Software,02,2023,2018.0,Em,FR,2354.76
+06. Office Expenses,Software,03,2023,2018.0,Em,FR,1488.69
+06. Office Expenses,Software,04,2023,2018.0,Em,FR,495.65
+02. Transportation,Taxi/Rideshare,02,2023,2018.0,Em,FR,451.9
+02. Transportation,Taxi/Rideshare,03,2023,2018.0,Em,FR,23.85
+02. Transportation,Taxi/Rideshare,04,2023,2018.0,Em,FR,150.77
+06. Office Expenses,Tools/Equipment/Lab Supplies,04,2023,2018.0,Em,FR,212.69
+03. Employee Meals and Entertainment,Travel Meals (Traveling Dolby Employees only),02,2023,2018.0,Em,FR,972.24
+03. Employee Meals and Entertainment,Travel Meals (Traveling Dolby Employees only),03,2023,2018.0,Em,FR,117.6
+03. Employee Meals and Entertainment,Travel Meals (Traveling Dolby Employees only),04,2023,2018.0,Em,FR,109.84
+03. Employee Meals and Entertainment,Working Meals (Employees Only),03,2023,2018.0,Em,FR,276.16
+08. Fees,Agency Booking Fees,03,2023,2020,Em,IE,50.8
+08. Fees,Agency Booking Fees,04,2023,2020,Em,IE,5.54
+02. Transportation,Airfare (Company Paid),03,2023,2020,Em,IE,0.0
+02. Transportation,Airfare (Corporate Card/Out-of-Pocket),02,2023,2020,Em,IE,1373.3
+02. Transportation,Airfare (Corporate Card/Out-of-Pocket),03,2023,2020,Em,IE,3631.3
+02. Transportation,Airfare (Corporate Card/Out-of-Pocket),04,2023,2020,Em,IE,1102.16
+02. Transportation,Airline Fees,03,2023,2020,Em,IE,50.94
+08. Fees,Bank Fees,02,2023,2020,Em,IE,43.2
+08. Fees,Bank Fees,03,2023,2020,Em,IE,414.34
+03. Employee Meals and Entertainment,Company Events,03,2023,2020,Em,IE,904.44
+06. Office Expenses,Courier/Shipping/Freight/Postage,03,2023,2020,Em,IE,65.28
+06. Office Expenses,Courier/Shipping/Freight/Postage,04,2023,2020,Em,IE,130.53
+11. Learning and Development,Dues/Memberships,02,2023,2020,Em,IE,2336.5
+11. Learning and Development,Dues/Memberships,03,2023,2020,Em,IE,2137.48
+11. Learning and Development,Education,03,2023,2020,Em,IE,196.64
+01. Travel Expenses,Hotel,02,2023,2020,Em,IE,714.01
+01. Travel Expenses,Hotel,03,2023,2020,Em,IE,1514.98
+01. Travel Expenses,Hotel Tax,02,2023,2020,Em,IE,30.28
+01. Travel Expenses,Hotel Tax,03,2023,2020,Em,IE,390.25
+03. Employee Meals and Entertainment,Meals/Entertainment (Employees),02,2023,2020,Em,IE,1016.94
+03. Employee Meals and Entertainment,Meals/Entertainment (Employees),03,2023,2020,Em,IE,864.53
+03. Employee Meals and Entertainment,Meals/Entertainment (Employees),04,2023,2020,Em,IE,819.63
+06. Office Expenses,Office Supplies,02,2023,2020,Em,IE,5.34
+06. Office Expenses,Office Supplies,04,2023,2020,Em,IE,0.0
+02. Transportation,Public Transport,02,2023,2020,Em,IE,7.08
+02. Transportation,Taxi/Rideshare,02,2023,2020,Em,IE,832.07
+02. Transportation,Taxi/Rideshare,03,2023,2020,Em,IE,366.89
+11. Learning and Development,Training Fees,03,2023,2020,Em,IE,720.52
+03. Employee Meals and Entertainment,Travel Meals (Traveling Dolby Employees only),02,2023,2020,Em,IE,290.91
+03. Employee Meals and Entertainment,Travel Meals (Traveling Dolby Employees only),03,2023,2020,Em,IE,272.5
+08. Fees,Visa/Passport/Border Security Program Fees,03,2023,2020,Em,IE,200.83
+08. Fees,Visa/Passport/Border Security Program Fees,04,2023,2020,Em,IE,21.49
+07. Communications,Wifi/Internet/Telephone,04,2023,2020,Em,IE,1619.73
+08. Fees,Agency Booking Fees,02,2023,2020.0,Em,IE,210.0
+08. Fees,Agency Booking Fees,03,2023,2020.0,Em,IE,368.2
+08. Fees,Agency Booking Fees,04,2023,2020.0,Em,IE,3824.18
+02. Transportation,Airfare (Company Paid),03,2023,2020.0,Em,IE,0.0
+02. Transportation,Airfare (Corporate Card/Out-of-Pocket),02,2023,2020.0,Em,IE,10593.58
+02. Transportation,Airfare (Corporate Card/Out-of-Pocket),03,2023,2020.0,Em,IE,2743.99
+02. Transportation,Airfare (Corporate Card/Out-of-Pocket),04,2023,2020.0,Em,IE,548.35
+02. Transportation,Airline Fees,03,2023,2020.0,Em,IE,146.58
+08. Fees,Bank Fees,02,2023,2020.0,Em,IE,128.74
+08. Fees,Bank Fees,03,2023,2020.0,Em,IE,489.6
+03. Employee Meals and Entertainment,Company Events,03,2023,2020.0,Em,IE,392.94
+11. Learning and Development,Conferences/Tradeshows Registration Fees,02,2023,2020.0,Em,IE,380.06
+06. Office Expenses,Courier/Shipping/Freight/Postage,04,2023,2020.0,Em,IE,11.37
+11. Learning and Development,Dues/Memberships,02,2023,2020.0,Em,IE,719.32
+11. Learning and Development,Dues/Memberships,03,2023,2020.0,Em,IE,2378.02
+11. Learning and Development,Education,04,2023,2020.0,Em,IE,217.35
+03. Employee Meals and Entertainment,Employee Awards/Recognition,02,2023,2020.0,Em,IE,260.2
+01. Travel Expenses,Hotel,02,2023,2020.0,Em,IE,450.66
+01. Travel Expenses,Hotel,03,2023,2020.0,Em,IE,6937.52
+01. Travel Expenses,Hotel,04,2023,2020.0,Em,IE,183.12
+01. Travel Expenses,Hotel Tax,02,2023,2020.0,Em,IE,16.32
+01. Travel Expenses,Hotel Tax,03,2023,2020.0,Em,IE,837.96
+03. Employee Meals and Entertainment,Meals/Entertainment (Employees),02,2023,2020.0,Em,IE,213.4
+03. Employee Meals and Entertainment,Meals/Entertainment (Employees),03,2023,2020.0,Em,IE,2293.19
+03. Employee Meals and Entertainment,Meals/Entertainment (Employees),04,2023,2020.0,Em,IE,1023.55
+02. Transportation,Mileage,03,2023,2020.0,Em,IE,302.48
+09. Other,Miscellaneous,02,2023,2020.0,Em,IE,838.08
+09. Other,Miscellaneous,03,2023,2020.0,Em,IE,44.11
+07. Communications,Mobile/Cellular Phone,02,2023,2020.0,Em,IE,305.7
+06. Office Expenses,Office Supplies,04,2023,2020.0,Em,IE,184.9
+02. Transportation,Parking,02,2023,2020.0,Em,IE,63.56
+02. Transportation,Parking,03,2023,2020.0,Em,IE,5.11
+02. Transportation,Parking,04,2023,2020.0,Em,IE,68.56
+09. Other,Personal-Not Paid to Corporate Card Bank,03,2023,2020.0,Em,IE,735.09
+13. Professional Services,Professional Fees,03,2023,2020.0,Em,IE,1355.74
+12. Marketing Expenses,Promotional Expenses,03,2023,2020.0,Em,IE,3228.14
+02. Transportation,Public Transport,02,2023,2020.0,Em,IE,86.18
+02. Transportation,Public Transport,04,2023,2020.0,Em,IE,34.87
+06. Office Expenses,Software,03,2023,2020.0,Em,IE,211.52
+02. Transportation,Taxi/Rideshare,01,2024,2020.0,Em,IE,12.67
+02. Transportation,Taxi/Rideshare,02,2023,2020.0,Em,IE,406.24
+02. Transportation,Taxi/Rideshare,03,2023,2020.0,Em,IE,934.48
+02. Transportation,Taxi/Rideshare,04,2023,2020.0,Em,IE,38.02
+01. Travel Expenses,Tips/Gratuities,03,2023,2020.0,Em,IE,50.73
+03. Employee Meals and Entertainment,Travel Meals (Traveling Dolby Employees only),02,2023,2020.0,Em,IE,76.06
+03. Employee Meals and Entertainment,Travel Meals (Traveling Dolby Employees only),03,2023,2020.0,Em,IE,898.74
+03. Employee Meals and Entertainment,Travel Meals (Traveling Dolby Employees only),04,2023,2020.0,Em,IE,20.97
+08. Fees,Visa/Passport/Border Security Program Fees,03,2023,2020.0,Em,IE,265.56
+07. Communications,Wifi/Internet/Telephone,03,2023,2020.0,Em,IE,141.95
+07. Communications,Wifi/Internet/Telephone,04,2023,2020.0,Em,IE,65.73
+03. Employee Meals and Entertainment,Working Meals (Employees Only),02,2023,2020.0,Em,IE,6.86
+03. Employee Meals and Entertainment,Working Meals (Employees Only),03,2023,2020.0,Em,IE,141.33
+03. Employee Meals and Entertainment,Working Meals (Employees Only),04,2023,2020.0,Em,IE,113.72

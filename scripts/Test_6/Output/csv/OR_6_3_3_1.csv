@@ -1,0 +1,225 @@
+F_Qtr,F_Year,Parent_Expense_Type,Sum(Approved_Amount_RPT)
+02,2023,08. Fees,1271.39
+03,2023,08. Fees,6375.93
+04,2023,08. Fees,18.97
+02,2023,02. Transportation,35660.39
+03,2023,02. Transportation,64344.5
+04,2023,02. Transportation,4838.89
+02,2023,02. Transportation,180.38
+03,2023,02. Transportation,131.6
+03,2023,08. Fees,121.6
+01,2024,11. Learning and Development,51.01
+02,2023,11. Learning and Development,1485.01
+03,2023,11. Learning and Development,1288.99
+04,2023,11. Learning and Development,733.18
+02,2023,06. Office Expenses,1310.06
+03,2023,06. Office Expenses,31.97
+04,2023,06. Office Expenses,184.72
+02,2023,02. Transportation,984.62
+04,2023,02. Transportation,488.29
+02,2023,03. Employee Meals and Entertainment,11310.88
+03,2023,03. Employee Meals and Entertainment,18900.79
+04,2023,03. Employee Meals and Entertainment,8838.68
+02,2023,06. Office Expenses,4095.66
+03,2023,06. Office Expenses,1771.22
+04,2023,06. Office Expenses,5853.95
+03,2023,11. Learning and Development,1594.6
+02,2023,12. Marketing Expenses,10.05
+03,2023,12. Marketing Expenses,25.9
+04,2023,12. Marketing Expenses,51.04
+02,2023,06. Office Expenses,2861.18
+03,2023,06. Office Expenses,4263.57
+04,2023,06. Office Expenses,445.15
+02,2023,08. Fees,-0.46
+04,2023,08. Fees,-2.34
+02,2023,11. Learning and Development,752.04
+03,2023,11. Learning and Development,9734.49
+04,2023,11. Learning and Development,154.97
+02,2023,03. Employee Meals and Entertainment,2796.58
+04,2023,03. Employee Meals and Entertainment,48.73
+04,2023,06. Office Expenses,851.1
+02,2023,06. Office Expenses,264.7
+02,2023,06. Office Expenses,7523.5
+03,2023,06. Office Expenses,3738.33
+04,2023,06. Office Expenses,1194.06
+03,2023,05. Government Official Expenses,1370.3
+02,2023,01. Travel Expenses,43032.01
+03,2023,01. Travel Expenses,32728.58
+04,2023,01. Travel Expenses,27906.42
+02,2023,01. Travel Expenses,728.5
+03,2023,01. Travel Expenses,-24.74
+02,2023,01. Travel Expenses,5454.74
+03,2023,01. Travel Expenses,4594.15
+04,2023,01. Travel Expenses,4768.21
+03,2023,01. Travel Expenses,40.72
+04,2023,01. Travel Expenses,100.09
+02,2023,13. Professional Services,101.32
+03,2023,12. Marketing Expenses,671.81
+02,2023,03. Employee Meals and Entertainment,24009.96
+03,2023,03. Employee Meals and Entertainment,8719.38
+04,2023,03. Employee Meals and Entertainment,673.29
+02,2023,04. Third Party Meals and Entertainment,504.4
+03,2023,04. Third Party Meals and Entertainment,402.28
+04,2023,04. Third Party Meals and Entertainment,658.68
+02,2023,09. Other,-0.92
+04,2023,09. Other,400.79
+01,2024,07. Communications,50.26
+02,2023,07. Communications,410.97
+03,2023,07. Communications,2106.31
+04,2023,07. Communications,1775.94
+02,2023,06. Office Expenses,5653.63
+03,2023,06. Office Expenses,7783.48
+04,2023,06. Office Expenses,2315.49
+02,2023,02. Transportation,289.09
+03,2023,02. Transportation,135.93
+04,2023,02. Transportation,20.97
+02,2023,09. Other,482.86
+03,2023,09. Other,486.56
+04,2023,09. Other,2366.21
+02,2023,06. Office Expenses,51.36
+02,2023,13. Professional Services,2982.12
+03,2023,13. Professional Services,12869.54
+04,2023,06. Office Expenses,398.2
+03,2023,12. Marketing Expenses,8426.94
+02,2023,02. Transportation,523.2
+03,2023,02. Transportation,536.75
+04,2023,02. Transportation,103.17
+02,2023,10. Relocation/Ex-Pat,22534.72
+03,2023,10. Relocation/Ex-Pat,6259.7
+02,2023,06. Office Expenses,670.0
+03,2023,06. Office Expenses,69.06
+04,2023,06. Office Expenses,435.48
+02,2023,14. Australia ONLY,2091.52
+03,2023,14. Australia ONLY,5664.66
+04,2023,14. Australia ONLY,1082.93
+02,2023,06. Office Expenses,36739.4
+03,2023,06. Office Expenses,21689.81
+04,2023,06. Office Expenses,316.38
+02,2023,06. Office Expenses,6384.05
+03,2023,06. Office Expenses,2928.86
+04,2023,06. Office Expenses,432.77
+04,2023,06. Office Expenses,170.19
+02,2023,02. Transportation,4378.96
+03,2023,02. Transportation,5377.8
+04,2023,02. Transportation,2701.15
+02,2023,01. Travel Expenses,59.94
+03,2023,01. Travel Expenses,2.49
+04,2023,01. Travel Expenses,29.0
+02,2023,06. Office Expenses,17808.27
+03,2023,06. Office Expenses,12393.91
+04,2023,06. Office Expenses,9902.49
+02,2023,11. Learning and Development,2731.32
+03,2023,11. Learning and Development,1762.98
+04,2023,11. Learning and Development,26.14
+02,2023,03. Employee Meals and Entertainment,5776.29
+03,2023,03. Employee Meals and Entertainment,6543.01
+04,2023,03. Employee Meals and Entertainment,6617.61
+02,2023,08. Fees,2033.98
+03,2023,08. Fees,2116.83
+04,2023,08. Fees,178.93
+02,2023,13. Professional Services,2039.84
+03,2023,13. Professional Services,1229.65
+04,2023,13. Professional Services,3266.52
+02,2023,07. Communications,477.12
+03,2023,07. Communications,286.13
+04,2023,07. Communications,134.54
+02,2023,03. Employee Meals and Entertainment,1970.88
+03,2023,03. Employee Meals and Entertainment,2346.48
+04,2023,03. Employee Meals and Entertainment,284.65
+02,2023,08. Fees,565.49
+03,2023,08. Fees,860.63
+04,2023,08. Fees,114.72
+02,2023,02. Transportation,42215.99
+03,2023,02. Transportation,70386.38
+04,2023,02. Transportation,8008.07
+02,2023,02. Transportation,553.66
+03,2023,02. Transportation,342.06
+04,2023,02. Transportation,644.22
+02,2023,11. Learning and Development,303.75
+03,2023,11. Learning and Development,91.11
+04,2023,11. Learning and Development,422.98
+03,2023,06. Office Expenses,31.97
+04,2023,06. Office Expenses,15.57
+02,2023,02. Transportation,104.22
+02,2023,03. Employee Meals and Entertainment,1775.48
+03,2023,03. Employee Meals and Entertainment,132.15
+02,2023,06. Office Expenses,7501.92
+03,2023,06. Office Expenses,1679.48
+04,2023,06. Office Expenses,208.47
+02,2023,11. Learning and Development,387.37
+04,2023,11. Learning and Development,534.64
+02,2023,06. Office Expenses,9.44
+03,2023,06. Office Expenses,604.31
+03,2023,08. Fees,87.5
+04,2023,08. Fees,3.38
+02,2023,11. Learning and Development,874.62
+03,2023,11. Learning and Development,1485.98
+04,2023,11. Learning and Development,201.53
+03,2023,03. Employee Meals and Entertainment,831.78
+04,2023,03. Employee Meals and Entertainment,459.92
+04,2023,06. Office Expenses,262.11
+02,2023,01. Travel Expenses,24074.97
+03,2023,01. Travel Expenses,15683.88
+04,2023,01. Travel Expenses,39889.12
+02,2023,01. Travel Expenses,21.5
+03,2023,01. Travel Expenses,114.34
+04,2023,01. Travel Expenses,-11.1
+02,2023,01. Travel Expenses,5841.65
+03,2023,01. Travel Expenses,1727.36
+04,2023,01. Travel Expenses,6620.77
+02,2023,01. Travel Expenses,41.3
+03,2023,01. Travel Expenses,125.2
+04,2023,01. Travel Expenses,101.5
+02,2023,03. Employee Meals and Entertainment,9133.04
+03,2023,03. Employee Meals and Entertainment,3251.16
+04,2023,03. Employee Meals and Entertainment,3778.04
+02,2023,09. Other,22.44
+03,2023,09. Other,357.07
+01,2024,07. Communications,88.53
+02,2023,07. Communications,573.22
+03,2023,07. Communications,2988.58
+04,2023,07. Communications,1826.6
+02,2023,06. Office Expenses,278.58
+03,2023,06. Office Expenses,31.72
+04,2023,06. Office Expenses,10.34
+03,2023,06. Office Expenses,13.36
+02,2023,02. Transportation,83.54
+03,2023,02. Transportation,35.84
+04,2023,02. Transportation,16.0
+02,2023,09. Other,14.22
+03,2023,09. Other,290.25
+04,2023,09. Other,45.56
+02,2023,06. Office Expenses,26.9
+04,2023,06. Office Expenses,544.04
+02,2023,02. Transportation,213.84
+03,2023,02. Transportation,395.14
+04,2023,02. Transportation,207.56
+02,2023,06. Office Expenses,2216.49
+03,2023,06. Office Expenses,1854.62
+04,2023,06. Office Expenses,4810.18
+02,2023,02. Transportation,2818.78
+03,2023,02. Transportation,2158.57
+04,2023,02. Transportation,3926.16
+02,2023,01. Travel Expenses,36.64
+03,2023,01. Travel Expenses,6.53
+04,2023,01. Travel Expenses,47.63
+02,2023,06. Office Expenses,9269.73
+03,2023,06. Office Expenses,9944.37
+04,2023,06. Office Expenses,12122.52
+02,2023,11. Learning and Development,283.8
+03,2023,11. Learning and Development,4240.04
+04,2023,11. Learning and Development,366.42
+02,2023,03. Employee Meals and Entertainment,5576.95
+03,2023,03. Employee Meals and Entertainment,3265.81
+04,2023,03. Employee Meals and Entertainment,7234.82
+02,2023,08. Fees,212.92
+03,2023,08. Fees,1893.01
+04,2023,08. Fees,43.54
+02,2023,13. Professional Services,60.46
+03,2023,13. Professional Services,187.02
+04,2023,13. Professional Services,26.57
+03,2023,07. Communications,209.2
+04,2023,07. Communications,353.17
+02,2023,03. Employee Meals and Entertainment,178.22
+03,2023,03. Employee Meals and Entertainment,918.85
+04,2023,03. Employee Meals and Entertainment,319.95

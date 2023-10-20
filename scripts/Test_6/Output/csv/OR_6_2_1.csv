@@ -1,0 +1,28 @@
+Parent_Expense_Type,F_Qtr,F_Year,GEO,Sum(Approved_Amount)
+01. Travel Expenses,01,2024,APAC,4209.99
+01. Travel Expenses,02,2023,APAC,3945261.44
+01. Travel Expenses,03,2023,APAC,2622281.96
+01. Travel Expenses,04,2023,APAC,1085915.04
+02. Transportation,01,2024,APAC,1012.39
+02. Transportation,02,2023,APAC,1858629.71
+02. Transportation,03,2023,APAC,1605721.78
+02. Transportation,04,2023,APAC,584022.1
+03. Employee Meals and Entertainment,01,2024,APAC,3585.66
+03. Employee Meals and Entertainment,02,2023,APAC,1727797.97
+03. Employee Meals and Entertainment,03,2023,APAC,1701644.9
+03. Employee Meals and Entertainment,04,2023,APAC,642960.66
+04. Third Party Meals and Entertainment,01,2024,APAC,441.95
+04. Third Party Meals and Entertainment,02,2023,APAC,730062.18
+04. Third Party Meals and Entertainment,03,2023,APAC,449339.42
+04. Third Party Meals and Entertainment,04,2023,APAC,138952.64
+05. Government Official Expenses,02,2023,APAC,26687.54
+05. Government Official Expenses,03,2023,APAC,15171.9
+05. Government Official Expenses,04,2023,APAC,4248.29
+06. Office Expenses,01,2024,APAC,18234.66
+06. Office Expenses,02,2023,APAC,2714757.89
+06. Office Expenses,03,2023,APAC,2123225.73
+06. Office Expenses,04,2023,APAC,1057650.43
+07. Communications,01,2024,APAC,24500.16
+07. Communications,02,2023,APAC,789641.82
+07. Communications,03,2023,APAC,613756.57
+07. Communications,04,2023,APAC,336608.81

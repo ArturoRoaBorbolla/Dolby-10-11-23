@@ -1,0 +1,11 @@
+prettytable
+numpy
+pandas
+seaborn
+customtkinter
+matplotlib
+CTkMessagebox
+uuid
+xlsxwriter
+plotly
+fuzzywuzzy
