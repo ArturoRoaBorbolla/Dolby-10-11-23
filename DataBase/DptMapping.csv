@@ -1,0 +1,1757 @@
+Cost_Center___Key,Cost_Center___Text,Bussiness__Group
+C2040,CEG Hybrik,nan
+C2041,CEG Dolby Vision,nan
+C2043,CEG Branded Audio,nan
+C2045,CEG Atmos Licensing,nan
+F2522,INACTIVE,nan
+F2523,INACTIVE,nan
+F2524,INACTIVE,nan
+C2023,Patent Amort Cinema,nan
+F2500,DPT Assets,nan
+F2501,Dolby Cinema Asset,nan
+F2502,Dolby Cinema Assets,nan
+F2503,DPT Assets,nan
+F2504,D-Cinema CN Asset,nan
+F2505,DC Dubai Assets,nan
+F2506,DC NL Assets,nan
+F2507,DC France Assets,nan
+F2508,Dolby Cinema - NTL,nan
+F2509,Dolby Cinema Dubai,nan
+F2510,Dolby Cinema - Franc,nan
+F2511,DC Assets Dubai,nan
+F2512,DC Austria Assets,nan
+F2513,DC Spain Assets,nan
+F2514,DC Saudi Assets,nan
+F2515,DC Japan Assets,nan
+F2516,DC UK Assets,nan
+F2517,DC Kuwait Assets,nan
+F2518,DC Japan Assets_3010,nan
+F2520,DC Taiwan,nan
+F2521,DC Korea,nan
+F2700,Dolby Cinema -Russia,nan
+C2000,COST OF LIC - US,nan
+C2001,COST OF LIC - IE,nan
+C2002,COST OF LIC - NTL,nan
+C2003,COST OF LIC - BCAST,nan
+C2004,COST OF LIC - AUS,nan
+C2005,COST OF LIC- E-MEDIA,nan
+C2006,COST OF LIC - US,nan
+C2007,COST OF LIC - VOICE,nan
+C2008,COST OF LIC- C & HT,nan
+C2009,COST OF LIC - DLBGLB,nan
+C2010,COST OF LIC - BCAST,nan
+C2011,COST OF LIC - GER,nan
+C2012,COST OF LIC- E-MEDIA,nan
+C2014,COST OF LIC- C & HT,nan
+C2015,COST OF LIC - BCAST,nan
+C2016,COST OF LIC - BCAST,nan
+C2017,COL-IPP,nan
+C2020,Patent Amort DLINC,nan
+C2021,Patent Amort DLI,nan
+C2022,Patent Amort NTL,nan
+C2042,OTHR COST OF LIC-VIA,nan
+C2044,COST OF LIC- E-MEDIA,nan
+C2046,OTHR COST OF LIC-VIA,nan
+F2432,Cinema Services - US,nan
+A2150,ALLOCATION - F2150,nan
+F2150,CTRCT MFG - US,nan
+A2200,ALLOC - F2200,nan
+A2202,ALLOC - F2202,nan
+A2204,ALLOC - F2204,nan
+A2206,ALLOC - F2206,nan
+A2208,ALLOC - F2208,nan
+A2210,ALLOC - F2210,nan
+A2212,ALLOC - F2212,nan
+A2219,ALLOC - F2219,nan
+A2220,ALLOC - F2220,nan
+A2229,ALLOC - F2229,nan
+A2236,ALLOC - F2236,nan
+A2238,ALLOC - F2238,nan
+C2219,INDIR MFG-CORP-US,nan
+C2229,INDIR MFG-CORP-NTL,nan
+C2230,INDIR MFG-CORP-GLB,nan
+C2239,LABOR OH - CORP US,nan
+F2204,INDIR MFG - DISTR US,nan
+F2219,INDIR MFG-DISTR-IE,nan
+F2220,INDIR MFG-DISTR-NTL,nan
+F2221,CN Duties/taxes,nan
+F2222,CN Duties/taxes,nan
+F2223,CN Duties/taxes,nan
+F2224,INDIR MFG-DISTR-NTL,nan
+F2236,INDIR MFG-ADMIN-UK,nan
+F2238,INDIR MFG-DISTR-UK,nan
+F2239,Indirect Mfg-Brazil,nan
+F2241,Warr&Repair-Brazil,nan
+F2393,DI COP Assets,nan
+F2395,DC Dubai Assets,nan
+F2397,DC Dubai Assets,nan
+F2398,D-Cinema CN Assets,nan
+F2399,DC Americas Assets,nan
+A2250,ALLOC - F2250,nan
+A2252,ALLOC - F2252,nan
+A2254,ALLOC - F2254,nan
+C2250,BLDGS - COGS - ALLOC,nan
+C2256,Facilities - COGS -,nan
+F2248,Buildings COGS - DRM,nan
+F2250,BLDGS COGS OZARK,nan
+F2251,Springfield JVIC,nan
+F2252,BLDGS - COGS - BRS,nan
+F2254,BLDGS - LLC - BRS,nan
+F2256,Lar - Mfg Supp Chn,nan
+F2258,Lar - Mfg Eng,nan
+F2260,Lar - Mfg Admin,nan
+F2262,Voice-Mfg SC-US,nan
+F2264,Voice-Mfg SC-NTL,nan
+F2266,Voice - Mfg Eng,nan
+F2268,Voice - Mfg Admin,nan
+A2100,ALLOCATION - F2100,nan
+C2109,DIRECT COGS-US,nan
+C2119,DIRECT COGS-NTL,nan
+F2100,INDIR MFG - DISTR US,nan
+F2102,Ozark Manufacturing,nan
+F2106,PURCHASE OVERHD - US,nan
+F2108,LABOR OVERHEAD - US,nan
+F2116,PURCHASE OVERHD - NL,nan
+F2200,IN MFG ADMIN - US,nan
+F2202,INDIR MFG-PLNG-US,nan
+F2206,IND MFG - PROD - US,nan
+F2208,IND MFG - ENG - US,nan
+F2210,IND MFG - SUP CHN US,nan
+F2212,IND MFG- QUAL ENG US,nan
+F2213,IndrtMfg-EngShanghai,nan
+F2214,INDIR MFG-ENGR SZHEN,nan
+F2215,Mfg-Singapore,nan
+F2216,INDIR MFG-ENGR SZHEN,nan
+F2232,Indirect Mfg -DRM US,nan
+F2234,Indir Mfg-DRM France,nan
+F2352,Production - DRM US,nan
+F2392,Warr & Repair DRM US,nan
+F2394,Warr&Repair DRM FR,nan
+F2396,DRM EMEA RMA,nan
+C2300,OTH COST OF PROD-US,nan
+C2302,OTH COST OF PROD-UK,nan
+C2303,OTH COST OF PROD-IRE,nan
+C2304,OTH COST OF PROD-NTL,nan
+C2305,OTH COST OF PROD-FRA,nan
+C2306,OTH COST OF PROD-LCP,nan
+C2307,OTH COST OF PROD-SPN,nan
+C2308,OTH COST OF PROD-VIA,nan
+C2309,OTH COST OF PROD-BER,nan
+C2310,OTH COST OF PROD-BER,nan
+C2311,OTH COST OF PROD-IND,nan
+C2312,OTH COST OF PROD-SZN,nan
+C2313,OTH COST OF PROD-SZN,nan
+F2155,ProdDist TradCin CN,nan
+F2156,ProdDistD.Cin Vid CN,nan
+F2157,ProdDist D CinAud CN,nan
+F2158,ProdDist3DGlasses CN,nan
+F2159,Prod/Dist 3D Kits CN,nan
+F2160,ProdDistBroadcast CN,nan
+F2161,ProdDistProMonitorCN,nan
+F2162,ProdDistHrdwrGen'lCN,nan
+F2163,ProdDist SW Gen'l CN,nan
+F2164,Oth cost of prod CN,nan
+F2165,ProdDistConsmrProdCN,nan
+F2170,PROD/DIST TRD CIN,nan
+F2171,PROD/DIST DCIN VIDIE,nan
+F2172,PROD/DIST DCIN AUDIE,nan
+F2173,PROD/DIST 3DGLASS IE,nan
+F2174,PROD/DIST 3D KITS IE,nan
+F2175,PROD/DIST BRDCST IE,nan
+F2176,PRD/DIST PRO MTR-IE,nan
+F2177,PROD/DIST HW GEN-IE,nan
+F2178,PROD/DIST SW GEN-IE,nan
+F2179,PROD/DIST VOICE,nan
+F2180,Prod/Dist consumerIE,nan
+F2182,WRTY/RPR DCIN VD-IE,nan
+F2183,WRTY/RPR DCIN AD-IE,nan
+F2190,WRTY/RPR VOICE,nan
+F2191,WRNTY/RPR ConsumerIE,nan
+F2192,Prod/Dolby Cnma OEM,nan
+F2280,ProdDist TradCin Br,nan
+F2281,ProdDistD.Cin Vid BR,nan
+F2282,ProdDist D CinAud BR,nan
+F2283,ProdDist3DGlasses BR,nan
+F2284,Prod/Dist 3D Kits BR,nan
+F2285,ProdDistBroadcast BR,nan
+F2286,ProdDistProMonitorBR,nan
+F2287,ProdDistHrdwrGen'lBR,nan
+F2288,ProdDist SW Gen'l BR,nan
+F2289,DNU OthCostofProd BR,nan
+F2290,Prod/Dist Voice BR,nan
+F2291,ProdDistConsmrProdBr,nan
+F2300,PROD/DIST TRD CIN NL,nan
+F2301,PROD/DIST DCIN VIDNL,nan
+F2302,PROD/DIST DCIN AUDNL,nan
+F2303,PROD/DIST 3DGLASS NL,nan
+F2304,PROD/DIST 3D KITS NL,nan
+F2305,PROD/DIST BRDCST NTL,nan
+F2306,PRD/DIST PRO MTR-NTL,nan
+F2307,PROD/DIST HW GEN-NTL,nan
+F2308,PROD/DIST SW GEN-NTL,nan
+F2309,PROD/DIST VOICE,nan
+F2310,PROD/DIST SOUNDBAR,nan
+F2320,PROD/DIST TRD CIN US,nan
+F2321,PROD/DIST DCIN VIDUS,nan
+F2322,PROD/DIST DCIN AUDUS,nan
+F2323,PROD/DIST 3DGLASS US,nan
+F2324,PROD/DIST 3D KITS US,nan
+F2325,PROD/DIST BRDCST US,nan
+F2326,PROD/DIST PRO MTR US,nan
+F2327,PROD/DIST HW GENL US,nan
+F2328,PROD/DIST SW GENL US,nan
+F2329,PROD/DIST VOICE,nan
+F2330,PROD/DIST SOUNDBAR,nan
+F2331,Prod/Dist consumerUS,nan
+F2340,PROD/DIST TRD CIN NL,nan
+F2341,PROD/DIST DCIN VIDNL,nan
+F2342,PROD/DIST DCIN AUDNL,nan
+F2343,PROD/DIST 3DGLASS NL,nan
+F2344,PROD/DIST 3D KITS NL,nan
+F2345,PROD/DIST BRDCST NTL,nan
+F2346,PRD/DIST PRO MTR-NTL,nan
+F2347,PROD/DIST HW GEN-NTL,nan
+F2348,PROD/DIST SW GEN-NTL,nan
+F2349,PROD/DIST VOICE,nan
+F2350,PROD/DIST SOUNDBAR,nan
+F2351,Prod/Dist consumerNL,nan
+F2360,WRTY/RPR TRD CIN-US,nan
+F2361,WRTY/RPR DCIN VD-US,nan
+F2362,WRTY/RPR DCINM AD-US,nan
+F2363,WRTY/RPR 3D GLS-US,nan
+F2364,WRTY/RPR 3D KITS-US,nan
+F2365,WRTY/RPR BRDCST-US,nan
+F2366,WRTY/RPR PRO MTR-US,nan
+F2367,WRTY/RPR HW GNL-US,nan
+F2368,WRTY/RPR SW GNL-US,nan
+F2369,WRTY/RPR VOICE,nan
+F2370,WRTY/RPR SOUNDBAR,nan
+F2371,WRNTY/RPR ConsumerUS,nan
+F2380,WRTY/RPR TRD CIN-NTL,nan
+F2381,WRTY/RPR DCIN VD-NTL,nan
+F2382,WRTY/RPR DCIN AD-NTL,nan
+F2383,WRTY/RPR 3D GLSS-NTL,nan
+F2384,WRTY/RPR 3D KITS-NTL,nan
+F2385,WRTY/RPR BRDCST-NTL,nan
+F2386,WRTY/RPR PRO MTR-NTL,nan
+F2387,WRTY/RPR HW GNL-NTL,nan
+F2388,WRTY/RPR SW GNL-NTL,nan
+F2389,WRTY/RPR VOICE,nan
+F2390,WRTY/RPR SOUNDBAR,nan
+F2391,WRNTY/RPR ConsumerNL,nan
+F2471,Prod/Dolby Cnma OEM,nan
+F2473,Prod/Dolby Cnma OEM,nan
+F2479,Prod/Dist Voice DG,nan
+F2494,Prod/Dolby Cnma OEM,nan
+F2375,RaaS COP US,nan
+A2240,ALLOC - F2240,nan
+A2249,ALLOC - F2249,nan
+C2249,REPAIRS CORP- US,nan
+F2240,WARRANTY & REPAIR US,nan
+F2244,REPAIRS - INTL,nan
+F2246,WARRANTY & REPAIR NL,nan
+F2247,WARRANTY & REP IE,nan
+F2491,MONITOR LEASE PGRM,nan
+F2430,COGS-DolbyMediaCloud,nan
+C2466,COGS - CMS Hybrik,nan
+F4125,PSS Hybrik,nan
+F2431,COGS Media Streaming,nan
+A2400,ALLOC - F2400,nan
+A2404,Allocation - F2404,nan
+A2406,ALLOC - F2406,nan
+A2412,ALLOC - F2412,nan
+A2416,ALLOC - SVCS - S. AM,nan
+A2418,ALLOC - SVCS - APAC,nan
+F2400,SVCS  - US - LA,nan
+F2404,SVCS  - US - NY,nan
+F2406,SVCS - BRZ,nan
+F2412,SVCS  - APAC - KOR,nan
+F2416,SVCS - S. AMERICA,nan
+F2418,SVCS - APAC,nan
+F2420,Services-APAC-AUS,nan
+F2422,COST SVCS - NTL -KOR,nan
+F2426,COST SVCS- NTL-AUS,nan
+F2427,COST SVCS - IE - AUS,nan
+F2470,Services-APAC-Austra,nan
+F2497,SVCS - KOR,nan
+A2402,ALLOC - F2402,nan
+A2408,ALLOC - F2408,nan
+F2402,SVCS  - LA DIST,nan
+F2403,ContentRelations SVC,nan
+F2405,SVCS - US - NY,nan
+F2408,D-CINEMA-UK,nan
+F2462,SVCS-SCREENING RM-UK,nan
+F2492,M&S Svcs - LA,nan
+A2410,ALLOC - F2410,nan
+A2414,ALLOC - F2414,nan
+F2410,CNT-SVCS-EMEA-RUS,nan
+F2414,CNT-SVCS-EMEA,nan
+F2415,CNT-SVCS - EMEA,nan
+F2424,COST SVCS- NTL-CHN,nan
+F2425,COST SVCS - IE - CHN,nan
+F2428,SERVICES-APAC-SZN,nan
+F2429,SERVICES-APAC-SZN,nan
+F2454,CNT-SVCS-EMEA-GER,nan
+F2456,SVCS-CONT PROV-UK,nan
+F2458,SVCS-LIVE CONT-UK,nan
+F2460,SVCS-PROD CONTENT-UK,nan
+F2464,India Production Ser,nan
+F2466,SERVICES-APAC-Shangh,nan
+F2468,SERVICES-APAC-Beijin,nan
+F2482,DV Content Solutions,nan
+F2483,DV Content Soln-DI,nan
+F2488,DV Cont Soln-Global,nan
+F2489,DV Content Soln-BJ,nan
+F2490,DV Content Soln-Ger,nan
+F2376,Dolby Cinema Korea,nan
+F2472,DPT Assets,nan
+F2474,DPT Assets,nan
+F2476,Dolby Cinema Assets,nan
+F2478,Dolby Cinema Assets,nan
+F2480,Dolby Cinema Assets,nan
+F2481,D-Cinema CN Assets,nan
+F2484,DPT Assets Pathe NTL,nan
+F2485,DPT Assets Dubai,nan
+F2486,DPT Assets Pathe Fra,nan
+F2487,DC M&S_Dolby Global,nan
+F2495,Dolby Cinema Taiwan,nan
+F2600,Dolby Cinema - UK,nan
+F2601,DC - Kuwait,nan
+F2602,DC - Saudi,nan
+F2603,Dolby Cinema - Japan,nan
+F2710,Dolby Cinema -Russia,nan
+F4276,Dlb Cinema Asst INAC,nan
+F4286,DPT Assets,nan
+A2450,ALLOC - F2450,nan
+A2452,ALLOC - F2452,nan
+A2454,Allocation - F2454,nan
+A2456,ALLOC - F2456,nan
+A2458,ALLOC - F2458,nan
+A2460,ALLOC - F2460,nan
+A2466,ALLOC-OTH COST SVCS,nan
+A2468,ALLOC-OTH COST SVCS,nan
+C2450,OTH COST OF SVCS-US,nan
+C2452,OTH COST OF SVCS-UK,nan
+C2453,OTH COST OF SVCS-GER,nan
+C2454,OTH COST SVCS- NTL,nan
+C2456,OTH COST SVCS- BRZ,nan
+C2457,OTH COST OF SVCS-IND,nan
+C2458,OTH COST SVCS- RUS,nan
+C2459,OTH COST OF SVCS-SHG,nan
+C2460,OTH COST SVCS- KOR,nan
+C2461,OTH COST OF SVCS-BEJ,nan
+C2462,OTH COST OF SVCS-VIA,nan
+C2463,OTH COST OF SVCS-SZN,nan
+C2464,OTH COST OF SVCS-BER,nan
+C2465,OTH COST OF SVCS-SG,nan
+C2468,OTH COST SVCS - APAC,nan
+C2470,Cost of Services DI,nan
+C2471,OTH COST OF SVCS-SZN,nan
+F2450,OTH COST OF SVCS-US,nan
+F2451,Cost of Services UK,nan
+F2452,OTH COST OF SVCS-UK,nan
+F2453,Cost of Services CHI,nan
+F2455,Cost of Services JPN,nan
+F2457,Cost of Services Tai,nan
+F2459,Cost of Services - F,nan
+F2461,Cost of Services - U,nan
+F2463,Cost of Services DI,nan
+F2465,Raas COS EMEA,nan
+F2467,DNU - Raas COS CAN,nan
+F2469,COST OF SERVICES DI,nan
+F2475,RaaS COS US,nan
+F2477,RaaS COS DG,nan
+F2493,Voxeet - COS,nan
+F2496,Interactive API COS,nan
+F2498,Dolby.io COS AUS,nan
+F2499,Dolby.io COS Poland,nan
+F2620,Dolby.io COS France,nan
+F2621,Dolby.io COS Spain,nan
+F2622,Dolby.io COS Germany,nan
+F2630,Millicast COS US,nan
+F3041,INACTIVATG S-Rch-SWE,nan
+C7000,NON-OP - US,nan
+C7002,NON-OP - UK,nan
+C7004,NON-OP - UKL,nan
+C7008,NON-OP - GER,nan
+C7010,NON-OP - SWE,nan
+C7011,NON-OP - IE,nan
+C7012,NON-OP - NTL,nan
+C7013,NON-OP - FRANCE,nan
+C7014,NON-OP - FRN,nan
+C7016,NON-OP - CAN,nan
+C7018,NON-OP - AUS,nan
+C7020,NON-OP - BEJ,nan
+C7022,NON-OP - SZN,nan
+C7024,NON-OP - WGQ,nan
+C7026,NON-OP - SHG,nan
+C7028,NON-OP - TWN,nan
+C7030,NON-OP - IND,nan
+C7031,NON-OP - INDL,nan
+C7032,NON-OP - JPN,nan
+C7034,NON-OP - HKG,nan
+C7036,NON-OP - SGP,nan
+C7038,NON-OP - KOR,nan
+C7040,NON-OP - VIAHK,nan
+C7042,NON-OP - VIAJP,nan
+C7044,NON-OP - BRZ,nan
+C7046,NON-OP - BER,nan
+C7048,NON-OP - DLISC,nan
+C7050,NON-OP - RUS,nan
+C7052,NON-OP - DLNHC,nan
+C7054,NON-OP - LLC BLDG A,nan
+C7056,NON-OP - LLC BLDG B,nan
+C7058,NON-OP - DLBHC,nan
+C7060,NON-OP - DLLCP,nan
+C7062,NON-OP -  VIA-US,nan
+C7064,NON-OP - DLCAN,nan
+C7066,NON-OP - LLC BRS,nan
+C7068,NON-OP- LLC BUR,nan
+C7070,NON-OP - LLC BRN,nan
+C7072,NON-OP - DLSHC,nan
+C7074,NON-OP - DALLC,nan
+C7076,NON-OP - DALTD,nan
+C7078,NON-OP - SPAIN,nan
+C7080,NON-OP - DUB,nan
+C7082,NON OP - POL,nan
+C7084,NON-OP - DLBGLB,nan
+C7086,NON-OP - DLBDUB,nan
+C7087,NON-OP - Voxeet,nan
+C7088,NON-OP - SZN,nan
+C7090,NON-OP - MC US,nan
+C7091,NON-OP - MC SP,nan
+C7092,NON-OP - MC SG,nan
+F3180,IMAGING TCH INCUBATI,ATG
+F3100,Imaging Engr. Mgmt,ATG
+F3140,Imaging Architecture,ATG
+F3163,Imaging Dvc Prod Eng,ATG
+F3167,ImagingDeviceEngr.UK,ATG
+F3171,Imaging - Shenzhen,ATG
+F3181,ImagingDvcEngr - IND,ATG
+F3139,Imaging - Beijing,ATG
+F3143,Imaging Platform,ATG
+F3141,Imaging Research,ATG
+F3144,Imaging Applied Rsch,ATG
+F3285,Imaging - Taiwan,ATG
+F3049,University Funding,ATG
+F3200,ATG ADMIN,ATG
+F3205,ATG General,ATG
+F3207,Tech Summit,ATG
+F3833,ATG Interns - BCN,ATG
+F3834,ATG Interns - BEJ,ATG
+F3835,ATG Interns - IND,ATG
+F3836,ATG Interns - NUR,ATG
+F3837,ATG Interns - STK,ATG
+F3838,ATG Interns - SYD,ATG
+F3839,ATG Interns - US,ATG
+F4420,Sound Platform-SF,ATG
+F4424,Sound Platform-SYD,ATG
+F3040,SOUND R&D GENERAL,ATG
+F3042,SOUND TECH - SF,ATG
+F3043,SOUND TECH - IBERIA,ATG
+F3046,SOUND TECH - AUS,ATG
+F3048,SOUND TECH - SWE,ATG
+F3050,SOUND TECH - BEJ,ATG
+F3063,SOUND TECH - NUR,ATG
+F3126,Sound Tech - India,ATG
+F3006,DNU Applied AI - SF,ATG
+F3300,Applied AI - US,ATG
+F3301,DNU Applied AI DLLCP,ATG
+F3307,Applied AI - Bcl,ATG
+F3145,Tech Incubation AUS,ATG
+F3146,Tech Incubation US,ATG
+F3147,Audio Tech Incubatio,ATG
+F3003,Next-Gen Media Deliv,ATG
+F3211,Next-Gen Media Del,ATG
+F4422,Advanced Media US,ATG
+F4428,Advanced Media EMEA,ATG
+F3199,AMS Korea,ATG
+F3204,TECH STRAT - SF,ATG
+F3206,TECH STRAT - LA,ATG
+F3208,Science - SF,ATG
+F3209,CTO Mgmt Australia,ATG
+F3273,TECH STRAT - UK,ATG
+F3045,Data Platform,ATG
+F4500,S&M OPS GEN - US,CFO
+F4502,S&M OPS - US,CFO
+F5003,NEW BUSINESS DESIGN,CFO
+F4510,S&M SVCS OPS - LA,CFO
+F4511,INACTIVE - S&M OPS S,CFO
+F4512,S&M SVCS OPS - NY,CFO
+F4514,S&M OPS SVCS - UK,CFO
+F5000,Corporate Administra,CFO
+F5096,PURCHASING APAC,CFO
+F5041,Cloud Finance,CFO
+F5042,BG Finance,CFO
+F5002,CORP ACCOUNTING - US,CFO
+F5070,FIN PROJECTS - US,CFO
+F5012,APAC FINANCE - JPN,CFO
+F5014,APAC FINANCE - SHG,CFO
+F5016,APAC FINANCE - BEJ,CFO
+F5017,APAC FINANCE - AUS,CFO
+F5018,APAC Finance - TWN,CFO
+F5019,APAC Finance - INDL,CFO
+F5020,APAC Finance - IND,CFO
+F5022,APAC Finance - KRW,CFO
+F5024,APAC Finance - SGP,CFO
+F5028,APAC Finance - SHZ,CFO
+F5029,APAC FINANCE - SHZ,CFO
+F5001,EMEA FINANCE - IE,CFO
+F5004,EMEA FINANCE - NTL,CFO
+F5005,EMEA FINANCE - GLB,CFO
+F5006,EMEA FINANCE - UK,CFO
+F5007,EMEA FINANCE - DUB,CFO
+F5008,EMEA FINANCE - SWE,CFO
+F5009,EMEA FINANCE - POL,CFO
+F5010,EMEA FINANCE - GER,CFO
+F5011,EMEA FINANCE-FRA,CFO
+F5026,EMEA FINANCE-IBERIA,CFO
+F5027,EMEA-Finance-Voxeet,CFO
+F5040,Infra Finance,CFO
+F5044,Entertainment Fin,CFO
+F5050,IP & Corp Finance,CFO
+F5060,INTERNAL AUDIT - US,CFO
+F5030,CORP TAX & TREAS- US,CFO
+C3852,CORP IT SYS - STA CL,CFO
+C3854,CORP IT SYS - SJ,CFO
+C3856,CORP IT SYS - NRBG,CFO
+C3858,CORP IT SYS - BRLN,CFO
+C3860,CORP IT SYS - SWE,CFO
+C3862,CORP IT SYS - AUS,CFO
+C3864,CORP IT SYS - VCVR,CFO
+C3866,CORP IT SYS - BEJ,CFO
+C3868,CORP IT SYS - POL,CFO
+F3850,IT - R&D - GEN,CFO
+F3851,CORP IT SYS-BCN,CFO
+C4854,CORP IT SYS - BUR,CFO
+C4860,CORP IT SYS - SHG,CFO
+C4862,CORP IT SYS - SZN,CFO
+C4866,CORP IT SYS - TWN,CFO
+C4868,CORP IT SYS - KOR,CFO
+C4872,CORP IT SYS - JPN,CFO
+C4878,CORP IT SYS - BRZ,CFO
+C4880,CORP IT SVCS - HK,CFO
+C4882,CORP IT SVCS - WGQ,CFO
+C4884,CORP IT SVCS - Londo,CFO
+C4886,CORP IT SVCS - SGP,CFO
+C4887,CORP IT SVCS - FRA,CFO
+C4888,CORP IT SVCS - PARIS,CFO
+C4890,CORP IT SVCS - RUS,CFO
+C4892,CORP IT SVCS - INDIA,CFO
+C4894,CORP IT SVCS - BEJ,CFO
+C4896,CORP IT SVCS - MADRI,CFO
+C4898,CORP IT SVCS - DUB,CFO
+C4899,CORP IT SYS - SZN,CFO
+F4850,IT - S&M - GEN,CFO
+C5150,CORP IT SYS - SF,CFO
+C5152,CORP IT SYS - UK,CFO
+C5153,CORP IT SYS - NTL,CFO
+C5154,CORP IT SYS - NTL,CFO
+C5155,CORP IT SYS - IE,CFO
+F5033,IT Ent Apps - BLR,CFO
+F5102,ENTERPRISE APPS-US,CFO
+F5103,Enterprise-Apps-POL,CFO
+F5104,ENTRPS APPS - US,CFO
+F5105,Enterprise Analyt-US,CFO
+F5100,IT GENERAL - US,CFO
+F5032,IT Infra - BLR,CFO
+F5140,IT INFSTRCT - US,CFO
+F5141,IT INFSTRUC - NTL,CFO
+F5142,IT INFSTRCT - DRM,CFO
+F5143,IT INFSTRUC - NTL,CFO
+F5144,IT INFSTRUC - IE,CFO
+F5130,IT SEC & COMP - US,CFO
+F5131,IT Security - Pol,CFO
+F5106,IT SERVICES - US,CFO
+F5108,IT SERVICES - UK,CFO
+F5109,IT SERVICES - IE,CFO
+F5110,IT SERVICES - NTL,CFO
+F5111,IT SERVICES - NTL,CFO
+F5112,IT SERVICES - GER,CFO
+F5114,IT SERVICES - JPN,CFO
+F5116,IT SERVICES - SHG,CFO
+F5118,IT SERVICES - AUS,CFO
+F5120,IT SERVICES - BEJ,CFO
+F5122,IT SERVICES - POL,CFO
+F5124,IT Services - SZN,CFO
+F5031,Procurement - IRE,CFO
+F5090,CORP PURCH - US,CFO
+F5091,PURCHASING EMEA,CFO
+F5092,PURCHASING EMEA,CFO
+F3034,CMS DMC SF Engineeri,CMS
+F3039,CMS MMB Hybrik Engin,CMS
+F3165,CMS MMB & Hybrik-BER,CMS
+F3227,CMS MSS Engineering,CMS
+F3080,CMS Hybrik SRE,CMS
+F3081,CMS DMC Platform,CMS
+F3222,CMS HybrikPlatformUS,CMS
+F3085,CMS Prod Eng Mgmt,CMS
+F3070,CMS Research - DSV,CMS
+F3004,CEG MSA Tech Gen,CMS
+F3013,CEG Imag Dev Eng,CMS
+F3022,INACTIVE -APPLD RESE,CMS
+F3023,INACTIVE - ATG S-Rch,CMS
+F3024,INACTIVE - ATG Soun,CMS
+F3026,INACTIVE - CEG Tech,CMS
+F3060,CEG Tech EAD - WRO,CMS
+F3096,Do Not Use,CMS
+F3097,Do Not Use,CMS
+F3157,INACTIVE - CEG HT Pr,CMS
+F3161,CEG Imaging - SHZN,CMS
+F3169,CEG Hybrik Plat-Syd,CMS
+F3216,CEG Tech QA -WRO,CMS
+F3219,INACTIVE - CEG Tech,CMS
+F3258,CMS Imaging - BEJ,CMS
+F3259,INACTIVE - CEG Tech,CMS
+F3261,ATG S-PLT QA-WROC,CMS
+F3276,CEG PM - SHZN,CMS
+F4251,INACTIVE - CEG Progr,CMS
+F4298,CEG Tech Strategy -,CMS
+F4426,Sound Platform-STK,CMS
+F4471,INACTIVE - CEG - Arc,CMS
+F4442,CMS DMC Busn MgmtUS,CMS
+F4472,CMS Cloud General Mg,CMS
+F4238,CMS Cloud Bus Mgmt H,CMS
+F4441,CMS Cloud Bus Mgmt H,CMS
+F4445,CMS Cloud Bus Mgmt H,CMS
+F4252,CMS General Mgmt - D,CMS
+F4234,CEG MSA - BRZ,CMS
+F4235,INACTIVE - CEG Gener,CMS
+F4241,E-MEDIA NEW OPP,CMS
+F4255,INACTIVE - CEG Marke,CMS
+F4258,CEG Cloud Enc DLLC,CMS
+F4259,CEG Cloud Enc DI,CMS
+F4260,INACTIVE,CMS
+F4261,CEG Enhanced Audio D,CMS
+F4287,CEG Audio Smart Home,CMS
+F4423,CEG Product & Platfo,CMS
+F4440,INACTIVE - Sound Pro,CMS
+F4451,CEG Interactive Imag,CMS
+F4454,INACTIVE - CEG Imagi,CMS
+F4448,DNUCstmr Success Sup,Dolby.io
+F3021,COMM CTO US,ATG
+F3051,COMM RESEARCH BEJ,ATG
+F3054,COMM RESEARCH AUS,ATG
+F3061,DNU Comm Research US,ATG
+F4446,INACTIVE COMM CTO DL,ATG
+F4449,DNUVoicePltf Sol-FRA,ATG
+F4450,INACTIVE VOICE SOLUT,ATG
+F3016,DNU COMM SP ENG AUS,Dolby.io
+F3053,DNU COMM MP ENG GER,CMS
+F3055,DNU - COMM QA - AUS,Dolby.io
+F3000,Communications Progr,nan
+F4529,DNU - COMMS BD,Entertainment
+F3263,INACTIVE-Comm Mgmt,nan
+F4270,DNU - COMM MGMT,nan
+F3267,DNU Comms PRDCT,Entertainment
+F4517,Comms sales,nan
+F4527,DNU Comms Channel UK,nan
+F4528,Communications Chann,nan
+F3500,DNU Dolby Voxeet SAS,dolby.io
+F3059,DNU CONSUMER PRD US,nan
+F3302,DNU PrdctEngShenzhen,nan
+F3303,Prod Eng BEJ,nan
+F3304,Prod Eng SF,nan
+F3305,DNUCONSUMER PRD MKTG,nan
+F3306,DNU Prod Eng SF DLLC,nan
+F4614,Inactive BUS DEV R&D,nan
+A5400,DC Allocation UK,Corp Other
+A5405,DC Allocation SH,Corp Other
+A5900,ALLOC - F5900,Corp Other
+A5902,ALLOC - F5902,Corp Other
+A5904,ALLOC - F5904,Corp Other
+A5906,ALLOC - F5906,Corp Other
+A5908,ALLOC - F5908,Corp Other
+A5910,ALLOC - F5910,Corp Other
+A5912,ALLOC - F5912,Corp Other
+A5914,ALLOC - F5914,Corp Other
+A5916,ALLOC - F5916,Corp Other
+A5918,ALLOC - F5918,Corp Other
+A5920,ALLOC - F5920,Corp Other
+C5034,Corp Sustainability,Corp Other
+C5400,DC Allocation UK,Corp Other
+C5405,DC Allocation SH,Corp Other
+C5410,DC Allocation BG,Corp Other
+C5420,DC Allocation DI,Corp Other
+C5421,DC Allocation DI,Corp Other
+C5422,DC ALLOCATION DI,Corp Other
+C5900,OTH G&A - DLINC - US,Corp Other
+C5901,OTH G&A - FRINGE,Corp Other
+C5902,OTH G&A - VIA - US,Corp Other
+C5903,OTH G&A - FRINGE-LCP,Corp Other
+C5904,OTH G&A - UK,Corp Other
+C5905,OTH G&A - FRINGE-VIA,Corp Other
+C5906,OTH G&A - NTL,Corp Other
+C5907,OTH G&A - IE,Corp Other
+C5908,OTH G&A - SWE,Corp Other
+C5910,OTH G&A - GER,Corp Other
+C5911,OTH G&A - FRA,Corp Other
+C5912,OTH G&A - JPN,Corp Other
+C5913,OTH G&A - TWN,Corp Other
+C5914,OTH G&A - SHG,Corp Other
+C5915,OTH G&A - KOR,Corp Other
+C5916,OTH G&A - BEJ,Corp Other
+C5917,OTH G&A - SZN,Corp Other
+C5918,OTH G&A - SNG,Corp Other
+C5919,OTH G&A - Voxeet,Corp Other
+C5920,OTH G&A - AUS,Corp Other
+C5921,OTH G&A - IBERIA,Corp Other
+C5922,OTH G&A - DLBHC,Corp Other
+C5924,OTH G&A - DLISC,Corp Other
+C5926,OTH G&A - DLNHC,Corp Other
+C5928,OTH G&A - DALLC,Corp Other
+C5930,OTH G&A - DLSHC,Corp Other
+C5932,OTH G&A - DALTD,Corp Other
+C5940,OTH G&A-PHILANTHROPY,Corp Other
+C5942,OTH G&A - DLLCP,Corp Other
+C5944,OTH G&A - LLCUK,Corp Other
+C5946,OTH G&A - LCDLP,Corp Other
+C5948,OTH G&A - DLCAN,Corp Other
+C5950,OTH G&A - LCBRS,Corp Other
+C5952,OTH G&A - LCBUR,Corp Other
+C5954,OTH G&A - LCBRN,Corp Other
+C5956,OTH G&A - POL,Corp Other
+C5958,OTH G&A - DLBGLB,Corp Other
+C5960,OTH G&A - DLBDUB,Corp Other
+C5962,DC G&A allocation,Corp Other
+C5963,OTH G&A - SZN,Corp Other
+F5034,Inact - Corp Sustain,Corp Other
+F5405,DC Allocation SH,Corp Other
+F5555,DNU OTHER G&A VOXEET,Corp Other
+A3900,ALLOC - C3900,Corp Other
+A3902,ALLOC - C3902,Corp Other
+A3904,ALLOC - C3904,Corp Other
+A3906,ALLOC - C3906,Corp Other
+A3908,ALLOC - C3908,Corp Other
+A3910,ALLOC - C3910,Corp Other
+A3912,ALLOC - C3912,Corp Other
+A3914,ALLOC - C3914,Corp Other
+C3900,OTH R&D - DLINC - US,Corp Other
+C3902,OTH R&D - DLLCP - US,Corp Other
+C3904,OTH R&D - GER,Corp Other
+C3906,OTH R&D - SWE,Corp Other
+C3908,OTH R&D - AUS,Corp Other
+C3910,OTH R&D - CAN,Corp Other
+C3912,OTH R&D - BEJ,Corp Other
+C3914,OTH R&D - BER,Corp Other
+C3916,OTH R&D - UK,Corp Other
+C3917,OTH R&D - SPN,Corp Other
+C3918,OTH R&D - SHG,Corp Other
+C3920,OTH R&D - JPN,Corp Other
+C3921,OTH R&D - SZN,Corp Other
+C3922,OTH R&D - POL,Corp Other
+C3923,Other R&D - Voxeet,Corp Other
+C3924,Other R&D - France,Corp Other
+C3925,OTH R&D - NTL,Corp Other
+C3926,OTH R&D - SZN,Corp Other
+C3927,OTH R&D - NTL,Corp Other
+C3928,OTH R&D - IE,Corp Other
+A4900,ALLOC - F4900,Corp Other
+A4902,ALLOC - F4902,Corp Other
+A4904,ALLOC - F4904,Corp Other
+A4906,ALLOC - F4906,Corp Other
+A4908,ALLOC - F4908,Corp Other
+A4910,ALLOC - F4910,Corp Other
+A4912,ALLOC - F4912,Corp Other
+A4914,ALLOC - F4914,Corp Other
+A4916,ALLOC - F4916,Corp Other
+A4918,ALLOC - F4918,Corp Other
+A4920,ALLOC - F4920,Corp Other
+A4922,ALLOC - F4922,Corp Other
+A4924,ALLOC - F4924,Corp Other
+A4926,ALLOC - F4926,Corp Other
+A4928,ALLOC - F4928,Corp Other
+A4930,ALLOC - F4930,Corp Other
+A4932,ALLOC - F4932,Corp Other
+A4934,ALLOC - F4934,Corp Other
+A4936,ALLOC - F4936,Corp Other
+A4938,ALLOC - F4938,Corp Other
+A4940,ALLOC - F4940,Corp Other
+A4942,ALLOC - F4942,Corp Other
+A4944,ALLOC - F4944,Corp Other
+A4945,ALLOC - F4940,Corp Other
+C4900,OTH S&M - DLINC - US,Corp Other
+C4902,OTH S&M - DLLCP - US,Corp Other
+C4904,OTH S&M - VIA - US,Corp Other
+C4906,OTH S&M - UK,Corp Other
+C4907,OTH S&M - IE,Corp Other
+C4908,OTH S&M - NTL,Corp Other
+C4910,OTH S&M - SWE,Corp Other
+C4912,OTH S&M - GER,Corp Other
+C4914,OTH S&M - JPN,Corp Other
+C4916,OTH S&M - SHG,Corp Other
+C4918,OTH S&M - BEJ,Corp Other
+C4920,OTH S&M - SNG,Corp Other
+C4922,OTH S&M - AUS,Corp Other
+C4923,OTH S&M-FRA,Corp Other
+C4924,OTH S&M - FRN,Corp Other
+C4925,OTH S&M - POL,Corp Other
+C4926,OTH S&M - BRZ,Corp Other
+C4928,OTH S&M - VIAHK,Corp Other
+C4930,OTH S&M - VIAJP,Corp Other
+C4932,OTH S&M - HK,Corp Other
+C4934,OTH S&M - IND,Corp Other
+C4936,OTH S&M - TWN,Corp Other
+C4938,OTH S&M - KOR,Corp Other
+C4940,OTH S&M - SZN,Corp Other
+C4941,OTH S&M - Voxeet,Corp Other
+C4942,OTH S&M - RUS,Corp Other
+C4944,OTH S&M - WGQ,Corp Other
+C4946,OTH S&M - SPN,Corp Other
+C4948,OTH S&M - DUB,Corp Other
+C4950,OTH S&M - DLBGLB,Corp Other
+C4952,OTH S&M - DLBDUB,Corp Other
+C4953,OTH S&M - SZN,Corp Other
+F4400,INACTIVE Business De,Corp Other
+F4600,INACTIVE Business De,Corp Other
+F4602,INACTIVE Business De,Corp Other
+F4610,INACTIVE Business De,Corp Other
+F4612,INACTIVE Biz Dev/Pat,Corp Other
+F5400,Corporate Strategy,Corp Strategy
+F3103,Marketing,Dolby.io
+F3104,Developer Relations,Dolby.io
+F4475,MC S&M Singapore,Dolby.io
+F4476,MC S&M US,Dolby.io
+F4477,MC S&M Spain,Dolby.io
+F4485,Streaming S&M Sngpor,Dolby.io
+F4486,Streaming S&M US,Dolby.io
+F4487,Streaming S&M Spain,Dolby.io
+F4550,Sales,Dolby.io
+F3010,EP Dev and NRE,Dolby.io
+F3052,DNU Audio Server,Dolby.io
+F3202,Mgmt - Australia,Dolby.io
+F3228,Cloud Comm Eng IE,Dolby.io
+F3264,Media,Dolby.io
+F3265,Poland Eng Dolby.io,Dolby.io
+F3277,Nuremberg Eng,Dolby.io
+F3501,Cloud Comm Eng,Dolby.io
+F3502,Cloud Comm Eng - NL,Dolby.io
+F3503,Cloud Comm Eng - NL,Dolby.io
+F3505,Cloud Comm Eng - Sp,Dolby.io
+F3224,mAPIs SYD,Dolby.io
+F4611,DNU Sample SDKs SYD,Dolby.io
+F3223,mAPIs US,Dolby.io
+F4609,DNU Sample SDKs US,Dolby.io
+F3220,DNU Platform AUS,Dolby.io
+F3225,Platform US,Dolby.io
+F3110,Program Mgmt US,Dolby.io
+F3111,Program Mgmt POL,Dolby.io
+F3401,MC R&D Singapore,Dolby.io
+F3402,MC R&D US,Dolby.io
+F3403,MC R&D Spain,Dolby.io
+F3404,Streaming R&D Sngpor,Dolby.io
+F3405,Streaming R&D US,Dolby.io
+F3406,Streaming R&D Spain,Dolby.io
+F3407,Streaming R&D AUS,Dolby.io
+F3266,COMM QA - POL,Dolby.io
+F4515,Communications Chann,Dolby.io
+F3134,Mgmt,Dolby.io
+F3226,Data Infrastructure,Dolby.io
+F4603,Operations US,Dolby.io
+F3120,DNUCommunicationsSYD,Dolby.io
+F3121,DNUCommunicationsPOL,Dolby.io
+F3262,DNU CommunicationsUS,Dolby.io
+F3274,Mgmt,Dolby.io
+F3125,Product - US,Dolby.io
+F3130,Product - UK,Dolby.io
+F3115,Product - SYD,Dolby.io
+F3221,Product Strategy US,Dolby.io
+F3269,Solutions - US,Dolby.io
+F3001,Support - UK,Dolby.io
+F3252,Support - US,Dolby.io
+F3268,Support - AUS,Dolby.io
+C2251,Cinema Sales - UK,Entertainment
+F2527,Cinema Sales SZ,Entertainment
+F3031,Cinema Hardware Eng,Entertainment
+F3032,BCST AUD ENG - US,Entertainment
+F3155,Cine & HT Emd Sw-US,Entertainment
+F3160,Quality Management,Entertainment
+F3172,DRM Engineering - US,Entertainment
+F3241,Cinema Tech - PM,Entertainment
+F3247,CineHT Tech Pubs-US,Entertainment
+F3249,Cine & HT CCrtn - US,Entertainment
+F3256,Technology Strategy,Entertainment
+F3270,DNUCineStudioRltn-US,Entertainment
+F3901,CINE & HT ARCH-DLLCP,Entertainment
+F4051,Product Sales - US,Entertainment
+F4058,Helsinki Sales,Entertainment
+F4063,Cinema Sales - MEAT,Entertainment
+F4094,ASIA TEST CTR-CHINA,Entertainment
+F4098,Shenzhen Test Center,Entertainment
+F4100,CINEMA SALES - US,Entertainment
+F4106,Strategic S,Entertainment
+F4109,Product Sales & Cont,Entertainment
+F4115,Content Solutions -,Entertainment
+F4130,Content Services - A,Entertainment
+F4132,IND FILM SVCS - NY,Entertainment
+F4281,Dolby Cinema - Beiji,Entertainment
+F4284,Dolby Cinema - Iberi,Entertainment
+F4292,Atmos - DI,Entertainment
+F4294,Atmos - IND,Entertainment
+F4296,Atmos - KOR,Entertainment
+F4297,Atmos- SNG,Entertainment
+F4401,Dolby Cinema - SHN,Entertainment
+F4403,Dolby Cinema - Sing,Entertainment
+F4430,Dolby Cinema - US (D,Entertainment
+F4432,Dolby Cinema - US (D,Entertainment
+F4434,Dolby Cinema - UK,Entertainment
+F4436,Dolby Cinema - Germa,Entertainment
+F4437,DC Biz Dev NTL,Entertainment
+F4438,Dolby Cinema - Nethe,Entertainment
+F4439,Dolby Cinema - Shang,Entertainment
+F4456,Dolby Cinema - Dubai,Entertainment
+F4457,Dolby Cinema - Dubai,Entertainment
+F4459,Dolby Cinema - Dubai,Entertainment
+F4460,DC - Pathe France,Entertainment
+F4462,Dolby Cinema - FR,Entertainment
+F4463,DC BD US,Entertainment
+F4464,DC BD UK,Entertainment
+F4465,DC BD China,Entertainment
+F4466,DC BD Spain,Entertainment
+F4526,DRM Field Ops - Fran,Entertainment
+F4670,Ozark Sales & Market,Entertainment
+F3030,CIN AUD ENG - US,Entertainment
+F3035,Cinema Technology Ma,Entertainment
+F3239,Cinema Tech - PM,Entertainment
+F3900,CINE & HT ARCH-US,Entertainment
+F3242,DESING SVCS - US,Entertainment
+F3248,Compliance Eng and C,Entertainment
+F3033,Ozark R&D,Entertainment
+F3142,IMAGING A.D.II - US,Entertainment
+F3158,PRO IMAGING - US,Entertainment
+F3168,IMAGING PROD - IN,Entertainment
+F3170,IMAGING PROD - YDLY,Entertainment
+F3174,DRM Engineering - FR,Entertainment
+F3176,Cinema QA – US,Entertainment
+F3178,Cinema QA – Poland,Entertainment
+F3154,CIN EXHIBITION SOFT,Entertainment
+F3175,CIN EXHIB SOFT-FR,Entertainment
+F3177,Cin Engineering-Pol,Entertainment
+F3156,Cinema Mgmt - US,Entertainment
+F4113,Content Relations,Entertainment
+F4209,Cinema Mgmt Other-US,Entertainment
+F4660,Cinema Advisory - US,Entertainment
+F4140,S&M SVCS OPS - LA,Entertainment
+F4141,S&M SVCS OPS - NTL,Entertainment
+F4142,S&M SVCS OPS - NY,Entertainment
+F4143,S&M SVCS OPS - UK,Entertainment
+F4144,S&M SVCS OPS - NTL,Entertainment
+F4157,DC Operations - US,Entertainment
+F4158,DC Operations - NTL,Entertainment
+F4189,Cinema Prod MgmtUK,Entertainment
+F4280,Cinema ProductMgmtUS,Entertainment
+F4061,Sales Management - U,Entertainment
+F4065,Cinema Sales - SNG,Entertainment
+F4067,Sales - Latin Americ,Entertainment
+F4069,Cinema Sales – RU,Entertainment
+F4073,Cinema Sales – GER,Entertainment
+F4074,Cinema Sales - KOR,Entertainment
+F4075,Cinema Sales - IND,Entertainment
+F4077,Cinema Sales - MEAT,Entertainment
+F4078,Cinema Sales - UK,Entertainment
+F4103,Cinema Sales – FR,Entertainment
+F4108,Prod & Services Sale,Entertainment
+F4114,PRD-SVCS SALES - JPN,Entertainment
+F4118,VIDEO PROD SALES-US,Entertainment
+F4122,Cinema Sales - Iberi,Entertainment
+F4123,Cinema Sales - NTL,Entertainment
+F4135,Cinema Loans - IE,Entertainment
+F4169,CINEMA SALES SZ,Entertainment
+F4308,Cinema Loans – EMEA,Entertainment
+F4155,CinBus&StrgcPlnng-US,Entertainment
+F4055,Tech Operations and,Entertainment
+F4019,Cinema Support - Ind,Entertainment
+F4023,Cinema Support - Jap,Entertainment
+F4025,Cinema Prd Svcs and,Entertainment
+F4043,Cinema Support - Sin,Entertainment
+F4045,Cinema Prd Svcs and,Entertainment
+F4047,Engineering Support,Entertainment
+F4120,Product Services and,Entertainment
+F4121,Cinema Support - KR,Entertainment
+F4126,Cinema Support - Fra,Entertainment
+F4402,Cinema Solutions SHN,Entertainment
+F4458,Cinema Solutions INT,Entertainment
+F4461,CinemaSolutionsD-CIN,Entertainment
+F4467,CINEMASOLUTIONSD-CIN,Entertainment
+F2519,Theatrical HKG,Entertainment
+F4053,Field Marketing - SH,Entertainment
+F4059,Content Relations -,Entertainment
+F4204,CONTENT SOLUTIONS,Entertainment
+F4282,BUS GRP CINEMA - UK,Entertainment
+F4290,Atmos - DLINC,Entertainment
+F4293,Atmos - UK,Entertainment
+F4295,Atmos - BEJ,Entertainment
+F4156,DolbyAtmosforLive-US,Entertainment
+F4479,S&M Ops - IRE,Entertainment
+F4504,S&M OPS - NTL,Entertainment
+F4505,S&M PROD OPS - BEJ,Entertainment
+F4507,S&M OPS - NTL,Entertainment
+F4508,S&M PROD OPS - US,Entertainment
+F4509,S&M PROD OPS - SNG,Entertainment
+F4011,Strategic Accounts -,Entertainment
+F4013,Strategic Accounts -,Entertainment
+F4020,LIC SALES-DLLCP - US,Entertainment
+F4021,LIC SALES-DLINC - US,Entertainment
+F4044,SALES- LATIN AMERICA,Entertainment
+F4015,PRC SMG Mgmt,Entertainment
+F4034,Licensing Sales - SH,Entertainment
+F4036,Lic Sales-PC BJ,Entertainment
+F4038,Licensing Sales - SZ,Entertainment
+F4062,FAE-Greater China-BJ,Entertainment
+F4064,Field App Eng Greate,Entertainment
+F4066,FAE-Greater China-SZ,Entertainment
+F4111,CONTENT RELATIONS -,Entertainment
+F4112,Operator Sales - SHG,Entertainment
+F4160,Operator Sales - BJ,Entertainment
+F4161,Operator Sales - SZ,Entertainment
+F4162,Lic Sales-PC SZ,Entertainment
+F4163,Operator Sales - MM,Entertainment
+F4164,Operator Sales-MM SZ,Entertainment
+F4165,Operator Sales-MM SZ,Entertainment
+F4170,LICENSING SALES - SZ,Entertainment
+F4178,OPERATOR SALES - SZ,Entertainment
+F4180,LIC SALES-PC SZ,Entertainment
+F4520,Operator Sales - TEL,Entertainment
+F4521,Sales Ops - CH,Entertainment
+F4523,FAE-GREATER CHINA-SZ,Entertainment
+F4532,SALES OPS - CH,Entertainment
+F4006,CP Management - EU,Entertainment
+F4008,CP Management – DLI,Entertainment
+F4010,CP Management – DLLC,Entertainment
+F4057,CP Management – Bei,Entertainment
+F4248,I.P. & C.S. London,Entertainment
+F4264,IP&CS - Germany,Entertainment
+F4305,Inactive SLS MGMT DI,Entertainment
+F4555,CP Management – DI,Entertainment
+F4012,Regional Sales Manag,Entertainment
+F4018,INACTIVE Regional Sa,Entertainment
+F4026,INACTIVE Southern Eu,Entertainment
+F4041,INACTIVE DRM Sales -,Entertainment
+F4050,INACTIVE Regional Sa,Entertainment
+F4081,INACTIVE Global Sale,Entertainment
+F4101,INACTIVE NEW INITIAT,Entertainment
+F4104,INACTIVE Strategic S,Entertainment
+F3102,CMS Imaging Content,Entertainment
+F4017,Tech Ops and SI,Entertainment
+F4084,Music,Entertainment
+F4201,Music - DI,Entertainment
+F4202,Studio,Entertainment
+F4203,Music - UK,Entertainment
+F4289,Content Solutions -,Entertainment
+F4488,Music - DI IE,Entertainment
+F4042,LIC SALES - IND,Entertainment
+F4054,Middle East - Africa,Entertainment
+F4079,Lic Sales - APAC,Entertainment
+F4105,Middle East - Africa,Entertainment
+F4070,Engineering Supp–SPA,Entertainment
+F4470,Engineering - FRA,Entertainment
+F4516,Sales Engineering-UK,Entertainment
+F4518,Sales Engineering-GE,Entertainment
+F4519,Engineering - POL,Entertainment
+F4046,CP Licensing – RCIS,Entertainment
+F4048,CP Licensing – NL,Entertainment
+F4072,CP Lic - GER MGMT,Entertainment
+F4095,CP Licensing – NL,Entertainment
+F4483,CP Licensing - UK,Entertainment
+F4607,CP Licensing – FRN,Entertainment
+F4022,CP Broadcast – UK,Entertainment
+F4024,CP Broadcast- GER,Entertainment
+F4049,ContentRelations FRN,Entertainment
+F4056,CP Management SPA,Entertainment
+F4060,CP Broadcast - MGM,Entertainment
+F4086,CONTENT RELATIONS-GE,Entertainment
+F4116,Content Solutions -,Entertainment
+F4303,CP Broadcast – SPN,Entertainment
+F4482,CP Music - Germany,Entertainment
+F4522,CP Broadcast – FRN,Entertainment
+F4604,Commercial Partnersh,Entertainment
+F4102,CP Sales Ops- UK,Entertainment
+F4606,CP Sales Ops – GER,Entertainment
+F4016,RGNL SLS MGMT - JPN,Entertainment
+F4028,LIC SALES - JPN,Entertainment
+F4029,Apps & Solutions Eng,Entertainment
+F4040,LIC SALES - SNG,Entertainment
+F4136,Content Services - J,Entertainment
+F4608,Contents & Workflow,Entertainment
+F4009,INACTIVE PSS -Taiwan,Entertainment
+F4035,Content Engr GER,Entertainment
+F4052,DNUContent Engnr GER,Entertainment
+F4068,PSS Taiwan,Entertainment
+F4076,Imp Eng China,Entertainment
+F4080,Global Sales - DLLCP,Entertainment
+F4083,Cust Eng Svcs,Entertainment
+F4085,Content Engineer Bei,Entertainment
+F4087,PSS Poland,Entertainment
+F4090,APP ENG TEST - US,Entertainment
+F4091,APP ENG TEST - KOR,Entertainment
+F4092,IMPLEMENTATION - US,Entertainment
+F4093,PSS London,Entertainment
+F4124,Broadcast Services &,Entertainment
+F4128,PSS Japan,Entertainment
+F4129,Applic Eng Test - US,Entertainment
+F4134,IND CONTENT SVCS,Entertainment
+F4524,Impl Engr - SZN,Entertainment
+F4525,IMPL ENGR - SZN,Entertainment
+F4540,Cust Support,Entertainment
+F4541,Cust Eng Svcs-DLINC,Entertainment
+F4501,Deal Desk,Entertainment
+F4503,Deal Desk - Poland,Entertainment
+F4506,S&M LIC OPS - US,Entertainment
+F4854,Entertainment Mgmt,Entertainment
+F3029,INACTIVEcosystem-SYD,Entertainment
+F3245,Ecosystem - DLLC,Entertainment
+F3253,Ecosystem - NBG,Entertainment
+F5045,ENT Ops Mgmt,Entertainment
+F3210,Operations Solutions,Entertainment
+F3444,Operations Solutions,Entertainment
+F3243,Program Mgmt - GER,Entertainment
+F3244,Program Mgmt - POL,Entertainment
+F3275,Program Mgmt - Syd,Entertainment
+F4253,Program Mgmt - BEJ,Entertainment
+F4480,Program Mgmt - DLI,Entertainment
+F4481,Program Management -,Entertainment
+F3002,New Standards -DLLCP,Entertainment
+F3044,Standards,Entertainment
+F3071,Tech Comms - GER,Entertainment
+F3072,Tech Comms - WRO,Entertainment
+F3212,Tech Comms - SYD,Entertainment
+F3215,Tech Comms - US,Entertainment
+F3333,Tech Comms - BEJ,Entertainment
+F3334,Tech Comms - DLLCP,Entertainment
+F3018,Tech Ops - GER,Entertainment
+F3240,Tech Ops - US,Entertainment
+F3251,Tech Ops - WRO,Entertainment
+F3271,Tech Ops - BEJ,Entertainment
+F3272,Tech Ops - SYD,Entertainment
+F3255,UX - BEJ,Entertainment
+F3281,UX - DLI,Entertainment
+F4299,UX - SYD,Entertainment
+F4410,UX - US,Entertainment
+F4447,MMB - US,Entertainment
+F4455,MMB - BEJ,Entertainment
+F4421,MMB Product Mgmt,Entertainment
+F4262,Business Auto - NBG,Entertainment
+F4230,Product Content Crea,Entertainment
+F3095,Product Pro Sol -POL,Entertainment
+F4254,Product Pro Solution,Entertainment
+F4263,Product Pro Solution,Entertainment
+F4265,Product Pro Solution,Entertainment
+F4453,Product Pro Solution,Entertainment
+F4236,Product Gaming - TYO,Entertainment
+F4240,Product Gaming - US,Entertainment
+F4232,Product Business Man,Entertainment
+F4239,Product Audio Music,Entertainment
+F3250,Product Living Room,Entertainment
+F4250,Product Audio Living,Entertainment
+F4443,Product Living Room,Entertainment
+F4237,Product Mgmt - DLI,Entertainment
+F4247,Product Mgmt - DLLCP,Entertainment
+F4249,Product Mgmt - SWE,Entertainment
+F4257,Product Mgmt - WRO,Entertainment
+F4444,Product Mgmt - NBG,Entertainment
+F4233,Product  Mobile - DL,Entertainment
+F4266,Product  Mobile - BE,Entertainment
+F4279,Product  Mobile - KO,Entertainment
+F4288,Product  Mobile - DL,Entertainment
+F4601,Product Music & Serv,Entertainment
+F4246,Product Smart Home,Entertainment
+F4283,Product Smart Home &,Entertainment
+F4285,Product Smart Home &,Entertainment
+F4291,Product Smart Home &,Entertainment
+F3007,Technology Architect,Entertainment
+F3012,Technology Architect,Entertainment
+F3025,Technology Architect,Entertainment
+F3058,Technology Architect,Entertainment
+F3214,Technology Architect,Entertainment
+F3162,Entrtnment Img Eng,Entertainment
+F3037,Technology Device En,Entertainment
+F3098,CEG Imaging Device E,Entertainment
+F3287,Tech Device Eng-SUNV,Entertainment
+F3008,Technology Consumer,Entertainment
+F3011,Technology Consumer,Entertainment
+F3015,Technology Consumer,Entertainment
+F3062,Technology Consumer,Entertainment
+F3069,Technology Consumer,Entertainment
+F3257,DNU Technology Cnsmr,Entertainment
+F3260,Technology Mgmt,Entertainment
+F3027,TechnologyMobileSHZN,Entertainment
+F3028,Technology MobileBEJ,Entertainment
+F3068,TechnologyMobileSHZN,Entertainment
+F3278,Tech Mobile - Taiwan,Entertainment
+F3286,Tech Mobile - SHZN,Entertainment
+F3020,Technology NBG,Entertainment
+F3056,Technology WRO,Entertainment
+F3036,Technology - US,Entertainment
+F3038,Technology - BCN,Entertainment
+F3047,Technology SAE,Entertainment
+F3057,Technology - SF Mgmt,Entertainment
+F3099,SF PPS Tech,Entertainment
+F3246,Technology Dev US,Entertainment
+F3254,Technology QA - US,Entertainment
+F3014,Technology Consumer,Entertainment
+F3101,Developer Relations,Entertainment
+F3105,Game Dev-JP,Entertainment
+F4001,Dev Relations DLINC,Entertainment
+F4014,Game Dev-CH,Entertainment
+F4071,Industry Partnership,Entertainment
+F4244,I.P. & C.S. Mgmt.,Entertainment
+F4245,Industry Partnership,Entertainment
+F4256,BLANK - DO NOT USE,Entertainment
+F4032,Strategic Accts.-KOR,Entertainment
+F4187,Lic Sales - DLI,Entertainment
+F4188,Lic Sales - DLLC,Entertainment
+F4185,SP - Mgmt,Entertainment
+F4186,SP - Mktg,Entertainment
+F3094,Pro Solution,Entertainment
+F4030,Licensing Sales - TW,Entertainment
+F4031,Technology Supply Ch,Entertainment
+F4033,Technology Supply Ch,Entertainment
+F4037,Technology Supply Ch,Entertainment
+F4082,TSC DLINC,Entertainment
+F4110,TSC China,Entertainment
+F4174,TSC CHINA,Entertainment
+A4036,Allocation - F4036,nan
+A4046,ALLOC - F4046,nan
+A4108,ALLOC - F4108,nan
+A4130,ALLOC - F4130,nan
+A4132,Allocation - F4132,nan
+A4230,ALLOC - F4230,nan
+A4320,Allocation - F4320,nan
+C1111,RECLASS CC,nan
+C1112,RECLASS CC,nan
+C1113,RECLASS CC,nan
+F3164,RES IMG TECH-VANCOU,nan
+F3166,INACTIMAGING ADV-BER,nan
+F4039,Tech Sup Chain DLINC,nan
+F4096,VIA KOREA,nan
+F4275,CINEMA & HM THTR GEN,nan
+F4376,Sales Enablement - I,nan
+F4412,IMG & VIDEO SOLUT-UK,nan
+F4452,LIC PROD PLYBK - KOR,nan
+F4630,BUS STRAT - GER,nan
+F5272,Patent Licensing - U,nan
+F5273,Patent Licensing - G,nan
+F5420,BUS INFSTR PROG - US,nan
+C6032,Brisbane Sale,nan
+F4357,360 Marketing,Marketing
+F4384,Brand Marketing,Marketing
+F4385,Product Marketing,Marketing
+F4345,Dolby Cinema&Product,Marketing
+F4349,INACTIVE Movies,Marketing
+F4391,INACTIVE Cinema Prod,Marketing
+F4347,INACTVIE Create,Marketing
+F4343,INACTIVE Voice,Marketing
+F4620,Mobile,Marketing
+F4621,Cloud Media Solution,Marketing
+F4339,Dolby.io - Marketing,Marketing
+F4341,PC,Marketing
+F4342,Gaming,Marketing
+F4344,Automotive,Marketing
+F4353,Movies & TV,Marketing
+F4383,Music,Marketing
+F4390,Broadcast/Sports,Marketing
+F4396,CinemaCon,Marketing
+F4397,NAMM,Marketing
+F4367,Audio Content Produc,Marketing
+F4371,Content Experiences,Marketing
+F4364,Digital,Marketing
+F4377,Digital Infrastructu,Marketing
+F4370,Dolby Institute,Marketing
+F4368,Experiential Design,Marketing
+F4372,Visual Design,Marketing
+F4378,Visual Exp - Poland,Marketing
+F4380,Visual Exp - Beijing,Marketing
+F4381,Visual Exp - Mumbai,Marketing
+F4613,Visual Experiences -,Marketing
+F4617,App Design - Spain,Marketing
+F4359,Dolby Experiential,Marketing
+F4360,Tradeshows & Events,Marketing
+F4361,Sponsored Experience,Marketing
+F4369,1275 Cinema and Gall,Marketing
+F4382,Sponsored Exp - DG,Marketing
+F4395,AMPAS,Marketing
+F4398,Smithsonian,Marketing
+F4618,Tier 1 EMEA,Marketing
+F4619,CES,Marketing
+F4375,Consumer Insights,Marketing
+F4007,Social Retainer,Marketing
+F4212,Public Relations - U,Marketing
+F4365,Chief Mktg Office,Marketing
+F4399,Naming Rights,Marketing
+F4404,Paid Media Retainer,Marketing
+F4478,Marketing - Dublin,Marketing
+F4355,Mktg Planning & Ops,Marketing
+F4340,Dolby Live,Marketing
+F4392,Dolby Does That,Marketing
+F4322,Field Mrkting - BRL,Marketing
+F4219,Emerging PR - India,Marketing
+F4324,Field Mrkting - IND,Marketing
+F4325,Field Marketing - Du,Marketing
+F4327,Field Mrkt Dubai Equ,Marketing
+F4329,Reel DC,Marketing
+F4356,FIELD MRKTING-ME&AFR,Marketing
+F4215,Emerging PR - SGP,Marketing
+F4326,Field Mrkting - SG,Marketing
+F4214,PUBLIC REL - UK,Marketing
+F4302,Field Mrking-SPN,Marketing
+F4304,Field Mrkting-GER,Marketing
+F4306,INACTIVE Field Marke,Marketing
+F4307,FIELD MKTG - NL,Marketing
+F4310,PRD-PRT MKTG-EMEA-UK,Marketing
+F4311,INACTIVE CINEMA+CONT,Marketing
+F4313,France Field Mktg,Marketing
+F4315,Field Mktg - NTL DC,Marketing
+F4317,Field Mktg-France DC,Marketing
+F4319,Field Mktg - Aust DC,Marketing
+F4323,Field Mktg - SPN DC,Marketing
+F4330,Field Mktg - GERM DC,Marketing
+F4331,Dolby Cinema - UK,Marketing
+F4332,Dolby Cinema Russia,Marketing
+F4333,Fld Mktg - SWE,Marketing
+F4352,INACTIVE COMM BRNDG-,Marketing
+F4358,Field Mrkting-RUSSIA,Marketing
+F4366,INTACTV MKTG - UK,Marketing
+F4394,FIELD MKTG - NL,Marketing
+F4605,INACTIVEGlob Fld Mkt,Marketing
+F4217,China PR,Marketing
+F4314,Field Marketing - Ta,Marketing
+F4316,FIELD MARKETING - SH,Marketing
+F4318,Field Marketing - Sh,Marketing
+F4320,Field Marketing - Be,Marketing
+F4321,Dolby Cinema Beijing,Marketing
+F4335,FIELD MARKETING - SH,Marketing
+F4213,Japan PR,Marketing
+F4216,Inactive-FM-Japan PR,Marketing
+F4312,FIELD MRKTING - JAPA,Marketing
+F4354,INACTIVE-FM-JAPAN PR,Marketing
+F4211,Korea PR,Marketing
+F4220,Inactive FM-Korea PR,Marketing
+F4328,Field Mrkting-KOR,Marketing
+F4200,INACTMrkt Pro-Budget,Marketing
+F4210,INACTIVECorporate PR,Marketing
+F4218,INACTGlobalCommsMGMT,Marketing
+F4221,INACTIVInt'l PR MGMT,Marketing
+F4300,INACTIAMERICAS FIELD,Marketing
+F4301,INACTIAMERFLDMKT1000,Marketing
+F4346,INACTIVE - CEG Audio,Marketing
+F4348,INACTIVE CEG Atmos,Marketing
+F4350,INACTIVE Integrated,Marketing
+F4351,INACTIVEIntgdMkt1000,Marketing
+F4362,INACTIVE Brand Expcs,Marketing
+F4363,INACTIVE Experientia,Marketing
+F4373,INACTIVE App Mktg,Marketing
+F4374,INACTDgtlContentComm,Marketing
+F4379,INACTIVE DMCX Mgmt,Marketing
+F4615,INACTIVE Glbl Expcs,Marketing
+F4616,INACT Tier1 IntlEven,Marketing
+F4650,INACTIVES&M ADMIN-US,Marketing
+F4309,INACTIVEGeoMktg&Prog,Marketing
+F5354,College Rec - AUS,People & Places
+F5356,College Rec - US,People & Places
+F5360,SI & Sustainability,People & Places
+F5353,HR Internal Comms,People & Places
+F5301,People - PBP US,People & Places
+F5303,People - PBP UK,People & Places
+F5305,People - PBP GER,People & Places
+F5309,People - PBP BEJ,People & Places
+F5313,People - PBP AUS,People & Places
+F5339,People - PBP POL,People & Places
+F5351,Talent L&C – US,People & Places
+F5321,People - PWI US,People & Places
+F5323,People - PWI POL,People & Places
+A5300,ALLOC - F5300,People & Places
+F5320,HR - Rcrtng - US,People & Places
+F5322,HR - Rcrtng - UK,People & Places
+F5324,HR - Rcrtng - GER,People & Places
+F5326,HR - Rcrtng - SHG,People & Places
+F5328,HR - Rcrtng - BEJ,People & Places
+F5330,HR - Rcrtng - JPN,People & Places
+F5332,HR - Rcrtng - AUS,People & Places
+F5334,HR - Rcrtng - SGP,People & Places
+F5336,HR - Rcrtng - NTL,People & Places
+F5337,HR - RCRTNG - IE,People & Places
+F5340,HR -Rcrtng - IND,People & Places
+F5342,HR -Rcrtng - POL,People & Places
+F5344,HR -Rcrtng - KOR,People & Places
+F5346,HR -Rcrtng - SZN,People & Places
+F5358,HR - Rcrtng - TWN,People & Places
+F5359,HR -RCRTNG - SZN,People & Places
+F5300,HR - US,People & Places
+F5302,HR EMEA - UK,People & Places
+F5304,HR EMEA - GER,People & Places
+F5306,Human Resources - SH,People & Places
+F5308,Human Resources - BE,People & Places
+F5310,HR APAC - JPN,People & Places
+F5312,HR APAC - AUS,People & Places
+F5314,Human Resources - SG,People & Places
+F5316,Human Resources-NTL,People & Places
+F5317,HUMAN RESOURCES - IE,People & Places
+F5318,HR EMEA - FR,People & Places
+F5338,HR EMEA - POL,People & Places
+F5348,HR EMEA - SWE,People & Places
+F5350,HR EMEA - ESP,People & Places
+F5352,PPL&PL - Rewards -US,People & Places
+F5355,Human Resources -SZN,People & Places
+F5357,HUMAN RESOURCES -SZN,People & Places
+A5520,ALLOC - F5520,People & Places
+A5522,ALLOC - F5522,People & Places
+A5524,ALLOC - F5524,People & Places
+A5526,ALLOC - F5526,People & Places
+A5528,ALLOC - F5528,People & Places
+A5529,ALLOC - F5528,People & Places
+A5531,ALLOC - F5528,People & Places
+A5550,ALLOC - F5550,People & Places
+A5554,ALLOC - F5554,People & Places
+A5556,ALLOC - F5556,People & Places
+A5562,ALLOC - F5562,People & Places
+A5563,1275 Theatre Alloc,People & Places
+C5520,FACILITIES - G&A - A,People & Places
+C5522,Facilities - G&A - A,People & Places
+C5524,FACILITIES - G&A - A,People & Places
+C5525,FACILITIES - G&A - A,People & Places
+C5526,FACILITIES - G&A - D,People & Places
+C5560,FACILITIES - G&A - A,People & Places
+F5522,Facilities - G&A - 9,People & Places
+F5524,Facilities - G&A - B,People & Places
+F5526,Facilities - G&A - 4,People & Places
+F5528,BLDG GA Netherlands,People & Places
+F5529,BLDGS - G&A - NTL,People & Places
+F5531,BLDG GA Ireland,People & Places
+F5550,GA 130/140 Pot,People & Places
+F5554,BLDGS- G&A - WBB,People & Places
+F5556,BLDGS- LLC - WBB,People & Places
+F5558,INACTIVE Facilities,People & Places
+F5560,BLDG VIA SF,People & Places
+F5562,BLDG GA 1275 Market,People & Places
+F5563,BLDG GA 1275 Theatre,People & Places
+F5564,BLDG GA Valbonne 19,People & Places
+F5565,BLDG GA Dolby LA,People & Places
+F5567,VIA - Maryland,People & Places
+F5568,Greenwood Village,People & Places
+A3800,ALLOC - C3800,People & Places
+C3800,FACILITIES - R&D - A,People & Places
+C3816,BLDGS - R&D - BEJ,People & Places
+C3820,Facilities - R&D - A,People & Places
+F3802,Buildings - R&D - SA,People & Places
+F3804,BLDG RD Sunnyvale,People & Places
+F3806,BLDG RD Nuremberg,People & Places
+F3807,BLDG RD Berlin,People & Places
+F3808,BLDGS - R&D - BRLN,People & Places
+F3809,NRMBERG 2,People & Places
+F3810,BLDG RD Sweden,People & Places
+F3812,BLDG RD Australia,People & Places
+F3814,INACTIVE Buildings -,People & Places
+F3818,BLDG RD Indiana,People & Places
+F3820,BLDG RD Bensalem,People & Places
+F3822,BLDG RD Burbank 2,People & Places
+F3824,BLDG RD Poland,People & Places
+F3826,BLDG RD Valbonne 24,People & Places
+F3828,BLDG RD Burbank 3,People & Places
+F3830,BLDG RD Bordeaux,People & Places
+F3832,BLDG RD Denver,People & Places
+F4849,BLDG RD Barcelona,People & Places
+F5552,Inactive-Buildings -,People & Places
+A4800,ALLOC - C4800,People & Places
+A4802,ALLOC - C4802,People & Places
+A4814,ALLOC - F4814,People & Places
+A4842,ALLOC - F4842,People & Places
+A4844,ALLOC - F4844,People & Places
+C4800,FACILITIES - S&M - A,People & Places
+C4802,FACILITIES - S&M - A,People & Places
+C4804,Facilities - S&M - A,People & Places
+C4845,BLDGS-S&M - IE,People & Places
+C4846,BLDGS-S&M - NTL,People & Places
+C4847,BLDGS-S&M - NTL,People & Places
+F4802,BLDG SM 100 Potrer,People & Places
+F4804,BLDG SM Burbank1,People & Places
+F4806,BLDGS-S&M - BURLC,People & Places
+F4808,BLDG SM New York,People & Places
+F4810,BLDG SM London Soho,People & Places
+F4812,BLDG SM Paris Demo,People & Places
+F4813,BLDG SM Paris Wojo,People & Places
+F4814,BLDG SM Beijing,People & Places
+F4816,BLDG SM Hong Kong,People & Places
+F4818,BLDG VIA Hong Kong,People & Places
+F4820,BLDG SM Shanghai,People & Places
+F4822,INACT SM Shenzen,People & Places
+F4824,BLDGS-S&M - WGQ,People & Places
+F4826,BLDG SM Taiwan,People & Places
+F4828,BLDG SM Korea,People & Places
+F4830,BLDG SM Singapore,People & Places
+F4832,BLDG SM Japan,People & Places
+F4834,BLDG VIA Japan,People & Places
+F4836,BLDG SM India,People & Places
+F4838,BLDG SM Brazil,People & Places
+F4840,BLDG SM Russia,People & Places
+F4842,BLDG SM WBA,People & Places
+F4844,BLDGS- LLC - WBA,People & Places
+F4846,BLDG SM Munich,People & Places
+F4847,BLDG SM Madrid,People & Places
+F4848,BLDGS-S&M - DUB,People & Places
+F4851,BLDG SM Dubai,People & Places
+F4852,BLDG SM Vine Theatre,People & Places
+F4853,BLDG SM Shenzen,People & Places
+F5513,GWS - Atlanta WeWork,People & Places
+F5500,Places USA,People & Places
+F5502,Global Workspace Sol,People & Places
+F5503,Places Ireland,People & Places
+F5504,Places Netherlands,People & Places
+F5506,Places UK,People & Places
+F5508,Places Germany,People & Places
+F5509,GWS Nuremberg,People & Places
+F5510,Places Sweden,People & Places
+F5511,Places Poland,People & Places
+F5512,Places Singapore,People & Places
+F5514,Places Beijing,People & Places
+F5516,Places Australia,People & Places
+F5518,Places GSOC,People & Places
+F5519,INACT Places Shenz,People & Places
+F5520,Lab Mgmt USA,People & Places
+F5521,LAab Mgmt Poland,People & Places
+F5523,Lab Mgmt Australia,People & Places
+F5530,Places Shenzen,People & Places
+C6000,RESTRCTR - US,nan
+C6001,RESTRCTR - VIA,nan
+C6002,RESTRCTR - SHG,nan
+C6004,RESTRCTR - IBR,nan
+C6005,RESTRCTR - RUS,nan
+C6006,RESTRCTR - JPN,nan
+C6008,RESTRCTR - GER,nan
+C6010,RESTRCTR - UK,nan
+C6012,RESTRCTR - NTL,nan
+C6013,RESTRCTR - POL,nan
+C6014,RESTRCTR - DLNVS,nan
+C6016,RESTRCTR - SZN,nan
+C6017,Restructuring - Voxt,nan
+C6018,RESTRCTR - BJN,nan
+C6019,Restructuring - Fran,nan
+C6020,RESTRCTR - TWN,nan
+C6022,RESTRCTR - SNG,nan
+C6024,RESTRCTR - HKG,nan
+C6026,RESTRCTR - AUS,nan
+C6028,RESTRCTR - DLLC,nan
+C6030,RESTRCTR - India,nan
+C6031,RESTRCTR - SZN,nan
+F4763,IPP&E - GLOBAL,Legal
+F4781,IPP&E - Shanghai,Legal
+F4752,IPP&E - HKG,Legal
+F4754,IPP&E- TWN,Legal
+F4755,IPP&E- TWN EXPAT,Legal
+F4756,IPP&E- KOR,Legal
+F4758,IPP&E- JPN,Legal
+F4760,IP PROTECTION - SNG,Legal
+F4751,IPP&E- US,Legal
+F4762,IPP&E- UK,Legal
+F4556,IPP Security - India,Legal
+F4750,IP Protection – US,Legal
+F4764,INACTIVE- COMP - BEJ,Legal
+F4765,INACTIVE - IPP - SHZ,Legal
+F4766,IPP - Operations,Legal
+F4769,INACTIVE IPP - Engin,Legal
+F4770,IPP - Data Strategy,Legal
+F4771,IPP - Engineering,Legal
+F4772,IPP-Security- Poland,Legal
+F4773,IPP - Security - US,Legal
+F4768,INACTIVE IPP - Data,Legal
+F5262,LCP - GLOBAL,Legal
+F5242,LCP-HONG KONG,Legal
+F5244,LCP-SHENZHEN,Legal
+F5245,LCP-SHENZHEN,Legal
+F5246,LCP - SHANGHAI,Legal
+F5248,LCP - TWN,Legal
+F5260,LCP - KOR,Legal
+F5266,LCP-BEIJING,Legal
+F5267,LCP-JPN,Legal
+F5254,LCP - US,Legal
+F5252,LCP - UK,Legal
+F5253,LCP – DI,Legal
+F5264,LCP - GER,Legal
+F5268,LCP - FR,Legal
+F4767,IPP - Litigation,Legal
+F5202,Global Disputes,Legal
+F5200,CORP LEGAL - US,Legal
+F5201,Compliance & Emplmt,Legal
+F5240,Govt Relations-US,Legal
+F5241,GR - CHN,Legal
+F5250,LEGAL ADMIN,Legal
+F5251,Legal Ops,Legal
+F3234,LICENSING - APAC,Legal
+F3235,LICENSING - KOREA,Legal
+F5230,LICENSING - US,Legal
+F5232,LICENSING - SNGPR,Legal
+F5234,LICENSING-EMEA,Legal
+F5236,Licensing - Taiwan,Legal
+F4780,DI Patent Pool Exp,Legal
+F4782,Shenzhen PL,Legal
+F5270,PATENT LIC BILAT- US,Legal
+F5271,PATENT LIC - GER,Legal
+F5274,New Delhi PL,Legal
+F5275,Shenzhen PL,Legal
+F5278,Beijing PL,Legal
+F5279,PL Pool Expenses,Legal
+F5281,DI Patent Pool Exp,Legal
+F5282,INACTIVEHong Kong PL,Legal
+F5284,UK PL,Legal
+F5276,Stockholm Patents,Legal
+F5277,Patent Stds - US,Legal
+F5280,Australia Patents,Legal
+F5283,Pat Stds Germany,Legal
+F5285,Pat Stds France,Legal
+F5286,Patent Stds - France,Legal
+F5566,Comm Prtnrs & Stndrd,Legal
+F4790,Pat Eval Costs - DI,Legal
+F5210,PATENTS - US,Legal
+F5211,Patent Acquisitions,Legal
+F5212,PATENTS - NTL,Legal
+F5213,PATENTS - IE,Legal
+F5214,PATENTS - GER,Legal
+F5216,PATENTS - SWE,Legal
+F5218,PATENTS - CAN,Legal
+F5220,PATENTS - NTL,Legal
+F5221,Pat Eval Costs-DI,Legal
+F5222,Pat Eval Costs-DLINC,Legal
+F5223,InactivePATENTS - IE,Legal
+C1500,Via DVB-OCAP,Legal
+C1501,Via MPEG-2,Legal
+C1502,Via MPEG-4,Legal
+C1503,Via DRM,Legal
+C1504,Via 802.11,Legal
+C1508,Via DVB-MHP,Legal
+C1509,Via Agora C,Legal
+C1510,Via MPEG Surround,Legal
+C1511,Via SLS,Legal
+C1512,Via Unified AAC,Legal
+C1516,Via USAC,Legal
+C1517,Via EVS,Legal
+C1518,Via MEPG H 3D,Legal
+C1519,W-CDMA (3G),Legal
+C1520,Via 5G,Legal
+C1523,Via MPEG-2,Legal
+C1524,Via ATSC,Legal
+C1525,Via AVC,Legal
+C1526,Via MPEG-4 V,Legal
+C1527,Via VC-1,Legal
+C1528,Via 1394,Legal
+C1529,Via MPEG-2 S**,Legal
+C1530,Via MVC,Legal
+C1531,Via HEVC,Legal
+C1532,Via DisplayPort,Legal
+C1533,Via DASH,Legal
+C1534,Via EV Charging,Legal
+C1535,Via Qi Wireless,Legal
+C1536,Cash-Voice Codec,Legal
+C1537,Cash-ATSC 3.0,Legal
+C1538,Cash-EVS,Legal
+C1539,Cash-VVC,Legal
+C5110,Via MPEG-H 3D,Legal
+F1003,Licensing Other,Legal
+F1500,Via DVB-OCAP,Legal
+F1501,Via MPEG-2,Legal
+F1502,Via MPEG-4,Legal
+F1503,Via DRM,Legal
+F1504,Via 802.11,Legal
+F1508,Via DVB-MHP,Legal
+F1509,Via Agora C,Legal
+F1510,Via MPEG Surround,Legal
+F1511,Via SLS,Legal
+F1512,Via Unified AAC,Legal
+F1513,Via LTE,Legal
+F1516,Via USAC,Legal
+F1517,Via EVS,Legal
+F1518,Via MEPG H 3D,Legal
+F1519,W-CDMA (3G),Legal
+F1520,Via MG,Legal
+F1522,VIA Wireless,Legal
+F1523,Via MPEG-2,Legal
+F1524,Via ATSC,Legal
+F1525,Via AVC,Legal
+F1526,Via MPEG-4 V,Legal
+F1527,Via VC-1,Legal
+F1528,Via 1394,Legal
+F1529,Via MPEG-2 S**,Legal
+F1530,Via MVC,Legal
+F1531,Via HEVC,Legal
+F1532,Via DisplayPort,Legal
+F1533,Via DASH,Legal
+F1534,Via EV Charging,Legal
+F1535,Via Qi Wireless,Legal
+F1536,Cash-Voice Codec,Legal
+F1537,Cash-ATSC 3.0,Legal
+F1538,Cash-EVS,Legal
+F1539,Cash-VVC,Legal
+F1600,Wireless Innovations,Legal
+F3512,Via Unified AAC,Legal
+F3513,Via LTE,Legal
+F3519,W-CDMA (3G),Legal
+F3520,MG,Legal
+F5440,VIA LICENSING - US,Legal
+F5442,VIA Accounting - US,Legal
+F5444,VIA IT - US,Legal
+F5445,Wireless Innovations,Legal
+F5446,VIA LEGAL - US,Legal
+F5448,Wireless Innovation,Legal
+F5449,Via Legal Ops - US,Legal
+F5450,Via Corp Development,Legal
+F5451,Via FP&A,Legal
+F5600,Licensing Other,Legal
+F5601,Wireless Innovations,Legal
+F5602,Via Unified AAC,Legal
+F5603,Via LTE,Legal
+F5604,W-CDMA (3G),Legal
+F5605,MG,Legal
+F5606,VIA 5G,Legal
+F5607,Via Compliance - US,Legal
+F5608,VIA Wireless,Legal
+F5609,Via Accounting - WC,Legal
+F5610,Via Legal - WC,Legal
+F5611,Via Legal Ops - WC,Legal
+F5612,Via HR - WC,Legal
+F5613,Via Bus Dev - WC,Legal
+F5614,Via Finance - WC,Legal
+F5615,Via Bus Ops - WC,Legal
+F5616,Via IT - WC,Legal
+F5617,Via Compliance - WC,Legal
+F5618,Cost Collector - WC,Legal
+F4700,Via Audio Programs,Legal
+F4701,VIA EMEA UK,Legal
+F4702,Via Bus Op & Marktin,Legal
+F4703,Via GLAS-SHANGHAI RO,Legal
+F4704,Via GLAS - HKG,Legal
+F4705,Via GLAS-SHANGHAI RO,Legal
+F4706,Via GLAS - JPN,Legal
+F4708,VIA S&M - KOR,Legal
+F4709,Via Wireless - US,Legal
+F4710,Via Wireless - UK,Legal
+F4711,Via Lic Strat - US,Legal
+F4712,Via Lic Strat - HK,Legal
+F4713,Via GLAS - CHINA,Legal
+F4714,Via France,Legal
+F4715,Via Shanghai RO,Legal
+F4717,Via MPEG-H,Legal
+F4718,Via GLAS - WC,Legal
+F4719,Via Prgrm Mgmt - WC,Legal
+F4720,Via Japan - WC,Legal
+#,1000/Not assigned,nan
+2400,1000/2400,nan
+3012,Do Not Use,nan
+4214,Do Not Use,nan
+4302,Do Not Use,nan
+4304,Do Not Use,nan
+4306,Do Not Use,nan
+4351,1000/4351,nan
+4352,1000/4352,nan
+5528,Do Not Use,nan
+641020,1000/641020,nan
+C1272,Do Not Use,nan
+ C4884,Do Not Use,nan
+C5158,1000/C5158,nan
+F1010,1000/F1010,nan
+F4,1000/F4,nan
+ F4350,1000/ F4350,nan
+F4433,1000/F4433,nan
+F4531,1000/F4531,nan
+F9999,1000/F9999,nan
+N4299,1000/N4299,nan
+NOCOSTCENT,1000/NOCOSTCENT,nan
+P2003,1000/P2003,nan
+T3806,1000/T3806,nan
